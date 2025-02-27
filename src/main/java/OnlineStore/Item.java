@@ -3,12 +3,11 @@ package OnlineStore;
 import java.util.Objects;
 
 import jakarta.persistence.Entity;
-import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.Id;
 
 
 @Entity
-class CartItem {
+class Item {
 
   private @Id
   Long id;
@@ -16,9 +15,9 @@ class CartItem {
   private double price;
   private int storage;
 
-  CartItem(){}
+  Item(){}
 
-  CartItem(Long id, String name, double price, int storage) {
+  Item(Long id, String name, double price, int storage) {
     this.id =id;
     this.name = name;
     this.price = price;
@@ -29,9 +28,9 @@ class CartItem {
   public boolean equals(Object o) {
     if (this == o)
       return true;
-    if (!(o instanceof CartItem))
+    if (!(o instanceof Item))
       return false;
-    CartItem other = (CartItem) o;
+    Item other = (Item) o;
     return this.id.equals(other.id) && this.name.equals(other.name)
         && this.price==other.price && this.storage==other.storage;
   }

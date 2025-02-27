@@ -11,38 +11,38 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-class EmployeeController {
+class ItemController {
 
-  private final CartRepository repository;
+  private final ItemRepository repository;
 
-  EmployeeController(CartRepository repository) {
+  ItemController(ItemRepository repository) {
     this.repository = repository;
   }
 
   // Aggregate root
   // tag::get-aggregate-root[]
-  @GetMapping("/cart")
-  List<CartItem> all() {
+  @GetMapping("/item")
+  List<Item> all() {
     return repository.findAll();
   }
   // end::get-aggregate-root[]
 
-  @PostMapping("/cart")
-  CartItem newItem(@RequestBody CartItem newItem) {
+  @PostMapping("/item")
+  Item newItem(@RequestBody Item newItem) {
     return repository.save(newItem);
   }
 
   // Single item
 
-  @GetMapping("/cart/{id}")
-  CartItem one(@PathVariable Long id) {
+  @GetMapping("/item/{id}")
+  Item one(@PathVariable Long id) {
 
     return repository.findById(id)
-        .orElseThrow(() -> new CartNotFoundException(id));
+        .orElseThrow(() -> new ItemNotFoundException(id));
   }
 
-  @PutMapping("/cart/{id}")
-  CartItem replaceEmployee(@RequestBody CartItem newItem, @PathVariable Long id) {
+  @PutMapping("/item/{id}")
+  Item replaceEmployee(@RequestBody Item newItem, @PathVariable Long id) {
 
     return repository.findById(id)
         .map(item -> {
@@ -57,7 +57,7 @@ class EmployeeController {
         });
   }
 
-  @DeleteMapping("/cart/{id}")
+  @DeleteMapping("/item/{id}")
   void deleteEmployee(@PathVariable Long id) {
     repository.deleteById(id);
   }
