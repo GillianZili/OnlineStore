@@ -42,7 +42,7 @@ class Item {
 
   @Override
   public String toString() {
-    return "CartItem{" + "id=" + this.id + ", name='" + this.name + '\'' + ", price=" + this.price + '\'' + this.storage + '\''+'}';
+    return "Item{" + "id=" + this.id + ", name='" + this.name + '\'' + ", price=" + this.price + '\'' + this.storage + '\''+'}';
   }
 
   public Long getId() {

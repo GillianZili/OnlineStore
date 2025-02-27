@@ -42,7 +42,7 @@ class ItemController {
   }
 
   @PutMapping("/item/{id}")
-  Item replaceEmployee(@RequestBody Item newItem, @PathVariable Long id) {
+  Item replaceItem(@RequestBody Item newItem, @PathVariable Long id) {
 
     return repository.findById(id)
         .map(item -> {
@@ -58,7 +58,7 @@ class ItemController {
   }
 
   @DeleteMapping("/item/{id}")
-  void deleteEmployee(@PathVariable Long id) {
+  void deleteItem(@PathVariable Long id) {
     repository.deleteById(id);
   }
 }
