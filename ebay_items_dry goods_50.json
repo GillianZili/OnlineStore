@@ -1,0 +1,4729 @@
+{
+  "href": "https://api.ebay.com/buy/browse/v1/item_summary/search?q=dry+goods&limit=50&offset=0",
+  "total": 18450,
+  "next": "https://api.ebay.com/buy/browse/v1/item_summary/search?q=dry+goods&limit=50&offset=50",
+  "limit": 50,
+  "offset": 0,
+  "itemSummaries": [
+    {
+      "itemId": "v1|365527618114|0",
+      "title": "Holdrege Nebraska Bank Opera House Dry Goods Finks Pharmacy Vintage Postcard",
+      "leafCategoryIds": [
+        "262042"
+      ],
+      "categories": [
+        {
+          "categoryId": "262042",
+          "categoryName": "Topographical Postcards"
+        },
+        {
+          "categoryId": "1",
+          "categoryName": "Collectibles"
+        },
+        {
+          "categoryId": "914",
+          "categoryName": "Postcards & Supplies"
+        },
+        {
+          "categoryId": "262041",
+          "categoryName": "Postcards"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/JrIAAOSw-QJmkcjf/s-l225.jpg"
+      },
+      "price": {
+        "value": "15.00",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C365527618114%7C0",
+      "seller": {
+        "username": "groovypostcards",
+        "feedbackPercentage": "99.7",
+        "feedbackScore": 1628
+      },
+      "condition": "Used",
+      "conditionId": "3000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/JrIAAOSw-QJmkcjf/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.89",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "BEST_OFFER"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/365527618114?_skw=dry+goods&hash=item551b24d242:g:JrIAAOSw-QJmkcjf&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UaBoscuynuLfJN90fsUfYlynEP2uWQc50%2Fx1dfB5QPPKec1758L3jtMq%2BLSK%2BQ41HwJLikkEUFR%2BQhXOrmaSn8nqmZx%2BgBoClTvilCdsEIGTI2uRl5Q7ZX8TSQINokFb3DaTsFyhEnnYZmg5trTiw%2BY3fYyhu7zm3b2fwQ7fWI4GIZKDBcOaIXbiklP43rhrdIMR3m60XLcid77EzjjodD23u2SjszpnOgb57yho90V1U0xotYr3XSW1ZfstY2RZ%2B0NM8l6qusSFA72vRby%2F4Jm",
+      "itemLocation": {
+        "postalCode": "923**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/nycAAOSwDwlmkckC/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/0ioAAOSwylRmkcjf/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "365527618114",
+      "availableCoupons": false,
+      "itemCreationDate": "2025-04-11T21:53:51.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": true,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|335842302477|0",
+      "title": "Real Photo Postcard Interior Dry Goods Textile Store in/near Lanesboro Minnesota",
+      "leafCategoryIds": [
+        "262042"
+      ],
+      "categories": [
+        {
+          "categoryId": "262042",
+          "categoryName": "Topographical Postcards"
+        },
+        {
+          "categoryId": "1",
+          "categoryName": "Collectibles"
+        },
+        {
+          "categoryId": "914",
+          "categoryName": "Postcards & Supplies"
+        },
+        {
+          "categoryId": "262041",
+          "categoryName": "Postcards"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/qPoAAOSwySBmjYWQ/s-l225.jpg"
+      },
+      "price": {
+        "value": "40.00",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C335842302477%7C0",
+      "seller": {
+        "username": "thepapergallery2",
+        "feedbackPercentage": "100.0",
+        "feedbackScore": 62364
+      },
+      "condition": "Used",
+      "conditionId": "3000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/qPoAAOSwySBmjYWQ/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "BEST_OFFER"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/335842302477?_skw=dry+goods&hash=item4e31c2da0d:g:qPoAAOSwySBmjYWQ&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UYKi2CJ8BR%2FryYCiUETRhwiUDN7IBfYj2VGGGqEuy6S3PBqHK%2FZR9Osb6wY2gAr7OHqixMrsrtspBqPLyCxTvLJFn9fGnGEABX7CgTWBr%2FKAuL2tAQzChUhtPl8WP3sVdU7buY1JTaq69Bk0z1ArKAkPZca2iBVqlvlR%2F%2Bi3ahw0F43LIjw0M4HAQ%2BwZjkL%2Bk2kn0yfxQdcGeeGp4imYLjhLQOOrcUahGbZ6ypdKcLHAnxCvTqtuTwclRA%2F0c1xW1VHIGYy%2Bg0%2FlUawToLQNvp1",
+      "itemLocation": {
+        "postalCode": "919**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/1EEAAOSwQ99mjYWQ/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "335842302477",
+      "availableCoupons": false,
+      "itemCreationDate": "2025-03-03T15:36:55.000Z",
+      "topRatedBuyingExperience": true,
+      "priorityListing": true,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|276516494578|0",
+      "title": "Davenport Iowa IA Postcard RPPC Photo Second St. Looking West Steffen Dry Goods",
+      "leafCategoryIds": [
+        "262042"
+      ],
+      "categories": [
+        {
+          "categoryId": "262042",
+          "categoryName": "Topographical Postcards"
+        },
+        {
+          "categoryId": "1",
+          "categoryName": "Collectibles"
+        },
+        {
+          "categoryId": "914",
+          "categoryName": "Postcards & Supplies"
+        },
+        {
+          "categoryId": "262041",
+          "categoryName": "Postcards"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/3jgAAOSwAilmYDeZ/s-l225.jpg"
+      },
+      "price": {
+        "value": "27.97",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C276516494578%7C0",
+      "seller": {
+        "username": "eternal_loot",
+        "feedbackPercentage": "100.0",
+        "feedbackScore": 24996
+      },
+      "marketingPrice": {
+        "originalPrice": {
+          "value": "39.95",
+          "currency": "USD"
+        },
+        "discountPercentage": "30",
+        "discountAmount": {
+          "value": "11.98",
+          "currency": "USD"
+        },
+        "priceTreatment": "MARKDOWN"
+      },
+      "condition": "Used",
+      "conditionId": "3000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/3jgAAOSwAilmYDeZ/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "1.95",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "BEST_OFFER"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/276516494578?_skw=dry+goods&hash=item4061aadcf2:g:3jgAAOSwAilmYDeZ&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UZSA%2BRIdeTftOH%2BquW6klzKbNOJDG%2BIVg8JHCzJRcTOTlXxTbQseXbam2N9fhNcxQHtNe7CeK3kzJW%2F9zWi4MtT3xJm0BA93AlNxOx2Fr3154a2oBXeM2NNjT2yF86F1GTNXmuQhDNZxTt%2BrkRXOxLHXd5MXeehOs%2Fr%2B3fFsMLmIDYws72oE%2BgMKT4LZZB4ZkfZHaq%2BU4JzDnBXKw4EaPba7jKr4AmVZTJrDmGKNFGZISRAi09WZEQPVLQXPNzZ0H6cjYjDAhei2hR5KUG0bJTY",
+      "itemLocation": {
+        "postalCode": "478**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/jI8AAOSwPvlmYDeZ/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "276516494578",
+      "availableCoupons": false,
+      "itemCreationDate": "2024-06-20T00:03:41.000Z",
+      "topRatedBuyingExperience": true,
+      "priorityListing": true,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|316019771686|0",
+      "title": "Early 1900s Antique View North Main Street Germantown OH Henry Russo Dry Goods",
+      "leafCategoryIds": [
+        "262042"
+      ],
+      "categories": [
+        {
+          "categoryId": "262042",
+          "categoryName": "Topographical Postcards"
+        },
+        {
+          "categoryId": "1",
+          "categoryName": "Collectibles"
+        },
+        {
+          "categoryId": "914",
+          "categoryName": "Postcards & Supplies"
+        },
+        {
+          "categoryId": "262041",
+          "categoryName": "Postcards"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/Sj4AAOSwJR1mISY0/s-l225.jpg"
+      },
+      "price": {
+        "value": "32.99",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C316019771686%7C0",
+      "seller": {
+        "username": "psalm465",
+        "feedbackPercentage": "100.0",
+        "feedbackScore": 108
+      },
+      "condition": "Used",
+      "conditionId": "3000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/Sj4AAOSwJR1mISY0/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "5.58",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/316019771686?_skw=dry+goods&hash=item49943f0926:g:Sj4AAOSwJR1mISY0&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UZGjnKzwBMocClcMsanUZarRBQTaaNFJuerW2ORYor8jfvD5pzKl8jR09qHi7i19as%2FoN7LvQvP78MaMMxYqO62h7g29VSwrNaYS1EhkyE6Y3jobT8XmQ8p6ltsYV8CzjgsUef%2Bu3seo8VvZcDr33RezxWxCG0M3%2BSUuUnR6ba3CWFJcJveTkFUU0tgLqH7C%2FfuNAQ5wjVvpOj4Uz1vhXM0cBoMbaxMPf%2BL9AednLVie0IAEQkDxtQUP6clhZ8IOqlgbZSmyFV4%2B1ZCRTue1dbH",
+      "itemLocation": {
+        "postalCode": "641**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/h5gAAOSwL3pmISYz/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "316019771686",
+      "availableCoupons": false,
+      "itemCreationDate": "2024-12-02T11:13:22.000Z",
+      "topRatedBuyingExperience": true,
+      "priorityListing": true,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|177003873885|0",
+      "title": "DRY GOODS - Athletic Spray Powder 5.4oz - Original",
+      "leafCategoryIds": [
+        "29580"
+      ],
+      "categories": [
+        {
+          "categoryId": "29580",
+          "categoryName": "Deodorants & Antiperspirants"
+        },
+        {
+          "categoryId": "11838",
+          "categoryName": "Bath & Body"
+        },
+        {
+          "categoryId": "26395",
+          "categoryName": "Health & Beauty"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/QEQAAOSwE8Jn-qf1/s-l225.jpg"
+      },
+      "price": {
+        "value": "21.00",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C177003873885%7C0",
+      "seller": {
+        "username": "healthbeautyx",
+        "feedbackPercentage": "98.4",
+        "feedbackScore": 3313
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/QEQAAOSwE8Jn-qf1/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "epid": "1600193500",
+      "itemWebUrl": "https://www.ebay.com/itm/177003873885?_skw=dry+goods&hash=item293640c65d:g:QEQAAOSwE8Jn-qf1",
+      "itemLocation": {
+        "postalCode": "021**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/A30AAOSw0zxn-qf1/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "177003873885",
+      "availableCoupons": false,
+      "itemCreationDate": "2025-04-12T18:01:27.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|316547940415|0",
+      "title": "DENIM  SUPPLIES DRY GOODS HAT, GREEN cap adjustable.",
+      "leafCategoryIds": [
+        "52365"
+      ],
+      "categories": [
+        {
+          "categoryId": "52365",
+          "categoryName": "Hats"
+        },
+        {
+          "categoryId": "4250",
+          "categoryName": "Men's Accessories"
+        },
+        {
+          "categoryId": "11450",
+          "categoryName": "Clothing, Shoes & Accessories"
+        },
+        {
+          "categoryId": "260012",
+          "categoryName": "Men"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/gjwAAOSwypRnWLKf/s-l225.jpg"
+      },
+      "price": {
+        "value": "3.95",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C316547940415%7C0",
+      "seller": {
+        "username": "robroytoys",
+        "feedbackPercentage": "99.5",
+        "feedbackScore": 11941
+      },
+      "condition": "New with tags",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/gjwAAOSwypRnWLKf/s-l1200.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "4.95",
+            "currency": "USD"
+          },
+          "minEstimatedDeliveryDate": "2025-04-15T07:00:00.000Z",
+          "maxEstimatedDeliveryDate": "2025-04-17T07:00:00.000Z"
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/316547940415?_skw=dry+goods&hash=item49b3ba403f:g:gjwAAOSwypRnWLKf",
+      "itemLocation": {
+        "postalCode": "486**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/0kAAAOSw8o9nWLKq/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/WHcAAOSwYhRnWLIK/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/mrgAAOSwGZpnWLIK/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/Fq4AAOSwrtBnWLIi/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "316547940415",
+      "availableCoupons": false,
+      "itemCreationDate": "2025-03-25T13:21:50.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|187094249562|0",
+      "title": "Vintage Mens Denim Shirt Size 3XL Button Up Blue Eagle Dry Goods Short Sleeve",
+      "leafCategoryIds": [
+        "57990"
+      ],
+      "categories": [
+        {
+          "categoryId": "57990",
+          "categoryName": "Casual Button-Down Shirts"
+        },
+        {
+          "categoryId": "1059",
+          "categoryName": "Men's Clothing"
+        },
+        {
+          "categoryId": "11450",
+          "categoryName": "Clothing, Shoes & Accessories"
+        },
+        {
+          "categoryId": "185100",
+          "categoryName": "Shirts"
+        },
+        {
+          "categoryId": "260012",
+          "categoryName": "Men"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/qPwAAOSwguZn6S3g/s-l225.jpg"
+      },
+      "price": {
+        "value": "24.88",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C187094249562%7C0",
+      "seller": {
+        "username": "cardinalhollow",
+        "feedbackPercentage": "99.9",
+        "feedbackScore": 7777
+      },
+      "condition": "Pre-owned - Excellent",
+      "conditionId": "2990",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/qPwAAOSwguZn6S3g/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "7.94",
+            "currency": "USD"
+          },
+          "minEstimatedDeliveryDate": "2025-04-15T07:00:00.000Z",
+          "maxEstimatedDeliveryDate": "2025-04-17T07:00:00.000Z"
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "BEST_OFFER"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/187094249562?_skw=dry+goods&hash=item2b8fafb05a:g:qPwAAOSwguZn6S3g",
+      "itemLocation": {
+        "postalCode": "724**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/h4MAAOSw-INn6S3h/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/l4kAAOSwjsJn6S3h/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/JMIAAOSwa7xn6S3h/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/L-cAAOSwxFln6S3g/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/lR4AAOSwEKVn6S3g/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "187094249562",
+      "availableCoupons": false,
+      "itemCreationDate": "2025-03-30T19:09:00.000Z",
+      "topRatedBuyingExperience": true,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|356770323670|0",
+      "title": "Flag&Anthem Dry Goods Supply Tan Men's Shorts Size 32",
+      "leafCategoryIds": [
+        "15689"
+      ],
+      "categories": [
+        {
+          "categoryId": "15689",
+          "categoryName": "Shorts"
+        },
+        {
+          "categoryId": "1059",
+          "categoryName": "Men's Clothing"
+        },
+        {
+          "categoryId": "11450",
+          "categoryName": "Clothing, Shoes & Accessories"
+        },
+        {
+          "categoryId": "260012",
+          "categoryName": "Men"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/gnQAAOSwuWln-qgz/s-l225.jpg"
+      },
+      "price": {
+        "value": "9.99",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C356770323670%7C0",
+      "seller": {
+        "username": "jjlenterprise",
+        "feedbackPercentage": "100.0",
+        "feedbackScore": 11
+      },
+      "condition": "Pre-owned - Excellent",
+      "conditionId": "2990",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/gnQAAOSwuWln-qgz/s-l1200.jpg"
+        }
+      ],
+      "pickupOptions": [
+        {
+          "pickupLocationType": "ARRANGED_LOCATION"
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/356770323670?_skw=dry+goods&hash=item53112b1cd6:g:gnQAAOSwuWln-qgz",
+      "itemLocation": {
+        "postalCode": "532**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/te0AAOSwdkFn-qg-/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/ULQAAOSwiw5n-qhI/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "356770323670",
+      "availableCoupons": false,
+      "itemCreationDate": "2025-04-12T17:57:12.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|176842245555|0",
+      "title": "POLO COUNTRY RALPH LAUREN DRY GOODS SPLATTER CUTTOFF SWEATSHIRT BLUE MENS MEDIUM",
+      "leafCategoryIds": [
+        "155183"
+      ],
+      "categories": [
+        {
+          "categoryId": "155183",
+          "categoryName": "Hoodies & Sweatshirts"
+        },
+        {
+          "categoryId": "1059",
+          "categoryName": "Men's Clothing"
+        },
+        {
+          "categoryId": "11450",
+          "categoryName": "Clothing, Shoes & Accessories"
+        },
+        {
+          "categoryId": "185099",
+          "categoryName": "Activewear"
+        },
+        {
+          "categoryId": "260012",
+          "categoryName": "Men"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/7dsAAOSw8HZnitt-/s-l225.jpg"
+      },
+      "price": {
+        "value": "69.99",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C176842245555%7C0",
+      "seller": {
+        "username": "advocate-apparel",
+        "feedbackPercentage": "99.8",
+        "feedbackScore": 27565
+      },
+      "condition": "Pre-owned - Good",
+      "conditionId": "3000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/7dsAAOSw8HZnitt-/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "8.99",
+            "currency": "USD"
+          },
+          "minEstimatedDeliveryDate": "2025-04-15T07:00:00.000Z",
+          "maxEstimatedDeliveryDate": "2025-04-17T07:00:00.000Z"
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/176842245555?_skw=dry+goods&hash=item292c9e85b3:g:7dsAAOSw8HZnitt-",
+      "itemLocation": {
+        "postalCode": "250**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/aAEAAOSwZENnitt6/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/pnoAAOSw9IdnituA/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/Et4AAOSwpGtnituA/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/rTkAAOSw4C5nitt9/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/ZssAAOSwi4Bnitt9/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/DCwAAOSwoyhnitt7/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/PqoAAOSwOf1nitt5/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/CckAAOSwu4dnitt-/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/miMAAOSwRLRnitt7/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/D1EAAOSwKdhnitt~/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "176842245555",
+      "availableCoupons": false,
+      "itemCreationDate": "2025-02-12T23:16:10.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|316558492540|0",
+      "title": "Vintage Cambridge Dry Goods Sweater Women's Embroidered Floral American Flag 90s",
+      "leafCategoryIds": [
+        "63866"
+      ],
+      "categories": [
+        {
+          "categoryId": "63866",
+          "categoryName": "Sweaters"
+        },
+        {
+          "categoryId": "11450",
+          "categoryName": "Clothing, Shoes & Accessories"
+        },
+        {
+          "categoryId": "15724",
+          "categoryName": "Women's Clothing"
+        },
+        {
+          "categoryId": "260010",
+          "categoryName": "Women"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/4ZsAAOSwzQJnmTlE/s-l225.jpg"
+      },
+      "price": {
+        "value": "28.43",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C316558492540%7C0",
+      "seller": {
+        "username": "fancyfindsonline",
+        "feedbackPercentage": "100.0",
+        "feedbackScore": 867
+      },
+      "marketingPrice": {
+        "originalPrice": {
+          "value": "31.59",
+          "currency": "USD"
+        },
+        "discountPercentage": "10",
+        "discountAmount": {
+          "value": "3.16",
+          "currency": "USD"
+        },
+        "priceTreatment": "MARKDOWN"
+      },
+      "condition": "Pre-owned - Good",
+      "conditionId": "3000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/4ZsAAOSwzQJnmTlE/s-l1200.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "BEST_OFFER"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/316558492540?_skw=dry+goods&hash=item49b45b437c:g:4ZsAAOSwzQJnmTlE",
+      "itemLocation": {
+        "postalCode": "156**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/JuUAAOSw3kdnmTkI/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/ZsAAAOSwCEpnmTln/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/ug0AAOSw6-RnmTkO/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/vzIAAOSw4jhnmTmH/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/fqoAAOSwiLlnmTkP/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/RjIAAOSwBZBnmTkM/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/2S8AAOSwU0JnmTkO/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "316558492540",
+      "availableCoupons": false,
+      "itemCreationDate": "2025-03-27T13:23:21.000Z",
+      "topRatedBuyingExperience": true,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|146506331505|0",
+      "title": "1908 Rest Room, Espenhain Dry Goods Co, MILWAUKEE WI, Curt Teich postcard jj219",
+      "leafCategoryIds": [
+        "262042"
+      ],
+      "categories": [
+        {
+          "categoryId": "262042",
+          "categoryName": "Topographical Postcards"
+        },
+        {
+          "categoryId": "1",
+          "categoryName": "Collectibles"
+        },
+        {
+          "categoryId": "914",
+          "categoryName": "Postcards & Supplies"
+        },
+        {
+          "categoryId": "262041",
+          "categoryName": "Postcards"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/MKgAAOSwA-FltCnF/s-l225.jpg"
+      },
+      "price": {
+        "value": "11.90",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C146506331505%7C0",
+      "seller": {
+        "username": "uffdahhhpostcard",
+        "feedbackPercentage": "100.0",
+        "feedbackScore": 17749
+      },
+      "marketingPrice": {
+        "originalPrice": {
+          "value": "17.00",
+          "currency": "USD"
+        },
+        "discountPercentage": "30",
+        "discountAmount": {
+          "value": "5.10",
+          "currency": "USD"
+        },
+        "priceTreatment": "MARKDOWN"
+      },
+      "condition": "Used",
+      "conditionId": "3000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/MKgAAOSwA-FltCnF/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "3.75",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/146506331505?_skw=dry+goods&hash=item221c753571:g:MKgAAOSwA-FltCnF",
+      "itemLocation": {
+        "postalCode": "544**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/IE4AAOSwPfZltCnE/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "146506331505",
+      "availableCoupons": false,
+      "itemCreationDate": "2025-04-09T10:51:07.000Z",
+      "topRatedBuyingExperience": true,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|286480561310|0",
+      "title": "Polo Ralph Lauren POLO COUNTRY Corn Meal T-shirt XL Dry Goods Sportsman NWT",
+      "leafCategoryIds": [
+        "11484"
+      ],
+      "categories": [
+        {
+          "categoryId": "11484",
+          "categoryName": "Sweaters"
+        },
+        {
+          "categoryId": "1059",
+          "categoryName": "Men's Clothing"
+        },
+        {
+          "categoryId": "11450",
+          "categoryName": "Clothing, Shoes & Accessories"
+        },
+        {
+          "categoryId": "260012",
+          "categoryName": "Men"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/DhcAAOSwYv5lVljd/s-l225.jpg"
+      },
+      "price": {
+        "value": "89.50",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C286480561310%7C0",
+      "seller": {
+        "username": "rareralph1992",
+        "feedbackPercentage": "100.0",
+        "feedbackScore": 2256
+      },
+      "condition": "New with tags",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/DhcAAOSwYv5lVljd/s-l960.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "8.95",
+            "currency": "USD"
+          },
+          "minEstimatedDeliveryDate": "2025-04-15T07:00:00.000Z",
+          "maxEstimatedDeliveryDate": "2025-04-17T07:00:00.000Z"
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "BEST_OFFER"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/286480561310?_skw=dry+goods&hash=item42b392749e:g:DhcAAOSwYv5lVljd",
+      "itemLocation": {
+        "postalCode": "857**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/wEwAAOSw3w9lVlje/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/QkoAAOSwtQ9lVlje/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/cDYAAOSwFlllVljf/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "286480561310",
+      "availableCoupons": false,
+      "itemCreationDate": "2025-04-12T03:12:44.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|286480552392|0",
+      "title": "Ralph Lauren Polo Country Farm Corn Meal T-shirt L Dry Goods Outdoors NWT",
+      "leafCategoryIds": [
+        "11484"
+      ],
+      "categories": [
+        {
+          "categoryId": "11484",
+          "categoryName": "Sweaters"
+        },
+        {
+          "categoryId": "1059",
+          "categoryName": "Men's Clothing"
+        },
+        {
+          "categoryId": "11450",
+          "categoryName": "Clothing, Shoes & Accessories"
+        },
+        {
+          "categoryId": "260012",
+          "categoryName": "Men"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/L1QAAOSw8-pldzXj/s-l225.jpg"
+      },
+      "price": {
+        "value": "89.50",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C286480552392%7C0",
+      "seller": {
+        "username": "rareralph1992",
+        "feedbackPercentage": "100.0",
+        "feedbackScore": 2256
+      },
+      "condition": "New with tags",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/L1QAAOSw8-pldzXj/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "8.95",
+            "currency": "USD"
+          },
+          "minEstimatedDeliveryDate": "2025-04-15T07:00:00.000Z",
+          "maxEstimatedDeliveryDate": "2025-04-17T07:00:00.000Z"
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "BEST_OFFER"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/286480552392?_skw=dry+goods&hash=item42b39251c8:g:L1QAAOSw8-pldzXj",
+      "itemLocation": {
+        "postalCode": "857**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/WXQAAOSwMINlcnZS/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/OPQAAOSwhxNldzXk/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/DhcAAOSwYv5lVljd/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/wEwAAOSw3w9lVlje/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/QkoAAOSwtQ9lVlje/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/cDYAAOSwFlllVljf/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "286480552392",
+      "availableCoupons": false,
+      "itemCreationDate": "2025-04-12T02:59:15.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|305608717513|0",
+      "title": "Saratoga Springs NY Morris Dry Goods Cupid Balls Victorian Corset Trade Card",
+      "leafCategoryIds": [
+        "802",
+        "262042"
+      ],
+      "categories": [
+        {
+          "categoryId": "802",
+          "categoryName": "Other Victorian Trade Cards"
+        },
+        {
+          "categoryId": "262042",
+          "categoryName": "Topographical Postcards"
+        },
+        {
+          "categoryId": "1",
+          "categoryName": "Collectibles"
+        },
+        {
+          "categoryId": "34",
+          "categoryName": "Advertising"
+        },
+        {
+          "categoryId": "914",
+          "categoryName": "Postcards & Supplies"
+        },
+        {
+          "categoryId": "13623",
+          "categoryName": "Merchandise & Memorabilia"
+        },
+        {
+          "categoryId": "37842",
+          "categoryName": "Victorian Trade Cards"
+        },
+        {
+          "categoryId": "262041",
+          "categoryName": "Postcards"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/ovUAAOSwhdFf52fI/s-l225.jpg"
+      },
+      "price": {
+        "value": "28.50",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C305608717513%7C0",
+      "seller": {
+        "username": "davesgreatcardsgalore",
+        "feedbackPercentage": "100.0",
+        "feedbackScore": 15547
+      },
+      "condition": "Used",
+      "conditionId": "3000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/ovUAAOSwhdFf52fI/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "BEST_OFFER"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/305608717513?_skw=dry+goods&hash=item4727b2f4c9:g:ovUAAOSwhdFf52fI&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UbkJK4xPjDYTUWLkceJVJxYy3QLTXGfG%2B6yW208rF703b6Z2mXVK94tj4--qt%2BiIVVrEriUTBg4gdt%2F3jaKlAkr%2FcgZXiSGhmJzfsoO4jgX8BALvexLYWpb3OlsgUyX95HyQO%2FGQp%2F%2BYWSkN0Tj1nOVe%2FabKSFdJwQlpOvhzS5yE9OJgYM8MQHmijOR45OH9WUrwx3hUJm%2F%2BDwPTQRBh3QvX7%2FeK%2BL6kvHmnbQjQic16CZ2yXOiSjzx%2FdFrULvGXTTmOnDnxVFS0MOomUV1OS0Q",
+      "itemLocation": {
+        "postalCode": "805**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/PdoAAOSw8XRf52fX/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/oiMAAOSwyPhf52fp/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/nGAAAOSweNpf52f5/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/rKIAAOSwVrNf52gP/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/-LgAAOSw37tf52fd/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/x48AAOSwvrRf52fk/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/ZJ4AAOSwC7tf52fs/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/nvwAAOSwPGBf52pP/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/sxoAAOSwQJlf52gU/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "305608717513",
+      "availableCoupons": false,
+      "itemCreationDate": "2024-06-08T18:39:32.000Z",
+      "topRatedBuyingExperience": true,
+      "priorityListing": true,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|235960288989|0",
+      "title": "Dictionary of Dry Goods Illustrated 1892 Edition - Vintage Textile Guide",
+      "leafCategoryIds": [
+        "29223"
+      ],
+      "categories": [
+        {
+          "categoryId": "29223",
+          "categoryName": "Antiquarian & Collectible"
+        },
+        {
+          "categoryId": "267",
+          "categoryName": "Books & Magazines"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/0OkAAOSwptxnsRQl/s-l225.jpg"
+      },
+      "price": {
+        "value": "65.00",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C235960288989%7C0",
+      "seller": {
+        "username": "aboutthosebooks",
+        "feedbackPercentage": "100.0",
+        "feedbackScore": 1860
+      },
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/0OkAAOSwptxnsRQl/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "7.00",
+            "currency": "USD"
+          },
+          "minEstimatedDeliveryDate": "2025-04-15T07:00:00.000Z",
+          "maxEstimatedDeliveryDate": "2025-04-17T07:00:00.000Z"
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "BEST_OFFER"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/235960288989?_skw=dry+goods&hash=item36f05446dd:g:0OkAAOSwptxnsRQl&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5Ubtnv%2FbtrBl7cHUhJgwzgu45pvivi%2BmdHxNgWHEiBQ55%2Bghpj4%2F%2Bjg5EsjewUs3p9%2BNjeyUi%2BIhqII7Hewgz8axq3jLnzQPCXFkNX253wgSnkyvdVPl9FN%2Bv%2Bt86M%2FCoQbjslfX83ulJ4LOJZy6IQlyTPV%2FxvkM%2BSQpCl%2FTrAkkyX2awSnhmQGitKZbKy74rszBYzfc4W7YvDyajHjg%2FDcIcgw2sJZFSFJZHsMd5P0UrYjSIlqBmw66EUFKIPR3gwMwFvvc%2BxuoWmHvyabo0Yeo",
+      "itemLocation": {
+        "postalCode": "662**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/-kQAAOSwswVnsRQn/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/43kAAOSwZy5nsRQi/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/c7wAAOSwJf5nsRQi/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/E9oAAOSwXD9nsRQk/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/KpYAAOSwMZxnsRQp/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/7BwAAOSwnJpnsRQn/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/ZnoAAOSwUGRnsRQp/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/W9YAAOSwt9dnsRQn/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/894AAOSw2a5nsRQo/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/0O8AAOSwptxnsRQo/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/JWMAAOSw7MVnsRQn/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "235960288989",
+      "availableCoupons": false,
+      "itemCreationDate": "2025-02-15T22:31:41.000Z",
+      "topRatedBuyingExperience": true,
+      "priorityListing": true,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|176626513894|0",
+      "title": "Vintage - 1890 Snyder Bros. Dry Goods Boots and Shoes, Spokane Falls, WA",
+      "leafCategoryIds": [
+        "262042"
+      ],
+      "categories": [
+        {
+          "categoryId": "262042",
+          "categoryName": "Topographical Postcards"
+        },
+        {
+          "categoryId": "1",
+          "categoryName": "Collectibles"
+        },
+        {
+          "categoryId": "914",
+          "categoryName": "Postcards & Supplies"
+        },
+        {
+          "categoryId": "262041",
+          "categoryName": "Postcards"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/bLkAAOSw~qVnC9UK/s-l225.jpg"
+      },
+      "price": {
+        "value": "34.95",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C176626513894%7C0",
+      "seller": {
+        "username": "nosha_7471",
+        "feedbackPercentage": "100.0",
+        "feedbackScore": 190
+      },
+      "condition": "Used",
+      "conditionId": "3000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/bLkAAOSw~qVnC9UK/s-l1200.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "CALCULATED"
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/176626513894?_skw=dry+goods&hash=item291fc2b7e6:g:bLkAAOSw~qVnC9UK&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UYJ%2F0cTSmlaM1TH1DrK6vk77G5OBF1dngecbmV0bZ0Zrcpm%2FaNOKPaecU4WLJkRyXLG%2BHPeuxzFSczA7PMjAg1O83yj9J3xy6IS1RRgw8VZV0VkhmNTtaeL6pwyCH6sD1uRD7K5fHVXrjkTNasGqXy7SqQVL1q%2BWneHgY9Dv0UlZrXGWpCpoABVk95aPCupLPWlj2NQMENMX1vDNJrSQpmAVBATO0Z42GvkXyWsIbLL5oWRAjEnI%2BTfrs2OIG01%2FDxy5eCrUjdyd1UcKqj%2BricE",
+      "itemLocation": {
+        "postalCode": "992**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/ffgAAOSwKuFnC9UY/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/LgMAAOSwkPZnC9Yi/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/4lQAAOSwOOpnC9Ui/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/AwEAAOSwovlnC9Uv/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "176626513894",
+      "availableCoupons": false,
+      "itemCreationDate": "2024-10-13T14:16:38.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": true,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|405737722175|0",
+      "title": "Woolly Dry Goods Men’s Button Up Flannel Shirt Size M Medium Cotton Wool Blend",
+      "leafCategoryIds": [
+        "57990"
+      ],
+      "categories": [
+        {
+          "categoryId": "57990",
+          "categoryName": "Casual Button-Down Shirts"
+        },
+        {
+          "categoryId": "1059",
+          "categoryName": "Men's Clothing"
+        },
+        {
+          "categoryId": "11450",
+          "categoryName": "Clothing, Shoes & Accessories"
+        },
+        {
+          "categoryId": "185100",
+          "categoryName": "Shirts"
+        },
+        {
+          "categoryId": "260012",
+          "categoryName": "Men"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/bH0AAOSwHB1n9JjS/s-l225.jpg"
+      },
+      "price": {
+        "value": "22.99",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C405737722175%7C0",
+      "seller": {
+        "username": "yadayana",
+        "feedbackPercentage": "99.7",
+        "feedbackScore": 3710
+      },
+      "condition": "Pre-owned - Good",
+      "conditionId": "3000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/bH0AAOSwHB1n9JjS/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "4.99",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "BEST_OFFER"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/405737722175?_skw=dry+goods&hash=item5e77da513f:g:bH0AAOSwHB1n9JjS",
+      "itemLocation": {
+        "postalCode": "611**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/TdAAAOSwRX1n9JjV/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/Wk8AAOSwR4hn9Jjf/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/jUoAAOSwYK1n9Jjw/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/6w8AAOSw9WVn9JkL/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/y0IAAOSwdnJn9JkG/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/qPEAAOSwkN1n9Jj3/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/crsAAOSwGeZn9Jj7/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/5jIAAOSwBpVn9Jj~/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/OU0AAOSwx7ln9JkU/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/hTEAAOSwB69n9JkV/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/PBcAAOSwXn9n9Jkb/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "405737722175",
+      "availableCoupons": false,
+      "itemCreationDate": "2025-04-08T03:35:25.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|146502900582|0",
+      "title": "Vintage 90s Levis 595 Baggy Jeans Dry Goods Men 32x34 Wide Skater Distressed Y2k",
+      "leafCategoryIds": [
+        "11483"
+      ],
+      "categories": [
+        {
+          "categoryId": "11483",
+          "categoryName": "Jeans"
+        },
+        {
+          "categoryId": "1059",
+          "categoryName": "Men's Clothing"
+        },
+        {
+          "categoryId": "11450",
+          "categoryName": "Clothing, Shoes & Accessories"
+        },
+        {
+          "categoryId": "260012",
+          "categoryName": "Men"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/JP4AAeSwJEJn9DJs/s-l225.jpg"
+      },
+      "price": {
+        "value": "69.95",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C146502900582%7C0",
+      "seller": {
+        "username": "undeadthread",
+        "feedbackPercentage": "99.4",
+        "feedbackScore": 1124
+      },
+      "condition": "Pre-owned - Good",
+      "conditionId": "3000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/JP4AAeSwJEJn9DJs/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "9.95",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "BEST_OFFER"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/146502900582?_skw=dry+goods&hash=item221c40db66:g:JP4AAeSwJEJn9DJs",
+      "itemLocation": {
+        "postalCode": "302**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/2MMAAeSwxxNn9DJs/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/nSQAAeSwERtn9DJt/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/CHUAAeSwS1ln9DJw/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/qkYAAeSwLoNn9DJu/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/kJEAAeSwegVn9DJu/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/xHEAAeSwSARn9DJv/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/qPgAAeSws3xn9DJv/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/dT0AAeSw1-hn9DJw/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/1VIAAeSw99Fn9DJx/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/ckMAAeSw0QJn9DJx/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/npsAAeSwfj5n9DJy/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/clgAAeSwmVBn9DJy/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/xncAAeSwNphn9DJz/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/7jwAAeSwK5Nn9DJ0/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/mNMAAeSwvE1n9DJ0/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/X-cAAeSwEiRn9DJ0/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/kgkAAeSwULhn9DJ3/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/zA4AAeSw2yFn9DJ7/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/D6gAAeSwW6Jn9DJ4/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "146502900582",
+      "availableCoupons": false,
+      "itemCreationDate": "2025-04-07T20:43:26.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|156724024305|0",
+      "title": "LEVI 569 JEANS DRY GOODS SERIES 34X34 TAN COLORWAY",
+      "leafCategoryIds": [
+        "11483"
+      ],
+      "categories": [
+        {
+          "categoryId": "11483",
+          "categoryName": "Jeans"
+        },
+        {
+          "categoryId": "1059",
+          "categoryName": "Men's Clothing"
+        },
+        {
+          "categoryId": "11450",
+          "categoryName": "Clothing, Shoes & Accessories"
+        },
+        {
+          "categoryId": "260012",
+          "categoryName": "Men"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/o8cAAOSwiSdnuP3T/s-l225.jpg"
+      },
+      "price": {
+        "value": "11.00",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C156724024305%7C0",
+      "seller": {
+        "username": "stang68cs",
+        "feedbackPercentage": "100.0",
+        "feedbackScore": 1868
+      },
+      "condition": "Pre-owned - Good",
+      "conditionId": "3000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/o8cAAOSwiSdnuP3T/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "12.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "BEST_OFFER"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/156724024305?_skw=dry+goods&hash=item247d7ad3f1:g:o8cAAOSwiSdnuP3T",
+      "itemLocation": {
+        "postalCode": "618**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/gj8AAOSwLNZnuP3l/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/U4YAAOSw5BxnuP3I/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/W1UAAOSw0tZnuP36/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/pR8AAOSwMBhnuP4M/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/nf0AAOSwzS5nuP4b/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/HVIAAOSw-x9nuP4m/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "156724024305",
+      "availableCoupons": false,
+      "itemCreationDate": "2025-02-21T22:36:38.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|146505298640|0",
+      "title": "Rowe’s Dry Goods Department, Bucyrus, Ohio Postcard Lot of 3",
+      "leafCategoryIds": [
+        "262042"
+      ],
+      "categories": [
+        {
+          "categoryId": "262042",
+          "categoryName": "Topographical Postcards"
+        },
+        {
+          "categoryId": "1",
+          "categoryName": "Collectibles"
+        },
+        {
+          "categoryId": "914",
+          "categoryName": "Postcards & Supplies"
+        },
+        {
+          "categoryId": "262041",
+          "categoryName": "Postcards"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/a6UAAOSwJoFn6dO6/s-l225.jpg"
+      },
+      "price": {
+        "value": "19.99",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C146505298640%7C0",
+      "seller": {
+        "username": "postcardboyz",
+        "feedbackPercentage": "100.0",
+        "feedbackScore": 2843
+      },
+      "condition": "Used",
+      "conditionId": "3000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/a6UAAOSwJoFn6dO6/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "CALCULATED"
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/146505298640?_skw=dry+goods&hash=item221c6572d0:g:a6UAAOSwJoFn6dO6",
+      "itemLocation": {
+        "postalCode": "431**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/b5sAAOSwDNNn6dO6/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/qlcAAOSwS7xn6dO7/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/qewAAOSwlOpn6dO-/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/WbMAAOSwoXpn6dO~/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/jhcAAOSwb-ln6dO~/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/sYoAAOSweVtn6dPA/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/xkoAAOSw-Ahn6dPB/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/tRcAAOSw855n6dPC/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/IAcAAOSw4TZn6dPD/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/4AUAAOSwnd5n6dPD/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/QMMAAOSwWhhn6dPE/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/RZwAAOSweNNn6dPF/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/LC8AAOSw50pn6dPG/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/JIkAAOSw8x9n6dPG/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/TSoAAOSwrlhn6dPH/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/T4QAAOSwPlZn6dPI/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "146505298640",
+      "availableCoupons": false,
+      "itemCreationDate": "2025-04-08T23:34:57.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|127008748120|0",
+      "title": "Cambridge Dry Goods VTG Y2K Sunset Stripe Wool Cardigan Sweater Southwest XS/S",
+      "leafCategoryIds": [
+        "63866"
+      ],
+      "categories": [
+        {
+          "categoryId": "63866",
+          "categoryName": "Sweaters"
+        },
+        {
+          "categoryId": "11450",
+          "categoryName": "Clothing, Shoes & Accessories"
+        },
+        {
+          "categoryId": "15724",
+          "categoryName": "Women's Clothing"
+        },
+        {
+          "categoryId": "260010",
+          "categoryName": "Women"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/WzwAAeSwAu9n3vwH/s-l225.jpg"
+      },
+      "price": {
+        "value": "25.00",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C127008748120%7C0",
+      "seller": {
+        "username": "touchdown6",
+        "feedbackPercentage": "100.0",
+        "feedbackScore": 1581
+      },
+      "condition": "Pre-owned - Good",
+      "conditionId": "3000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/WzwAAeSwAu9n3vwH/s-l225.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "CALCULATED"
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "BEST_OFFER"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/127008748120?_skw=dry+goods&hash=item1d924fb258:g:WzwAAeSwAu9n3vwH",
+      "itemLocation": {
+        "postalCode": "525**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/TPwAAeSwwH9n3vwH/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/hM4AAeSw1Kpn3vwH/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/bjIAAeSwGktn3vwM/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/M3EAAeSwW9Fn3vwI/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/EdEAAeSw2NBn3vwI/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/T6kAAeSwIWhn3vwI/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/DBsAAeSwrexn3vwK/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/Id0AAeSwBjpn3vwK/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/CGkAAeSwCsln3vwK/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/JagAAeSwrEVn3vwK/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/PN8AAeSwX8Vn3vwK/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/Fv0AAeSw-2Fn3vwK/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/ao8AAeSw3e9n3vwL/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "127008748120",
+      "availableCoupons": false,
+      "itemCreationDate": "2025-03-22T18:10:22.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|236001871498|0",
+      "title": "Eagle Dry Goods Signature Series 100% Silk Hawaiian Cork Button Shirt Fred Hutch",
+      "leafCategoryIds": [
+        "57990"
+      ],
+      "categories": [
+        {
+          "categoryId": "57990",
+          "categoryName": "Casual Button-Down Shirts"
+        },
+        {
+          "categoryId": "1059",
+          "categoryName": "Men's Clothing"
+        },
+        {
+          "categoryId": "11450",
+          "categoryName": "Clothing, Shoes & Accessories"
+        },
+        {
+          "categoryId": "185100",
+          "categoryName": "Shirts"
+        },
+        {
+          "categoryId": "260012",
+          "categoryName": "Men"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/jOsAAOSwrbxjXsuh/s-l225.jpg"
+      },
+      "price": {
+        "value": "9.99",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C236001871498%7C0",
+      "seller": {
+        "username": "s_a_goke",
+        "feedbackPercentage": "99.5",
+        "feedbackScore": 660
+      },
+      "condition": "New without tags",
+      "conditionId": "1500",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/jOsAAOSwrbxjXsuh/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "5.45",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "BEST_OFFER"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/236001871498?_skw=dry+goods&hash=item36f2cec68a:g:jOsAAOSwrbxjXsuh",
+      "itemLocation": {
+        "postalCode": "983**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/gxUAAOSw1HdjXsuj/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/3DIAAOSwXu1jXsul/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/E7QAAOSwzbtjXsuo/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/0WsAAOSwZU9jXsuq/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "236001871498",
+      "availableCoupons": false,
+      "itemCreationDate": "2025-03-13T05:29:02.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|156639069206|0",
+      "title": "Vintage Levi’s Dry Goods Denim Shirt Mens L Army Green Hook and Loop Pockets 90s",
+      "leafCategoryIds": [
+        "57990"
+      ],
+      "categories": [
+        {
+          "categoryId": "57990",
+          "categoryName": "Casual Button-Down Shirts"
+        },
+        {
+          "categoryId": "1059",
+          "categoryName": "Men's Clothing"
+        },
+        {
+          "categoryId": "11450",
+          "categoryName": "Clothing, Shoes & Accessories"
+        },
+        {
+          "categoryId": "185100",
+          "categoryName": "Shirts"
+        },
+        {
+          "categoryId": "260012",
+          "categoryName": "Men"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/hFkAAOSwo1hniFJo/s-l225.jpg"
+      },
+      "price": {
+        "value": "24.00",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C156639069206%7C0",
+      "seller": {
+        "username": "usaffamily4",
+        "feedbackPercentage": "99.9",
+        "feedbackScore": 1198
+      },
+      "condition": "Pre-owned - Good",
+      "conditionId": "3000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/hFkAAOSwo1hniFJo/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "9.50",
+            "currency": "USD"
+          },
+          "minEstimatedDeliveryDate": "2025-04-15T07:00:00.000Z",
+          "maxEstimatedDeliveryDate": "2025-04-17T07:00:00.000Z"
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "BEST_OFFER"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/156639069206?_skw=dry+goods&hash=item24786a8416:g:hFkAAOSwo1hniFJo",
+      "itemLocation": {
+        "postalCode": "380**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/JQYAAOSwhxlniFJu/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/tBQAAOSwD2tniFJo/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/q4MAAOSw44lniFJo/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/4CAAAOSwBDNniFJo/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/GvcAAOSwhvNniFJp/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/1pMAAOSw9LxniFJp/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/lsAAAOSwyp5niFJp/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/LVsAAOSwqu5niFJp/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/4rUAAOSwzvdniFJq/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/r9AAAOSwXWdniFJq/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/ThwAAOSwFq1niFJq/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "156639069206",
+      "availableCoupons": false,
+      "itemCreationDate": "2025-01-16T04:43:22.000Z",
+      "topRatedBuyingExperience": true,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|376119782603|0",
+      "title": "Wear & Boogher Dry Goods Company for The Yoke Brand Trousers and Overalls",
+      "leafCategoryIds": [
+        "262421"
+      ],
+      "categories": [
+        {
+          "categoryId": "262421",
+          "categoryName": "Photographs"
+        },
+        {
+          "categoryId": "1",
+          "categoryName": "Collectibles"
+        },
+        {
+          "categoryId": "262413",
+          "categoryName": "Photographic Images"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/h~IAAeSwA09n7FA3/s-l225.jpg"
+      },
+      "price": {
+        "value": "9.99",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C376119782603%7C0",
+      "seller": {
+        "username": "oldphoto_97",
+        "feedbackPercentage": "99.6",
+        "feedbackScore": 724
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/h~IAAeSwA09n7FA3/s-l640.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "2.49",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/376119782603?_skw=dry+goods&hash=item57927c6ccb:g:h~IAAeSwA09n7FA3",
+      "itemLocation": {
+        "postalCode": "801**",
+        "country": "US"
+      },
+      "adultOnly": false,
+      "legacyItemId": "376119782603",
+      "availableCoupons": false,
+      "itemCreationDate": "2025-04-01T20:26:02.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|286473730757|0",
+      "title": "Polo Ralph Lauren Tractor Patch Trucker Cap Hat Sportsman Dry Goods Polo Country",
+      "leafCategoryIds": [
+        "52365"
+      ],
+      "categories": [
+        {
+          "categoryId": "52365",
+          "categoryName": "Hats"
+        },
+        {
+          "categoryId": "4250",
+          "categoryName": "Men's Accessories"
+        },
+        {
+          "categoryId": "11450",
+          "categoryName": "Clothing, Shoes & Accessories"
+        },
+        {
+          "categoryId": "260012",
+          "categoryName": "Men"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/zGoAAeSwpP5n9omd/s-l225.jpg"
+      },
+      "price": {
+        "value": "79.99",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C286473730757%7C0",
+      "seller": {
+        "username": "rareralph1992",
+        "feedbackPercentage": "100.0",
+        "feedbackScore": 2256
+      },
+      "condition": "Pre-owned",
+      "conditionId": "3000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/zGoAAeSwpP5n9omd/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "7.95",
+            "currency": "USD"
+          },
+          "minEstimatedDeliveryDate": "2025-04-15T07:00:00.000Z",
+          "maxEstimatedDeliveryDate": "2025-04-17T07:00:00.000Z"
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "BEST_OFFER"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/286473730757?_skw=dry+goods&hash=item42b32a3ac5:g:zGoAAeSwpP5n9omd",
+      "itemLocation": {
+        "postalCode": "857**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/xg0AAeSwn~Nn9omX/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/99cAAeSwinBn9omZ/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "286473730757",
+      "availableCoupons": false,
+      "itemCreationDate": "2025-04-09T14:54:10.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|286463930633|0",
+      "title": "Ralph Lauren Polo Country Original Graphic Green Label T-Shirt XL Dry Goods",
+      "leafCategoryIds": [
+        "15687"
+      ],
+      "categories": [
+        {
+          "categoryId": "15687",
+          "categoryName": "T-Shirts"
+        },
+        {
+          "categoryId": "1059",
+          "categoryName": "Men's Clothing"
+        },
+        {
+          "categoryId": "11450",
+          "categoryName": "Clothing, Shoes & Accessories"
+        },
+        {
+          "categoryId": "185100",
+          "categoryName": "Shirts"
+        },
+        {
+          "categoryId": "260012",
+          "categoryName": "Men"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/vicAAOSwviNlb70n/s-l225.jpg"
+      },
+      "price": {
+        "value": "59.99",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C286463930633%7C0",
+      "seller": {
+        "username": "rareralph1992",
+        "feedbackPercentage": "100.0",
+        "feedbackScore": 2256
+      },
+      "condition": "New with tags",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/vicAAOSwviNlb70n/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "7.95",
+            "currency": "USD"
+          },
+          "minEstimatedDeliveryDate": "2025-04-15T07:00:00.000Z",
+          "maxEstimatedDeliveryDate": "2025-04-17T07:00:00.000Z"
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "BEST_OFFER"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/286463930633?_skw=dry+goods&hash=item42b294b109:g:vicAAOSwviNlb70n",
+      "itemLocation": {
+        "postalCode": "857**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/YuIAAOSwbkRlb70p/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "286463930633",
+      "availableCoupons": false,
+      "itemCreationDate": "2025-04-05T17:19:16.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|236024384299|0",
+      "title": "Vintage Cambridge Dry Goods Sweater Cross Stitch Lace Cottage Grandma Core SZ S",
+      "leafCategoryIds": [
+        "63866"
+      ],
+      "categories": [
+        {
+          "categoryId": "63866",
+          "categoryName": "Sweaters"
+        },
+        {
+          "categoryId": "11450",
+          "categoryName": "Clothing, Shoes & Accessories"
+        },
+        {
+          "categoryId": "15724",
+          "categoryName": "Women's Clothing"
+        },
+        {
+          "categoryId": "260010",
+          "categoryName": "Women"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/XK4AAeSwI3RnrfnL/s-l225.jpg"
+      },
+      "price": {
+        "value": "19.99",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C236024384299%7C0",
+      "seller": {
+        "username": "vintage*prizes",
+        "feedbackPercentage": "100.0",
+        "feedbackScore": 5053
+      },
+      "condition": "Pre-owned - Good",
+      "conditionId": "3000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/XK4AAeSwI3RnrfnL/s-l225.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "8.99",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "BEST_OFFER"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/236024384299?_skw=dry+goods&hash=item36f4264b2b:g:XK4AAeSwI3RnrfnL",
+      "itemLocation": {
+        "postalCode": "838**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/7nUAAeSwBmxnrfje/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/Wf8AAeSwI3Rnrfje/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/CvcAAeSwQ8pnrfnb/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/cycAAeSw6kFnrfjg/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/cGcAAeSwU-pnrfjh/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/Nt8AAeSwDJFnrfjh/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/2UoAAeSwzupnrfnw/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/5OcAAeSw2NJnrfn2/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/7o8AAeSwdrhnrfoC/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/IzMAAeSw~5dnrfoK/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/7ZYAAeSwVIlnrfoY/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/7wYAAeSwvGdnrfoj/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/LMcAAeSwmhZnrfov/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "236024384299",
+      "availableCoupons": false,
+      "itemCreationDate": "2025-03-28T01:17:41.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|326522397683|0",
+      "title": "Polo RL Dry Goods Country Printed Pants Sz 28/32’ American Aztec Frontier Rare",
+      "leafCategoryIds": [
+        "57989"
+      ],
+      "categories": [
+        {
+          "categoryId": "57989",
+          "categoryName": "Pants"
+        },
+        {
+          "categoryId": "1059",
+          "categoryName": "Men's Clothing"
+        },
+        {
+          "categoryId": "11450",
+          "categoryName": "Clothing, Shoes & Accessories"
+        },
+        {
+          "categoryId": "260012",
+          "categoryName": "Men"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/ZIEAAeSwtPZn9CXO/s-l225.jpg"
+      },
+      "price": {
+        "value": "220.00",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C326522397683%7C0",
+      "seller": {
+        "username": "abellivintage",
+        "feedbackPercentage": "100.0",
+        "feedbackScore": 212
+      },
+      "condition": "Pre-owned - Excellent",
+      "conditionId": "2990",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/ZIEAAeSwtPZn9CXO/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "15.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "BEST_OFFER"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/326522397683?_skw=dry+goods&hash=item4c064063f3:g:ZIEAAeSwtPZn9CXO",
+      "itemLocation": {
+        "country": "SE"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/B1gAAeSwcqxn9CXK/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/fHgAAeSwXKNn9CXK/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/dLUAAeSw-h5n9CXK/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/UsIAAeSw-vtn9CXL/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/5pMAAeSwXkVn9CXL/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/c3MAAeSwMhhn9CX3/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/ADwAAeSwgmxn9CXw/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/~w8AAeSwmmpn9CX~/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/Xw4AAeSwYFBn9CYI/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/ehkAAeSwT9ln9CXM/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/e2MAAeSwzwVn9CYS/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/aKgAAeSwegVn9CXM/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/pdoAAeSwulJn9CXN/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/P~QAAeSwERZn9CXM/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "326522397683",
+      "availableCoupons": false,
+      "itemCreationDate": "2025-04-07T19:31:16.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|256249653655|0",
+      "title": "c1910's General Dry Goods Store Interior Stove RPPC Photo Antique Postcard",
+      "leafCategoryIds": [
+        "262042"
+      ],
+      "categories": [
+        {
+          "categoryId": "262042",
+          "categoryName": "Topographical Postcards"
+        },
+        {
+          "categoryId": "1",
+          "categoryName": "Collectibles"
+        },
+        {
+          "categoryId": "914",
+          "categoryName": "Postcards & Supplies"
+        },
+        {
+          "categoryId": "262041",
+          "categoryName": "Postcards"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/gAMAAOSwCKllI-4p/s-l225.jpg"
+      },
+      "price": {
+        "value": "41.97",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C256249653655%7C0",
+      "seller": {
+        "username": "eternal_loot",
+        "feedbackPercentage": "100.0",
+        "feedbackScore": 24996
+      },
+      "marketingPrice": {
+        "originalPrice": {
+          "value": "59.95",
+          "currency": "USD"
+        },
+        "discountPercentage": "30",
+        "discountAmount": {
+          "value": "17.98",
+          "currency": "USD"
+        },
+        "priceTreatment": "MARKDOWN"
+      },
+      "condition": "Used",
+      "conditionId": "3000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/gAMAAOSwCKllI-4p/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "1.95",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "BEST_OFFER"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/256249653655?_skw=dry+goods&hash=item3ba9ab6997:g:gAMAAOSwCKllI-4p&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5Ub%2FXq3bE%2Fvo4gQ9F9Vf9u0HRncsWazJk6yIY2AkvCQOlK%2FCAXpRL%2FewqZsYIbZ6XQlqMyCJcsBhFcdmlRl7FOtWCtUvRL6WaDRAV%2B0916NsdBkbh9nPxFk3%2Bv7slQKZRuoyx5%2BHGm9%2BOi6ba%2BeFIGEcbTd4SWxrK%2BXWE4oaIPVPi9ZfmMSr%2BLvG4g%2FBZ6PgikM8YF0ekCJmH1%2B39Fm95%2FjGQFADcFRFtKlORk6jItlw%2Fg87coVeoS7xHO4ToM%2Fll7j6nDjNt%2BHYA4dOlpQ3jjLH",
+      "itemLocation": {
+        "postalCode": "478**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/fTIAAOSwga5lI-4p/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "256249653655",
+      "availableCoupons": false,
+      "itemCreationDate": "2023-10-09T12:15:20.000Z",
+      "topRatedBuyingExperience": true,
+      "priorityListing": true,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|326504989385|0",
+      "title": "Pendleton Dry Goods Foxglove Range Fleece Bomber Jacket Size XS",
+      "leafCategoryIds": [
+        "63862"
+      ],
+      "categories": [
+        {
+          "categoryId": "63862",
+          "categoryName": "Coats, Jackets & Vests"
+        },
+        {
+          "categoryId": "11450",
+          "categoryName": "Clothing, Shoes & Accessories"
+        },
+        {
+          "categoryId": "15724",
+          "categoryName": "Women's Clothing"
+        },
+        {
+          "categoryId": "260010",
+          "categoryName": "Women"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/2w8AAeSwA09n5U9j/s-l225.jpg"
+      },
+      "price": {
+        "value": "160.00",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C326504989385%7C0",
+      "seller": {
+        "username": "ashleygalat",
+        "feedbackPercentage": "100.0",
+        "feedbackScore": 32
+      },
+      "condition": "New without tags",
+      "conditionId": "1500",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/2w8AAeSwA09n5U9j/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "15.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "BEST_OFFER"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/326504989385?_skw=dry+goods&hash=item4c0536c2c9:g:2w8AAeSwA09n5U9j&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UYaBwughjNF1aJnK9YPh4xZ4tFhasa3UFTFK58%2BiuHHMJ7n5rDw1eFrJmqcnnl8uRoBfOT%2FzjpGKJ4KKtjRWFmSXw%2FQ8SaEqgMlprWyrj9u3aQh0P2BrGGOy97ns3Qe0oQgFf4Lmo3MIS8Cs9u5yYAzPwpVi3aFIhk%2FK3UAnxccuv%2B4w%2BFz2gUY5UqUCbQ9QtBqE8HYQ16WZ2Ltg7XmjHPSxMV%2FFDBDegHwPjQBkcn7BrEjb5ptRWgrfGj2alYwtGRqEI0rAc%2FVTOzi8ReBEWvB",
+      "itemLocation": {
+        "postalCode": "494**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/4r0AAeSwtPZn5U9k/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/FhAAAeSw7UJn5U9k/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/eogAAeSwQaln5U9k/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/9aMAAeSwkfln5U9k/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "326504989385",
+      "availableCoupons": false,
+      "itemCreationDate": "2025-03-27T13:21:23.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": true,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|375589819260|0",
+      "title": "Frank J Duca, Colorado Postcard/RPPC - Dry Goods Store, Monument, CO",
+      "leafCategoryIds": [
+        "262042"
+      ],
+      "categories": [
+        {
+          "categoryId": "262042",
+          "categoryName": "Topographical Postcards"
+        },
+        {
+          "categoryId": "1",
+          "categoryName": "Collectibles"
+        },
+        {
+          "categoryId": "914",
+          "categoryName": "Postcards & Supplies"
+        },
+        {
+          "categoryId": "262041",
+          "categoryName": "Postcards"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/vVoAAOSws3dmsTfh/s-l225.jpg"
+      },
+      "price": {
+        "value": "19.99",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C375589819260%7C0",
+      "seller": {
+        "username": "southst9",
+        "feedbackPercentage": "99.9",
+        "feedbackScore": 69596
+      },
+      "condition": "Used",
+      "conditionId": "3000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/vVoAAOSws3dmsTfh/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "1.50",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "BEST_OFFER"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/375589819260?_skw=dry+goods&hash=item5772e5d37c:g:vVoAAOSws3dmsTfh&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5Ua0sRIk0R%2BpC3IrIX1H9XIWeCNI%2BgFVO8kfZFji5sZAeg4OrnvxY1GCt%2BjfsIbTLBpKSkTihAAihY0nPGO7Cvrk3u4OlkxXqLiTd6CCB%2FDyP86M0izU51D249p%2FbgZjk1jN49t0vfXhQXVpr5kEkq5RFSW32FwZmpXNfNTrP72M7Rc1Eot2k%2Fc265Y0lVu2qiDUv7GD%2BIqMC9VuSx4mWVFW7LGbMkQwCu0WSSjqtN99DCh4zECyQ9WLiK178RRCfpyaVKrPqlcC2qtGmzPvLwwc",
+      "itemLocation": {
+        "postalCode": "685**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/oysAAOSwU4lmsTfh/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "375589819260",
+      "availableCoupons": false,
+      "itemCreationDate": "2024-08-13T13:56:38.000Z",
+      "topRatedBuyingExperience": true,
+      "priorityListing": true,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|276922718273|0",
+      "title": "RPPC Business Block Ocamb & Stach Dry Goods Verdon Nebraska NE 1913 DB Postcard",
+      "leafCategoryIds": [
+        "262042"
+      ],
+      "categories": [
+        {
+          "categoryId": "262042",
+          "categoryName": "Topographical Postcards"
+        },
+        {
+          "categoryId": "1",
+          "categoryName": "Collectibles"
+        },
+        {
+          "categoryId": "914",
+          "categoryName": "Postcards & Supplies"
+        },
+        {
+          "categoryId": "262041",
+          "categoryName": "Postcards"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/9qIAAOSwtkph9vxl/s-l225.jpg"
+      },
+      "price": {
+        "value": "31.45",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C276922718273%7C0",
+      "seller": {
+        "username": "jackassretro",
+        "feedbackPercentage": "100.0",
+        "feedbackScore": 15389
+      },
+      "marketingPrice": {
+        "originalPrice": {
+          "value": "34.95",
+          "currency": "USD"
+        },
+        "discountPercentage": "10",
+        "discountAmount": {
+          "value": "3.50",
+          "currency": "USD"
+        },
+        "priceTreatment": "MARKDOWN"
+      },
+      "condition": "Used",
+      "conditionId": "3000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/9qIAAOSwtkph9vxl/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "CALCULATED"
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "BEST_OFFER"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/276922718273?_skw=dry+goods&hash=item4079e15841:g:9qIAAOSwtkph9vxl&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UbKPHR0BINmToFpMzqRgJ24DDCVLjElEpu5xyo4Vb7h036c4XUCWES%2Fy%2BKU69aqC5zHvDUAwYPM%2BUceUTh4xHfzl0cq6DCwQC5TQTahRs9NEvQzBZnCgXoPyLH72BeqpDQkj5eiwyT7rWBtBsigpp5oOvyFdXj%2FQcyVea6prcAzEvf%2BBGYpK7zM%2FE39B5BG0EJhbNPuIFZCDjGdZbAmOk4yYNmYad5yavJgowgv%2FqwEq63Ly6cffuoX9OMYgzocGXYN7mQdSU%2B07yPy4hLhdMrp",
+      "itemLocation": {
+        "postalCode": "983**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/CToAAOSwYIxh9vxs/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "276922718273",
+      "availableCoupons": false,
+      "itemCreationDate": "2025-03-05T16:36:52.000Z",
+      "topRatedBuyingExperience": true,
+      "priorityListing": true,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|186852002167|0",
+      "title": "NWT Vintage Cambridge Dry Goods Military Style Fitted Denim Jacket Womens 8",
+      "leafCategoryIds": [
+        "63862"
+      ],
+      "categories": [
+        {
+          "categoryId": "63862",
+          "categoryName": "Coats, Jackets & Vests"
+        },
+        {
+          "categoryId": "11450",
+          "categoryName": "Clothing, Shoes & Accessories"
+        },
+        {
+          "categoryId": "15724",
+          "categoryName": "Women's Clothing"
+        },
+        {
+          "categoryId": "260010",
+          "categoryName": "Women"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/Ys8AAOSwN-hnZeQA/s-l225.jpg"
+      },
+      "price": {
+        "value": "42.00",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C186852002167%7C0",
+      "seller": {
+        "username": "beaachchick",
+        "feedbackPercentage": "99.7",
+        "feedbackScore": 1907
+      },
+      "condition": "New with tags",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/Ys8AAOSwN-hnZeQA/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "6.99",
+            "currency": "USD"
+          },
+          "minEstimatedDeliveryDate": "2025-04-15T07:00:00.000Z",
+          "maxEstimatedDeliveryDate": "2025-04-17T07:00:00.000Z"
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "BEST_OFFER"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/186852002167?_skw=dry+goods&hash=item2b813f4977:g:Ys8AAOSwN-hnZeQA",
+      "itemLocation": {
+        "postalCode": "234**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/j~kAAOSwe91nZeQG/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/WzsAAOSw9B1nZeQO/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/FPYAAOSwYytnZeQT/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/0CYAAOSwzjtnZePz/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "186852002167",
+      "availableCoupons": false,
+      "itemCreationDate": "2024-12-20T21:41:12.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|267212078695|0",
+      "title": "United Stock Dry Goods Jeans 32X30 Dark Blue Straight Button Fly Selvedge READ",
+      "leafCategoryIds": [
+        "11483"
+      ],
+      "categories": [
+        {
+          "categoryId": "11483",
+          "categoryName": "Jeans"
+        },
+        {
+          "categoryId": "1059",
+          "categoryName": "Men's Clothing"
+        },
+        {
+          "categoryId": "11450",
+          "categoryName": "Clothing, Shoes & Accessories"
+        },
+        {
+          "categoryId": "260012",
+          "categoryName": "Men"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/DYUAAOSwGn1nyrAX/s-l225.jpg"
+      },
+      "price": {
+        "value": "28.00",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C267212078695%7C0",
+      "seller": {
+        "username": "shirewearclothing",
+        "feedbackPercentage": "99.9",
+        "feedbackScore": 5673
+      },
+      "marketingPrice": {
+        "originalPrice": {
+          "value": "40.00",
+          "currency": "USD"
+        },
+        "discountPercentage": "30",
+        "discountAmount": {
+          "value": "12.00",
+          "currency": "USD"
+        },
+        "priceTreatment": "MARKDOWN"
+      },
+      "condition": "Pre-owned - Good",
+      "conditionId": "3000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/DYUAAOSwGn1nyrAX/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "9.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "BEST_OFFER"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/267212078695?_skw=dry+goods&hash=item3e3714be67:g:DYUAAOSwGn1nyrAX",
+      "itemLocation": {
+        "postalCode": "800**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/1ckAAOSwiJhnyrAW/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/hs4AAOSwUYdnyrAW/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/~xUAAOSwFVxnyrAX/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/f74AAOSwTKpnyrAW/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/djQAAOSwZsBnyrAV/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/QT8AAOSwlItnyrAW/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/xToAAOSwnPFnyrAV/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/kQ8AAOSwXQNnyrAV/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/mc0AAOSwxGdnyrAW/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/8DMAAOSwaLtnyrAW/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/aQ8AAOSwT-NnyrAV/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/5fsAAeSwaGRny42~/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/sigAAeSwFe1ny42~/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/BiIAAeSwsvJny42~/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/nOYAAeSwsVpny42~/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/ymEAAOSw5FFnyrAU/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "267212078695",
+      "availableCoupons": false,
+      "itemCreationDate": "2025-04-06T14:11:57.000Z",
+      "topRatedBuyingExperience": true,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|326509712046|0",
+      "title": "Eagle Dry Goods Signature Series 100% Silk Button Up Camp Shirt Sz S Green",
+      "leafCategoryIds": [
+        "57990"
+      ],
+      "categories": [
+        {
+          "categoryId": "57990",
+          "categoryName": "Casual Button-Down Shirts"
+        },
+        {
+          "categoryId": "1059",
+          "categoryName": "Men's Clothing"
+        },
+        {
+          "categoryId": "11450",
+          "categoryName": "Clothing, Shoes & Accessories"
+        },
+        {
+          "categoryId": "185100",
+          "categoryName": "Shirts"
+        },
+        {
+          "categoryId": "260012",
+          "categoryName": "Men"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/TE4AAOSw9E1ncEiQ/s-l225.jpg"
+      },
+      "price": {
+        "value": "12.99",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C326509712046%7C0",
+      "seller": {
+        "username": "jcam9519",
+        "feedbackPercentage": "100.0",
+        "feedbackScore": 1438
+      },
+      "condition": "Pre-owned - Good",
+      "conditionId": "3000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/TE4AAOSw9E1ncEiQ/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "CALCULATED"
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "BEST_OFFER"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/326509712046?_skw=dry+goods&hash=item4c057ed2ae:g:TE4AAOSw9E1ncEiQ",
+      "itemLocation": {
+        "postalCode": "370**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/YooAAOSwsB5ncEiQ/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/OfEAAOSwX29ncEiQ/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/57gAAOSwKBlncEiQ/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/R9AAAOSwsh1ncEiR/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/45gAAOSw25VncEiR/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/i7sAAOSw7uxncEiR/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/abMAAOSwgVZncEiR/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/yi0AAOSwVn9ncEiS/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/QrgAAOSwem5ncEiS/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "326509712046",
+      "availableCoupons": false,
+      "itemCreationDate": "2025-03-30T19:10:48.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|146474448879|0",
+      "title": "Men Polo Ralph Lauren Quality Dry Goods White Medium Shirt Flag USA Custom Fit",
+      "leafCategoryIds": [
+        "15687"
+      ],
+      "categories": [
+        {
+          "categoryId": "15687",
+          "categoryName": "T-Shirts"
+        },
+        {
+          "categoryId": "1059",
+          "categoryName": "Men's Clothing"
+        },
+        {
+          "categoryId": "11450",
+          "categoryName": "Clothing, Shoes & Accessories"
+        },
+        {
+          "categoryId": "185100",
+          "categoryName": "Shirts"
+        },
+        {
+          "categoryId": "260012",
+          "categoryName": "Men"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/fVoAAOSwmNNnfePH/s-l225.jpg"
+      },
+      "price": {
+        "value": "11.88",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C146474448879%7C0",
+      "seller": {
+        "username": "melcar1037",
+        "feedbackPercentage": "99.3",
+        "feedbackScore": 1212
+      },
+      "condition": "Pre-owned - Good",
+      "conditionId": "3000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/fVoAAOSwmNNnfePH/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "BEST_OFFER"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/146474448879?_skw=dry+goods&hash=item221a8eb7ef:g:fVoAAOSwmNNnfePH",
+      "itemLocation": {
+        "postalCode": "554**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/0DoAAOSwxxNnfePI/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/17AAAOSwrJlnfePj/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/oj8AAOSwm3RnfePo/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/y9cAAOSwKZdnfePH/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/rf0AAOSw5xBnfePI/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/ydMAAOSwg7ZnfePI/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/NP8AAOSwPdVnfePu/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/cuIAAOSwqs9nfePI/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/rdEAAOSwfPZnfeP1/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "146474448879",
+      "availableCoupons": false,
+      "itemCreationDate": "2025-03-26T01:50:01.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|335872202251|0",
+      "title": "Vintage Saugatuck Dry Goods Jacket Adult L Blue Denim Hooded Trucker Lined Mens",
+      "leafCategoryIds": [
+        "57988"
+      ],
+      "categories": [
+        {
+          "categoryId": "57988",
+          "categoryName": "Coats, Jackets & Vests"
+        },
+        {
+          "categoryId": "1059",
+          "categoryName": "Men's Clothing"
+        },
+        {
+          "categoryId": "11450",
+          "categoryName": "Clothing, Shoes & Accessories"
+        },
+        {
+          "categoryId": "260012",
+          "categoryName": "Men"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/wP8AAOSwCIVn3NPL/s-l225.jpg"
+      },
+      "price": {
+        "value": "29.95",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C335872202251%7C0",
+      "seller": {
+        "username": "binos-bargains",
+        "feedbackPercentage": "99.8",
+        "feedbackScore": 9676
+      },
+      "condition": "Pre-owned - Good",
+      "conditionId": "3000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/wP8AAOSwCIVn3NPL/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "8.99",
+            "currency": "USD"
+          },
+          "minEstimatedDeliveryDate": "2025-04-15T07:00:00.000Z",
+          "maxEstimatedDeliveryDate": "2025-04-17T07:00:00.000Z"
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "BEST_OFFER"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/335872202251?_skw=dry+goods&hash=item4e338b160b:g:wP8AAOSwCIVn3NPL",
+      "itemLocation": {
+        "postalCode": "372**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/8PAAAOSwDahn3NPL/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/15UAAOSw2Rln3NPG/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/GfcAAOSwM~Jn3NPF/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/9BQAAOSw5ZZn3NPH/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/FiIAAOSwlW1n3NPI/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/SeIAAOSwOR5n3NPP/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/SFMAAOSwvndn3NPJ/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/Z6MAAOSw8lZn3NPK/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/UjIAAOSwNARn3NPH/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "335872202251",
+      "availableCoupons": false,
+      "itemCreationDate": "2025-03-25T07:00:01.000Z",
+      "topRatedBuyingExperience": true,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|286379602509|0",
+      "title": "Texas Dry Goods Shirt Tan Blue Color Block Long Sleeve Vintage Mens M",
+      "leafCategoryIds": [
+        "57990"
+      ],
+      "categories": [
+        {
+          "categoryId": "57990",
+          "categoryName": "Casual Button-Down Shirts"
+        },
+        {
+          "categoryId": "1059",
+          "categoryName": "Men's Clothing"
+        },
+        {
+          "categoryId": "11450",
+          "categoryName": "Clothing, Shoes & Accessories"
+        },
+        {
+          "categoryId": "185100",
+          "categoryName": "Shirts"
+        },
+        {
+          "categoryId": "260012",
+          "categoryName": "Men"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/d2MAAeSwlSlnxgnU/s-l225.jpg"
+      },
+      "price": {
+        "value": "29.99",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C286379602509%7C0",
+      "seller": {
+        "username": "rikards",
+        "feedbackPercentage": "100.0",
+        "feedbackScore": 123
+      },
+      "condition": "Pre-owned - Good",
+      "conditionId": "3000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/d2MAAeSwlSlnxgnU/s-l225.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "BEST_OFFER"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/286379602509?_skw=dry+goods&hash=item42ad8df24d:g:d2MAAeSwlSlnxgnU",
+      "itemLocation": {
+        "postalCode": "718**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/tIUAAeSw35hnxgnU/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/XtQAAeSwBX9nxgnU/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/XtIAAeSwBX9nxgnU/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/dy4AAeSwf0xnxgnW/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/Yg8AAeSwaj1nxgnW/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/w4oAAeSw1vZnxgnW/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/nU8AAeSwe3tnxgnW/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/tzUAAeSwialnxgnY/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "286379602509",
+      "availableCoupons": false,
+      "itemCreationDate": "2025-03-03T19:59:34.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|355390958141|0",
+      "title": "Business Center Dry Goods Car Osage City Kansas KS RPPC Photo Antique Postcard",
+      "leafCategoryIds": [
+        "262042"
+      ],
+      "categories": [
+        {
+          "categoryId": "262042",
+          "categoryName": "Topographical Postcards"
+        },
+        {
+          "categoryId": "1",
+          "categoryName": "Collectibles"
+        },
+        {
+          "categoryId": "914",
+          "categoryName": "Postcards & Supplies"
+        },
+        {
+          "categoryId": "262041",
+          "categoryName": "Postcards"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/heMAAOSwRYtlqTcf/s-l225.jpg"
+      },
+      "price": {
+        "value": "27.97",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C355390958141%7C0",
+      "seller": {
+        "username": "eternal_loot",
+        "feedbackPercentage": "100.0",
+        "feedbackScore": 24996
+      },
+      "marketingPrice": {
+        "originalPrice": {
+          "value": "39.95",
+          "currency": "USD"
+        },
+        "discountPercentage": "30",
+        "discountAmount": {
+          "value": "11.98",
+          "currency": "USD"
+        },
+        "priceTreatment": "MARKDOWN"
+      },
+      "condition": "Used",
+      "conditionId": "3000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/heMAAOSwRYtlqTcf/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "1.95",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "BEST_OFFER"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/355390958141?_skw=dry+goods&hash=item52bef3aa3d:g:heMAAOSwRYtlqTcf&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UZqPZbzi6%2BVK042itgj34T9syOg5X2JwoKig0EvG16gAiWQVFr%2Ft4a7MRQiHahUvtqtdEaM9wXy1xD%2BbWu4jK01bmtWchBbAkZYZydGvP6zkt2dfuAdflMQmM6pZUdb7lJc1xtKrUbTzlYmiOV%2BJZK1mw3IPBKEX4Rf85%2FpGJcA5mUvE9mnqTpwX93%2FzYfHkJt2VvgCcM3krZHcm1ch7nXch6xwGDmZjB8q6NZB1U5QE72S%2FXNt8giWgbzCYEojP%2FbgFmrrmsKKtHQ72huuPBxy",
+      "itemLocation": {
+        "postalCode": "478**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/WAAAAOSwybRlqTcf/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "355390958141",
+      "availableCoupons": false,
+      "itemCreationDate": "2024-01-18T14:36:41.000Z",
+      "topRatedBuyingExperience": true,
+      "priorityListing": true,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|126982728211|0",
+      "title": "Ralph Lauren Dry Goods Co LRL Turn Lock Fireman Fisherman Jacket Size Small",
+      "leafCategoryIds": [
+        "63862"
+      ],
+      "categories": [
+        {
+          "categoryId": "63862",
+          "categoryName": "Coats, Jackets & Vests"
+        },
+        {
+          "categoryId": "11450",
+          "categoryName": "Clothing, Shoes & Accessories"
+        },
+        {
+          "categoryId": "15724",
+          "categoryName": "Women's Clothing"
+        },
+        {
+          "categoryId": "260010",
+          "categoryName": "Women"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/81sAAeSwMCRnzMCp/s-l225.jpg"
+      },
+      "price": {
+        "value": "60.00",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C126982728211%7C0",
+      "seller": {
+        "username": "imkinda66",
+        "feedbackPercentage": "97.7",
+        "feedbackScore": 729
+      },
+      "condition": "Pre-owned - Good",
+      "conditionId": "3000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/81sAAeSwMCRnzMCp/s-l225.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "10.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "BEST_OFFER"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/126982728211?_skw=dry+goods&hash=item1d90c2aa13:g:81sAAeSwMCRnzMCp&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UZP8qwebaBqlSkk0doriXv7%2B1MD0wmwFIkQ%2FSfea5wXFaHSOl3QDEejrmQtgDka977mpjN%2BiPrTfL0Dny5V%2Fs4mGhfrlYayZm92gBaiHgaXDr1u96cJtzdfHEXpnnL2PWPZqI3Im2e%2B%2BzBpXPBxWAD9XItafDSPMlZiMk0%2FlzM8YWnTR3K6AX0IIdETqGl3%2FTrNF9tvRjrBw6sB1KxVmoGiECWdjsJ56nBVU7MkxE7gC5WQmn--p2Zpvw%2Bm8M3YxNtYTunXheyo8aYprtSk3AsU",
+      "itemLocation": {
+        "postalCode": "631**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/iQIAAeSwK6RnzMCp/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/4LYAAeSwgypnzMCt/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/4LIAAeSwgypnzMCp/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/2EwAAeSwveBnzMCp/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/HPoAAeSw1fFnzMCq/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/8aUAAeSwKkNnzMCq/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/BfwAAeSw3WtnzMCq/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/5y4AAeSw5N1nzMCr/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/69sAAeSweJBnzMCr/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/7IcAAeSwKwFnzMCr/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/Id4AAeSwq3ZnzMCs/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/~8cAAeSwHsVnzMCs/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/2MAAAeSwnShnzMCs/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/35YAAeSwNSVnzMCt/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/IHsAAeSwkMtnzMCt/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/1iwAAeSw4t9nzMCt/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/bhAAAeSw3vlnzMCu/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/58kAAeSwWh1nzMCt/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "126982728211",
+      "availableCoupons": false,
+      "itemCreationDate": "2025-03-08T22:17:59.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": true,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|156876644965|0",
+      "title": "Dry Goods by J Crew Harwick Nylon Utility  Backpack Khaki W/ Leather Trim Travel",
+      "leafCategoryIds": [
+        "52357"
+      ],
+      "categories": [
+        {
+          "categoryId": "52357",
+          "categoryName": "Bags"
+        },
+        {
+          "categoryId": "4250",
+          "categoryName": "Men's Accessories"
+        },
+        {
+          "categoryId": "11450",
+          "categoryName": "Clothing, Shoes & Accessories"
+        },
+        {
+          "categoryId": "260012",
+          "categoryName": "Men"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/aoQAAeSwIB5n9r1j/s-l225.jpg"
+      },
+      "price": {
+        "value": "40.99",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C156876644965%7C0",
+      "seller": {
+        "username": "stevenbarber0125",
+        "feedbackPercentage": "100.0",
+        "feedbackScore": 2050
+      },
+      "condition": "Pre-owned",
+      "conditionId": "3000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/aoQAAeSwIB5n9r1j/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "6.99",
+            "currency": "USD"
+          },
+          "minEstimatedDeliveryDate": "2025-04-15T07:00:00.000Z",
+          "maxEstimatedDeliveryDate": "2025-04-17T07:00:00.000Z"
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "BEST_OFFER"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/156876644965?_skw=dry+goods&hash=item248693a265:g:aoQAAeSwIB5n9r1j",
+      "itemLocation": {
+        "postalCode": "222**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/bwsAAeSwsPpn9r1j/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/fXUAAeSwiQRn9r1j/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/gyUAAeSweGln9r1j/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/ZCUAAeSws8hn9r1j/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/Y08AAeSwgzFn9r1k/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/gFgAAeSwhmxn9r1k/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/aYsAAeSwG09n9r1k/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/sZcAAeSw5ftn9r1k/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/iYkAAeSwUIdn9r1l/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/WDoAAeSwpDNn9r1l/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/Y1MAAeSwgzFn9r1l/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/rRoAAeSwf8Jn9r1l/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/gs8AAeSw7ENn9r1l/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/Y1QAAeSwgzFn9r1l/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/akcAAeSwB~Nn9r9Q/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/FYgAAeSwuMFn9r9V/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/P5QAAeSwmtdn9r9a/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/aT0AAeSw2Bhn9r9l/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/iaUAAeSwwg9n9r9q/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/Z~UAAeSwGMtn9r9y/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/aowAAeSwSNVn9r98/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/Z9EAAeSwkeRn9r1n/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/KZ0AAeSwbiJn9r1n/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "156876644965",
+      "availableCoupons": false,
+      "itemCreationDate": "2025-04-09T18:42:12.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|156885981982|0",
+      "title": "Vintage Vest Women’s Size Cambridge Dry Goods Company Rayon Embroidered 90s Y2k",
+      "leafCategoryIds": [
+        "175795"
+      ],
+      "categories": [
+        {
+          "categoryId": "175795",
+          "categoryName": "Tops"
+        },
+        {
+          "categoryId": "11450",
+          "categoryName": "Clothing, Shoes & Accessories"
+        },
+        {
+          "categoryId": "175759",
+          "categoryName": "Vintage"
+        },
+        {
+          "categoryId": "182047",
+          "categoryName": "Women's Vintage Clothing"
+        },
+        {
+          "categoryId": "260033",
+          "categoryName": "Specialty"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/e5sAAeSwl4Vn-qzw/s-l225.jpg"
+      },
+      "price": {
+        "value": "18.00",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C156885981982%7C0",
+      "seller": {
+        "username": "andshve-97",
+        "feedbackPercentage": "100.0",
+        "feedbackScore": 828
+      },
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/e5sAAeSwl4Vn-qzw/s-l1200.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "BEST_OFFER"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/156885981982?_skw=dry+goods&hash=item2487221b1e:g:e5sAAeSwl4Vn-qzw",
+      "itemLocation": {
+        "postalCode": "560**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/IQ8AAeSwdHZn-q2E/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/5esAAeSwQ9Zn-qzY/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/XPMAAeSwdhpn-q2W/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/A3wAAeSw1WRn-q23/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "156885981982",
+      "availableCoupons": false,
+      "itemCreationDate": "2025-04-12T18:21:52.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|286473100029|0",
+      "title": "Polo Ralph Lauren Tractor Patch Trucker Cap Hat Sportsman Dry Goods Outdoors",
+      "leafCategoryIds": [
+        "52365"
+      ],
+      "categories": [
+        {
+          "categoryId": "52365",
+          "categoryName": "Hats"
+        },
+        {
+          "categoryId": "4250",
+          "categoryName": "Men's Accessories"
+        },
+        {
+          "categoryId": "11450",
+          "categoryName": "Clothing, Shoes & Accessories"
+        },
+        {
+          "categoryId": "260012",
+          "categoryName": "Men"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/KTwAAOSwIjhltEYW/s-l225.jpg"
+      },
+      "price": {
+        "value": "110.00",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C286473100029%7C0",
+      "seller": {
+        "username": "rareralph1992",
+        "feedbackPercentage": "100.0",
+        "feedbackScore": 2256
+      },
+      "condition": "New with tags",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/KTwAAOSwIjhltEYW/s-l640.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "8.95",
+            "currency": "USD"
+          },
+          "minEstimatedDeliveryDate": "2025-04-15T07:00:00.000Z",
+          "maxEstimatedDeliveryDate": "2025-04-17T07:00:00.000Z"
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "BEST_OFFER"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/286473100029?_skw=dry+goods&hash=item42b3209afd:g:KTwAAOSwIjhltEYW",
+      "itemLocation": {
+        "postalCode": "857**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/tpoAAOSwB41ltI0f/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/0lwAAOSwNGBltEYX/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/ZY4AAOSwiUNl76FC/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "286473100029",
+      "availableCoupons": false,
+      "itemCreationDate": "2025-04-09T09:03:46.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|236039757094|0",
+      "title": "Vintage Levi's Shirt Mens XL Green Plaid Loop Collar Dry Goods 90s Surf Skate",
+      "leafCategoryIds": [
+        "57990"
+      ],
+      "categories": [
+        {
+          "categoryId": "57990",
+          "categoryName": "Casual Button-Down Shirts"
+        },
+        {
+          "categoryId": "1059",
+          "categoryName": "Men's Clothing"
+        },
+        {
+          "categoryId": "11450",
+          "categoryName": "Clothing, Shoes & Accessories"
+        },
+        {
+          "categoryId": "185100",
+          "categoryName": "Shirts"
+        },
+        {
+          "categoryId": "260012",
+          "categoryName": "Men"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/un4AAOSwvsNn8e~W/s-l225.jpg"
+      },
+      "price": {
+        "value": "28.93",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C236039757094%7C0",
+      "seller": {
+        "username": "bingbargains",
+        "feedbackPercentage": "99.9",
+        "feedbackScore": 7197
+      },
+      "condition": "Pre-owned - Good",
+      "conditionId": "3000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/un4AAOSwvsNn8e~W/s-l960.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "6.99",
+            "currency": "USD"
+          },
+          "minEstimatedDeliveryDate": "2025-04-15T07:00:00.000Z",
+          "maxEstimatedDeliveryDate": "2025-04-17T07:00:00.000Z"
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "BEST_OFFER"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/236039757094?_skw=dry+goods&hash=item36f510dd26:g:un4AAOSwvsNn8e~W",
+      "itemLocation": {
+        "postalCode": "170**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/nS4AAOSw5~dn8e~W/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/ZPAAAOSwen9n8e~Z/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/ORoAAOSwm-1n8e~W/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/OtcAAOSw2sNn8e~X/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/4jIAAOSw7h1n8e~X/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/gboAAOSwMAZn8e~a/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/dfwAAOSw1YNn8e~W/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/~HAAAOSw2H9n8e~W/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/YV8AAOSwTZhn8e~W/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/8S8AAOSwdr5n8e~W/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/pWUAAOSwmjln8e~X/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/5H8AAOSwmydn8e~X/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/bP0AAOSw6lxn8e~X/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "236039757094",
+      "availableCoupons": false,
+      "itemCreationDate": "2025-04-06T03:08:45.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|256891185928|0",
+      "title": "Antique German D.R.G.M. Dexterity Game TR Harris co. Cohocton NY Dry Goods",
+      "leafCategoryIds": [
+        "800"
+      ],
+      "categories": [
+        {
+          "categoryId": "800",
+          "categoryName": "Premiums, Prizes & Charms"
+        },
+        {
+          "categoryId": "1",
+          "categoryName": "Collectibles"
+        },
+        {
+          "categoryId": "34",
+          "categoryName": "Advertising"
+        },
+        {
+          "categoryId": "13623",
+          "categoryName": "Merchandise & Memorabilia"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/Cm4AAOSwhXhn-qxa/s-l225.jpg"
+      },
+      "price": {
+        "value": "125.00",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C256891185928%7C0",
+      "seller": {
+        "username": "barnsalegranny",
+        "feedbackPercentage": "100.0",
+        "feedbackScore": 412
+      },
+      "condition": "Used",
+      "conditionId": "3000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/Cm4AAOSwhXhn-qxa/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "5.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "BEST_OFFER"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/256891185928?_skw=dry+goods&hash=item3bcfe86b08:g:Cm4AAOSwhXhn-qxa",
+      "itemLocation": {
+        "postalCode": "148**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/Z50AAOSw4-Rn-qxX/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/nkMAAOSwTdln-qxa/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/XYAAAOSw09Bn-qxX/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "256891185928",
+      "availableCoupons": false,
+      "itemCreationDate": "2025-04-12T18:10:40.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|256886813567|0",
+      "title": "Fabric dry goods textiles remnant scraps lot of 4-1/2# 17 yards",
+      "leafCategoryIds": [
+        "28162"
+      ],
+      "categories": [
+        {
+          "categoryId": "28162",
+          "categoryName": "Fabric"
+        },
+        {
+          "categoryId": "14339",
+          "categoryName": "Crafts"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/I5wAAOSwv0Rn9UwU/s-l225.jpg"
+      },
+      "price": {
+        "value": "24.00",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C256886813567%7C0",
+      "seller": {
+        "username": "nevroica42",
+        "feedbackPercentage": "99.1",
+        "feedbackScore": 5013
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/I5wAAOSwv0Rn9UwU/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "14.20",
+            "currency": "USD"
+          },
+          "minEstimatedDeliveryDate": "2025-04-15T07:00:00.000Z",
+          "maxEstimatedDeliveryDate": "2025-04-17T07:00:00.000Z"
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/256886813567?_skw=dry+goods&hash=item3bcfa5b37f:g:I5wAAOSwv0Rn9UwU",
+      "itemLocation": {
+        "postalCode": "032**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/FSUAAOSwit5n9Uwe/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/1AEAAOSwl71n9Uwp/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/K~QAAOSwMjdn9Uwz/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/X30AAOSwnvpn9Uw~/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/zqgAAOSwh65n9Uxk/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "256886813567",
+      "availableCoupons": false,
+      "itemCreationDate": "2025-04-08T16:31:25.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|316643267549|0",
+      "title": "Vintage Cambridge Dry Goods Denim Button-up 42x29 Christmas charms sz 6 med-L",
+      "leafCategoryIds": [
+        "53159"
+      ],
+      "categories": [
+        {
+          "categoryId": "53159",
+          "categoryName": "Tops"
+        },
+        {
+          "categoryId": "11450",
+          "categoryName": "Clothing, Shoes & Accessories"
+        },
+        {
+          "categoryId": "15724",
+          "categoryName": "Women's Clothing"
+        },
+        {
+          "categoryId": "260010",
+          "categoryName": "Women"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/uOoAAOSwBAZj8mfY/s-l225.jpg"
+      },
+      "price": {
+        "value": "18.00",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C316643267549%7C0",
+      "seller": {
+        "username": "dflem_10",
+        "feedbackPercentage": "99.8",
+        "feedbackScore": 2751
+      },
+      "condition": "Pre-owned - Good",
+      "conditionId": "3000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/uOoAAOSwBAZj8mfY/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "CALCULATED"
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/316643267549?_skw=dry+goods&hash=item49b968d3dd:g:uOoAAOSwBAZj8mfY",
+      "itemLocation": {
+        "postalCode": "761**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/HXEAAOSwgslj8mfe/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/ZCkAAOSwujNj8mfZ/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/ZA0AAOSwGUFj8mfa/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/YR0AAOSwcidj8mft/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/eAAAAOSwyZlj8mfe/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/f8EAAOSwIN5j8mfg/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/384AAOSw8sRj8mf2/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/zHwAAOSwxjlj8mfi/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "316643267549",
+      "availableCoupons": false,
+      "itemCreationDate": "2025-04-12T17:56:10.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|127035658836|0",
+      "title": "Purple Mountain Dry Goods Jeans Fleece lined 36L",
+      "leafCategoryIds": [
+        "11483"
+      ],
+      "categories": [
+        {
+          "categoryId": "11483",
+          "categoryName": "Jeans"
+        },
+        {
+          "categoryId": "1059",
+          "categoryName": "Men's Clothing"
+        },
+        {
+          "categoryId": "11450",
+          "categoryName": "Clothing, Shoes & Accessories"
+        },
+        {
+          "categoryId": "260012",
+          "categoryName": "Men"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/AfwAAOSw5Rln1fKd/s-l225.jpg"
+      },
+      "price": {
+        "value": "39.00",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C127035658836%7C0",
+      "seller": {
+        "username": "inrpeace",
+        "feedbackPercentage": "100.0",
+        "feedbackScore": 519
+      },
+      "condition": "Pre-owned - Fair",
+      "conditionId": "3010",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/AfwAAOSw5Rln1fKd/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "9.00",
+            "currency": "USD"
+          },
+          "minEstimatedDeliveryDate": "2025-04-15T07:00:00.000Z",
+          "maxEstimatedDeliveryDate": "2025-04-17T07:00:00.000Z"
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "AUCTION"
+      ],
+      "bidCount": 0,
+      "currentBidPrice": {
+        "value": "17.00",
+        "currency": "USD"
+      },
+      "itemWebUrl": "https://www.ebay.com/itm/127035658836?_skw=dry+goods&hash=item1d93ea5254:g:AfwAAOSw5Rln1fKd",
+      "itemLocation": {
+        "postalCode": "138**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/ARAAAOSwDGxn1fLd/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/vqcAAOSwqaJn1fMO/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/j8EAAOSwR5Rn1fMB/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/Sk8AAOSwpCBn1fMO/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/YOcAAOSwWydn1fMO/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/JM0AAOSwRJJn1fMh/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/Y0kAAOSwIexn1fMj/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/4PkAAOSwE6Rn1fMj/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/hssAAOSwNopn1fMj/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/yXgAAOSwTThn1hoO/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/EO0AAOSwng9n1fMn/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/u~QAAOSwNuxn1fM5/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "127035658836",
+      "availableCoupons": false,
+      "itemCreationDate": "2025-04-06T00:25:18.000Z",
+      "itemEndDate": "2025-04-13T00:25:18.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|297102383768|0",
+      "title": "Beaded Cambridge Dry Goods Company  Small Cotton Jean Jacket New",
+      "leafCategoryIds": [
+        "63862"
+      ],
+      "categories": [
+        {
+          "categoryId": "63862",
+          "categoryName": "Coats, Jackets & Vests"
+        },
+        {
+          "categoryId": "11450",
+          "categoryName": "Clothing, Shoes & Accessories"
+        },
+        {
+          "categoryId": "15724",
+          "categoryName": "Women's Clothing"
+        },
+        {
+          "categoryId": "260010",
+          "categoryName": "Women"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/l0UAAeSw6Ftnz6RE/s-l225.jpg"
+      },
+      "price": {
+        "value": "75.00",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C297102383768%7C0",
+      "seller": {
+        "username": "moonlitshopping",
+        "feedbackPercentage": "100.0",
+        "feedbackScore": 203
+      },
+      "condition": "New with tags",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/l0UAAeSw6Ftnz6RE/s-l225.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "CALCULATED"
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "BEST_OFFER"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/297102383768?_skw=dry+goods&hash=item452cae9a98:g:l0UAAeSw6Ftnz6RE&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UZqay2TwZ64DsdQh%2BLw%2B2uMYA%2B9oke0B4gCB5oMdGZ7uIFtXijlYn8Svws3nbf2pgjKPR%2Fr9coLj%2Bdmxv2V8gjVYmRUDamESMqy7QRXkGYk9aQ7PLmLFcQAkLO7Y4gRskhv0LVOTecF5PZ132t%2FUIFm9dzhMOBExbtnIjFNfgMUR9y2GHMVaD8m0SjPDI9Oud0dncrt3%2BIXr8bYvt%2BV9QffOR9d4G1KX%2BT6MRipOXHKwpHUurrxcn1bhNe5xEeAm0IgVVO%2BK9C2hhkAKUAclIUe",
+      "itemLocation": {
+        "postalCode": "921**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/fugAAeSwzfxnz6RE/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/VM4AAeSweMtnz6RD/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/fSUAAeSw~1pnz6RE/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/RxkAAeSwC2hnz6RF/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/TQQAAeSwD85nz6RF/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/mBMAAeSwC5Rnz6RG/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "297102383768",
+      "availableCoupons": false,
+      "itemCreationDate": "2025-03-11T02:54:32.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": true,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|126717727564|0",
+      "title": "Postcard Jones-Kennington Dry Goods Co. Store View Jackson Mississippi ca.1908",
+      "leafCategoryIds": [
+        "262042"
+      ],
+      "categories": [
+        {
+          "categoryId": "262042",
+          "categoryName": "Topographical Postcards"
+        },
+        {
+          "categoryId": "1",
+          "categoryName": "Collectibles"
+        },
+        {
+          "categoryId": "914",
+          "categoryName": "Postcards & Supplies"
+        },
+        {
+          "categoryId": "262041",
+          "categoryName": "Postcards"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/0hAAAOSwKbRnCTDs/s-l225.jpg"
+      },
+      "price": {
+        "value": "54.75",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C126717727564%7C0",
+      "seller": {
+        "username": "tdl_collectibles",
+        "feedbackPercentage": "100.0",
+        "feedbackScore": 3637
+      },
+      "condition": "Used",
+      "conditionId": "3000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/0hAAAOSwKbRnCTDs/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/126717727564?_skw=dry+goods&hash=item1d80f7134c:g:0hAAAOSwKbRnCTDs&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UYjGTY1C6Ji6dgvIy3nTobZ3jQgzTG3MgrBxF1RF%2FnzkYHKqtxMMb51QDwtgCztESG3ro5ZP2L--1lNvuHFZTIWnp9MAIgXQvjux0VsKz6dTmDdXHn8wkA%2F9cR5ZjQPthPUXAePH30oAV2Cd8o7D9EWVVaQ%2BYvc4c1hdkhM0YeNlrH1MC%2BuLpBRXMJUWIr2LUDb3dcLg7%2BbsgpSumPIvqdFcvYxrnEY84hfyxGzvUTEJXqvXtwnHvZ1UGFErtmqUfGXtzkWaWu9CnCx0i%2BJiLDQ",
+      "itemLocation": {
+        "postalCode": "150**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/Cm0AAOSwW9dnCTDt/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "126717727564",
+      "availableCoupons": false,
+      "itemCreationDate": "2024-10-11T14:06:39.000Z",
+      "topRatedBuyingExperience": true,
+      "priorityListing": true,
+      "listingMarketplaceId": "EBAY_US"
+    }
+  ]
+}

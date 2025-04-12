@@ -1,0 +1,4485 @@
+{
+  "href": "https://api.ebay.com/buy/browse/v1/item_summary/search?q=snacks&limit=50&offset=0",
+  "total": 113085,
+  "next": "https://api.ebay.com/buy/browse/v1/item_summary/search?q=snacks&limit=50&offset=50",
+  "limit": 50,
+  "offset": 0,
+  "itemSummaries": [
+    {
+      "itemId": "v1|316010766047|0",
+      "title": "New Frito-Lay Bold Mix Variety Pack Snack Chips, 18 Count Multipack FRESH 3Pack",
+      "leafCategoryIds": [
+        "179179"
+      ],
+      "categories": [
+        {
+          "categoryId": "179179",
+          "categoryName": "Chips"
+        },
+        {
+          "categoryId": "11700",
+          "categoryName": "Home & Garden"
+        },
+        {
+          "categoryId": "14308",
+          "categoryName": "Food & Beverages"
+        },
+        {
+          "categoryId": "257942",
+          "categoryName": "Pantry"
+        },
+        {
+          "categoryId": "258010",
+          "categoryName": "Snacks"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/ptwAAOSw4RVnSdsh/s-l225.jpg"
+      },
+      "price": {
+        "value": "25.99",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C316010766047%7C0",
+      "seller": {
+        "username": "keyzontunde-0",
+        "feedbackPercentage": "98.1",
+        "feedbackScore": 628
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/ptwAAOSw4RVnSdsh/s-l1200.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "BEST_OFFER"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/316010766047?_skw=snacks&hash=item4993b59edf:g:ptwAAOSw4RVnSdsh&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UY9TcckLwvrass6A%2BwK8zFAExZKtWMOuSn%2F2iXqxu3yVxCZ3L0IwlCauf78XNuP2UKsR5v7l1R5G5--b6HS3xEEmzK6kpKX%2BL7HuvcJD7EPnegL89fh6sP3Gkd95Ox7tu2tCUvpI6CN96m6iVapgkT3BtIi%2BTze80%2FfR24x%2FAaS%2FY2%2FuW2kpI1%2F5PwZak9MwOVGr1hInqFtA2RfG3gWl2qSsVwlcB45Dvs86lPL%2Bb%2B40I8fKQaO9ojhpeeP8vhfdqTI%2B6S9dv0nUSRIiks4mi5X",
+      "itemLocation": {
+        "postalCode": "300**",
+        "country": "US"
+      },
+      "adultOnly": false,
+      "legacyItemId": "316010766047",
+      "availableCoupons": false,
+      "itemCreationDate": "2024-11-29T15:17:58.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": true,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|266901627470|566639352563",
+      "title": "(US SELLER) 50 Exotic Japanese Korean Asian Snack Box Mystery Ramen Chips Ramune",
+      "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=266901627470",
+      "leafCategoryIds": [
+        "179187"
+      ],
+      "categories": [
+        {
+          "categoryId": "179187",
+          "categoryName": "Other Snacks"
+        },
+        {
+          "categoryId": "11700",
+          "categoryName": "Home & Garden"
+        },
+        {
+          "categoryId": "14308",
+          "categoryName": "Food & Beverages"
+        },
+        {
+          "categoryId": "257942",
+          "categoryName": "Pantry"
+        },
+        {
+          "categoryId": "258010",
+          "categoryName": "Snacks"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/8S4AAOSwv1FmkMay/s-l225.jpg"
+      },
+      "price": {
+        "value": "9.99",
+        "currency": "USD"
+      },
+      "itemGroupType": "SELLER_DEFINED_VARIATIONS",
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C266901627470%7C566639352563",
+      "seller": {
+        "username": "fruitypeachpop",
+        "feedbackPercentage": "99.4",
+        "feedbackScore": 1093
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/8S4AAOSwv1FmkMay/s-l960.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/266901627470?_skw=snacks&hash=item3e2493a24e:g:8S4AAOSwv1FmkMay&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UZm3V5OgukthNdygF2xXQfpG36LPYEyu9kiz8X4kIl3VdF1Ns3GLJfLbdyBQfphBC%2BazltW%2F4nMMqq4UHbpJAU7dW4cVOWUvvTsozKcfzO7fT0Q8gk6mXPzk7rGQV8Z6EFnUy%2BeTUWW3Y85UQ64%2FtffIRRAmPKsV0eGOT%2BIBPcVpMkfDhcBMYtvmA%2Bsy1mdUXyigyjOI08QyhG0lRyvdzVsV5lxJ5easFBHPYi6IA%2FiWagf%2Bahgsim7QXZuyR0qkkITQbrAsiY5ORwaFwIz8ylK",
+      "itemLocation": {
+        "postalCode": "071**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/3UIAAOSweKtmkMa7/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/5VAAAOSwlWdmmwV0/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/fboAAOSw8ChmlG3I/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/2WwAAOSwffdmkMa-/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/wQAAAOSwRuNmkMbR/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "266901627470",
+      "availableCoupons": false,
+      "itemCreationDate": "2024-07-12T06:09:22.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": true,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|315890943176|0",
+      "title": "Cheetos Crunchy Cheese Flavored Snacks, 1 oz, 30 Count",
+      "leafCategoryIds": [
+        "179179"
+      ],
+      "categories": [
+        {
+          "categoryId": "179179",
+          "categoryName": "Chips"
+        },
+        {
+          "categoryId": "11700",
+          "categoryName": "Home & Garden"
+        },
+        {
+          "categoryId": "14308",
+          "categoryName": "Food & Beverages"
+        },
+        {
+          "categoryId": "257942",
+          "categoryName": "Pantry"
+        },
+        {
+          "categoryId": "258010",
+          "categoryName": "Snacks"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/YocAAOSwLUlnHPgC/s-l225.jpg"
+      },
+      "price": {
+        "value": "15.39",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C315890943176%7C0",
+      "seller": {
+        "username": "mmu_us_vacz2zek",
+        "feedbackPercentage": "97.0",
+        "feedbackScore": 891
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/YocAAOSwLUlnHPgC/s-l1200.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "BEST_OFFER"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/315890943176?_skw=snacks&hash=item498c9144c8:g:YocAAOSwLUlnHPgC&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UYe3RrPstO9iVU%2B6n4UP4vG945BQuZrblzOoqdCgVVZ7n4FK4CJJmKOYUy14vT%2B5f38LPgHk3EIfwQCKkiNtad926M%2Bgd3dJs38B9V%2B9Gm1JD2XUa28EXdA8J45t%2FNqC7xePa6UzjTL3%2BQvVAHMn8CIPVEJ0qD%2BcLxXK%2FADkNUxhbTh0gUz3HYk4GGnBRCk88ru4o9cMIp%2FrhAMI1OYlWVLDEJhfsX2vFwicTK8SQNTCYuVvwgeW3y90O9uPAyjNxvSopvqNLShD0G83U4dC56Q",
+      "itemLocation": {
+        "postalCode": "104**",
+        "country": "US"
+      },
+      "adultOnly": false,
+      "legacyItemId": "315890943176",
+      "availableCoupons": false,
+      "itemCreationDate": "2024-10-26T14:09:17.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": true,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|316010774164|0",
+      "title": "New Frito-Lay Flamin' Hot Mix Variety Pack Snack Chip, 18 Count Multipack 3 Pack",
+      "leafCategoryIds": [
+        "179179"
+      ],
+      "categories": [
+        {
+          "categoryId": "179179",
+          "categoryName": "Chips"
+        },
+        {
+          "categoryId": "11700",
+          "categoryName": "Home & Garden"
+        },
+        {
+          "categoryId": "14308",
+          "categoryName": "Food & Beverages"
+        },
+        {
+          "categoryId": "257942",
+          "categoryName": "Pantry"
+        },
+        {
+          "categoryId": "258010",
+          "categoryName": "Snacks"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/WMsAAOSwQypnSdwR/s-l225.jpg"
+      },
+      "price": {
+        "value": "24.99",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C316010774164%7C0",
+      "seller": {
+        "username": "keyzontunde-0",
+        "feedbackPercentage": "98.1",
+        "feedbackScore": 628
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/WMsAAOSwQypnSdwR/s-l1200.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "BEST_OFFER"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/316010774164?_skw=snacks&hash=item4993b5be94:g:WMsAAOSwQypnSdwR&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UaNDqLu5KbKvZJrcW9dIcutz7%2BDbW8hmuWxw%2FG4iG9kbM89WWC%2BJme7cp5cxYbC3a9Vt2vEVlCYvKwmlgi12OOqY%2FXSuHhBdclb98QYFhbYb7BgWaaV%2B2EcFaUQd6DbfFUtGuSngtaa%2FqWDWdTzmQvrQ9Zq4%2FDZo5b%2FOJiLE%2FQIBRm6QzvTfHVutECg3HkVSdrFGCRKXuBZIzNv9e%2BP23Bb4AnuRf6TCMBxkxBcdyVBhyjnG0lpAY5grwq2yEOwigIcD65he3NRFkf9xeDco678",
+      "itemLocation": {
+        "postalCode": "300**",
+        "country": "US"
+      },
+      "adultOnly": false,
+      "legacyItemId": "316010774164",
+      "availableCoupons": false,
+      "itemCreationDate": "2024-11-29T15:22:14.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": true,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|375920809058|0",
+      "title": "Frito-Lay Family Fun Mix Variety Pack Snack Chips, 18 Count Multipack New",
+      "leafCategoryIds": [
+        "179179"
+      ],
+      "categories": [
+        {
+          "categoryId": "179179",
+          "categoryName": "Chips"
+        },
+        {
+          "categoryId": "11700",
+          "categoryName": "Home & Garden"
+        },
+        {
+          "categoryId": "14308",
+          "categoryName": "Food & Beverages"
+        },
+        {
+          "categoryId": "257942",
+          "categoryName": "Pantry"
+        },
+        {
+          "categoryId": "258010",
+          "categoryName": "Snacks"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/4OgAAOSwVOZnhBs7/s-l225.jpg"
+      },
+      "price": {
+        "value": "9.80",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C375920809058%7C0",
+      "seller": {
+        "username": "thevalue52",
+        "feedbackPercentage": "99.6",
+        "feedbackScore": 549
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/4OgAAOSwVOZnhBs7/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "BEST_OFFER"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/375920809058?_skw=snacks&hash=item5786a05462:g:4OgAAOSwVOZnhBs7",
+      "itemLocation": {
+        "postalCode": "073**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/OIoAAOSwCKFnhBs7/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/lKEAAOSwHZRnhBs7/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/o9kAAOSw6m1nhBs~/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/Rz8AAOSwxyNnhBs~/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/XzcAAOSw021nhBs7/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/L4oAAOSwvzJnhBs7/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/edsAAOSwII9nhBs7/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/ru4AAOSw3XxnhBs7/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/lIUAAOSwPqBnhBs7/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "375920809058",
+      "availableCoupons": false,
+      "itemCreationDate": "2025-01-12T19:44:53.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|315980764080|0",
+      "title": "Frito-Lay Baked and Popped Mix Variety Pack, 18 Count NEW Free Shipping",
+      "leafCategoryIds": [
+        "179179"
+      ],
+      "categories": [
+        {
+          "categoryId": "179179",
+          "categoryName": "Chips"
+        },
+        {
+          "categoryId": "11700",
+          "categoryName": "Home & Garden"
+        },
+        {
+          "categoryId": "14308",
+          "categoryName": "Food & Beverages"
+        },
+        {
+          "categoryId": "257942",
+          "categoryName": "Pantry"
+        },
+        {
+          "categoryId": "258010",
+          "categoryName": "Snacks"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/S3IAAOSwoHhnPjiC/s-l225.jpg"
+      },
+      "price": {
+        "value": "8.50",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C315980764080%7C0",
+      "seller": {
+        "username": "promoper-33",
+        "feedbackPercentage": "98.7",
+        "feedbackScore": 665
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/S3IAAOSwoHhnPjiC/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "BEST_OFFER"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/315980764080?_skw=snacks&hash=item4991ebd3b0:g:S3IAAOSwoHhnPjiC",
+      "itemLocation": {
+        "postalCode": "211**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/CC0AAOSw-IdnPjiC/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/bvIAAOSw9RFnPjiB/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/CKQAAOSwkhRnPjiB/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/iXEAAOSwtGpnPjiC/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/-AAAAOSwwTFnPjiC/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/EcsAAOSw9DxnPjiC/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/7YMAAOSwIf5nPjiC/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/wFMAAOSw4V5nPjiC/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/krsAAOSwS4lnPjiC/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/WgUAAOSwkNlnPjiG/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/ZRUAAOSwddtnPjiC/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "315980764080",
+      "availableCoupons": false,
+      "itemCreationDate": "2024-11-20T19:30:27.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|167055263782|0",
+      "title": "New Frito-Lay Flamin' Hot Mix Variety Pack Snack Chips, 18 Count Multipack New",
+      "leafCategoryIds": [
+        "179179"
+      ],
+      "categories": [
+        {
+          "categoryId": "179179",
+          "categoryName": "Chips"
+        },
+        {
+          "categoryId": "11700",
+          "categoryName": "Home & Garden"
+        },
+        {
+          "categoryId": "14308",
+          "categoryName": "Food & Beverages"
+        },
+        {
+          "categoryId": "257942",
+          "categoryName": "Pantry"
+        },
+        {
+          "categoryId": "258010",
+          "categoryName": "Snacks"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/ypUAAOSwq0RnInX~/s-l225.jpg"
+      },
+      "price": {
+        "value": "8.96",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C167055263782%7C0",
+      "seller": {
+        "username": "discountst_8",
+        "feedbackPercentage": "99.3",
+        "feedbackScore": 1100
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/ypUAAOSwq0RnInX~/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "BEST_OFFER"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/167055263782?_skw=snacks&hash=item26e5450826:g:ypUAAOSwq0RnInX~",
+      "itemLocation": {
+        "postalCode": "211**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/lIIAAOSwM~dnInX~/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/zpQAAOSw9lRnInX~/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/hZkAAOSwB4BnInX-/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/UwgAAOSwi4BnInX~/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/zvwAAOSweDpnInX~/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/vM8AAOSw1n9nInX~/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "167055263782",
+      "availableCoupons": false,
+      "itemCreationDate": "2024-10-30T18:13:24.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|365471779048|0",
+      "title": "Frito-Lay Flamin' Hot Mix Variety Pack Snack Chips, 18 Count Multipack Free Ship",
+      "leafCategoryIds": [
+        "179179"
+      ],
+      "categories": [
+        {
+          "categoryId": "179179",
+          "categoryName": "Chips"
+        },
+        {
+          "categoryId": "11700",
+          "categoryName": "Home & Garden"
+        },
+        {
+          "categoryId": "14308",
+          "categoryName": "Food & Beverages"
+        },
+        {
+          "categoryId": "257942",
+          "categoryName": "Pantry"
+        },
+        {
+          "categoryId": "258010",
+          "categoryName": "Snacks"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/o5cAAOSw7K5n2-uW/s-l225.jpg"
+      },
+      "price": {
+        "value": "9.48",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C365471779048%7C0",
+      "seller": {
+        "username": "globaledtraders",
+        "feedbackPercentage": "99.2",
+        "feedbackScore": 121
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/o5cAAOSw7K5n2-uW/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/365471779048?_skw=snacks&hash=item5517d0c8e8:g:o5cAAOSw7K5n2-uW",
+      "itemLocation": {
+        "postalCode": "114**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/ekoAAOSwPTZn2-uW/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/xUoAAOSwepFn2-uW/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/Ah4AAOSwio5n2-uW/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/EC0AAOSwFHBn2-uW/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "365471779048",
+      "availableCoupons": false,
+      "itemCreationDate": "2025-03-20T10:25:56.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|196800133846|0",
+      "title": "155 Piece Snack Box Asian Japanese Chinese Korean Variety Savory Treats Samples",
+      "leafCategoryIds": [
+        "79631"
+      ],
+      "categories": [
+        {
+          "categoryId": "79631",
+          "categoryName": "Other Food & Beverages"
+        },
+        {
+          "categoryId": "11700",
+          "categoryName": "Home & Garden"
+        },
+        {
+          "categoryId": "14308",
+          "categoryName": "Food & Beverages"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/4NUAAOSwPuBnMX2p/s-l225.jpg"
+      },
+      "price": {
+        "value": "43.23",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C196800133846%7C0",
+      "seller": {
+        "username": "oceanlumineboutique",
+        "feedbackPercentage": "98.7",
+        "feedbackScore": 688
+      },
+      "marketingPrice": {
+        "originalPrice": {
+          "value": "46.99",
+          "currency": "USD"
+        },
+        "discountPercentage": "8",
+        "discountAmount": {
+          "value": "3.76",
+          "currency": "USD"
+        },
+        "priceTreatment": "MARKDOWN"
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/4NUAAOSwPuBnMX2p/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/196800133846?_skw=snacks&hash=item2dd233bad6:g:4NUAAOSwPuBnMX2p",
+      "itemLocation": {
+        "postalCode": "906**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/PckAAOSwQL9nMEo4/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/EaQAAOSwLH1nMEhN/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/o1MAAOSwhydnMEpT/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/k4sAAOSw5ARnMEpS/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/PAIAAOSw-cRnMXpu/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/BbMAAOSwWU1nMX3H/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "196800133846",
+      "availableCoupons": false,
+      "itemCreationDate": "2024-11-11T03:53:41.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|224025661536|0",
+      "title": "Care Package 45 Count Snack Sampler Gift Basket",
+      "leafCategoryIds": [
+        "179187"
+      ],
+      "categories": [
+        {
+          "categoryId": "179187",
+          "categoryName": "Other Snacks"
+        },
+        {
+          "categoryId": "11700",
+          "categoryName": "Home & Garden"
+        },
+        {
+          "categoryId": "14308",
+          "categoryName": "Food & Beverages"
+        },
+        {
+          "categoryId": "257942",
+          "categoryName": "Pantry"
+        },
+        {
+          "categoryId": "258010",
+          "categoryName": "Snacks"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/KZEAAOSwfaZezrIQ/s-l225.jpg"
+      },
+      "price": {
+        "value": "24.99",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C224025661536%7C0",
+      "seller": {
+        "username": "thenewmall",
+        "feedbackPercentage": "98.5",
+        "feedbackScore": 18410
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/KZEAAOSwfaZezrIQ/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "epid": "6052025363",
+      "itemWebUrl": "https://www.ebay.com/itm/224025661536?_skw=snacks&hash=item3428f85060:g:KZEAAOSwfaZezrIQ",
+      "itemLocation": {
+        "postalCode": "088**",
+        "country": "US"
+      },
+      "adultOnly": false,
+      "legacyItemId": "224025661536",
+      "availableCoupons": false,
+      "itemCreationDate": "2020-05-27T18:48:08.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|375651733512|0",
+      "title": "Little Debbie Variety Pack (1 Box Each), 48 Piece Assortment",
+      "leafCategoryIds": [
+        "179187"
+      ],
+      "categories": [
+        {
+          "categoryId": "179187",
+          "categoryName": "Other Snacks"
+        },
+        {
+          "categoryId": "11700",
+          "categoryName": "Home & Garden"
+        },
+        {
+          "categoryId": "14308",
+          "categoryName": "Food & Beverages"
+        },
+        {
+          "categoryId": "257942",
+          "categoryName": "Pantry"
+        },
+        {
+          "categoryId": "258010",
+          "categoryName": "Snacks"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/uNcAAOSw6FRm5yX2/s-l225.jpg"
+      },
+      "price": {
+        "value": "22.89",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C375651733512%7C0",
+      "seller": {
+        "username": "onlinegroceryoutlet",
+        "feedbackPercentage": "99.1",
+        "feedbackScore": 104
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/uNcAAOSw6FRm5yX2/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "epid": "23065597373",
+      "itemWebUrl": "https://www.ebay.com/itm/375651733512?_skw=snacks&hash=item5776969008:g:uNcAAOSw6FRm5yX2",
+      "itemLocation": {
+        "postalCode": "080**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/fF4AAOSwIqpm5yX3/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/fj8AAOSwirhm5yX2/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/F~8AAOSwnLZm5yX2/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "375651733512",
+      "availableCoupons": false,
+      "itemCreationDate": "2024-09-15T18:20:16.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|356032469483|0",
+      "title": "Frito-Lay Snacks Classic Mix Variety Pack, 42 Count",
+      "leafCategoryIds": [
+        "179179"
+      ],
+      "categories": [
+        {
+          "categoryId": "179179",
+          "categoryName": "Chips"
+        },
+        {
+          "categoryId": "11700",
+          "categoryName": "Home & Garden"
+        },
+        {
+          "categoryId": "14308",
+          "categoryName": "Food & Beverages"
+        },
+        {
+          "categoryId": "257942",
+          "categoryName": "Pantry"
+        },
+        {
+          "categoryId": "258010",
+          "categoryName": "Snacks"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/R-4AAOSwl4xm4IYR/s-l225.jpg"
+      },
+      "price": {
+        "value": "20.00",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C356032469483%7C0",
+      "seller": {
+        "username": "exoticfy_trading_llc",
+        "feedbackPercentage": "98.0",
+        "feedbackScore": 2297
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/R-4AAOSwl4xm4IYR/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/356032469483?_skw=snacks&hash=item52e53059eb:g:R-4AAOSwl4xm4IYR",
+      "itemLocation": {
+        "postalCode": "751**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/njEAAOSwcmZm4IYW/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/JooAAOSwnItm4IYW/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/LkgAAOSwcNVm4IYW/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/9roAAOSwV5tm4IYW/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "356032469483",
+      "availableCoupons": false,
+      "itemCreationDate": "2024-09-10T17:47:14.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|395494753253|0",
+      "title": "Sweet Treat Variety Mix, 30 Count - Assorted Cookies and Fruit Snacks",
+      "leafCategoryIds": [
+        "179179"
+      ],
+      "categories": [
+        {
+          "categoryId": "179179",
+          "categoryName": "Chips"
+        },
+        {
+          "categoryId": "11700",
+          "categoryName": "Home & Garden"
+        },
+        {
+          "categoryId": "14308",
+          "categoryName": "Food & Beverages"
+        },
+        {
+          "categoryId": "257942",
+          "categoryName": "Pantry"
+        },
+        {
+          "categoryId": "258010",
+          "categoryName": "Snacks"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/q6AAAOSwOOxme5D7/s-l225.jpg"
+      },
+      "price": {
+        "value": "15.14",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C395494753253%7C0",
+      "seller": {
+        "username": "yueguisai-258",
+        "feedbackPercentage": "98.2",
+        "feedbackScore": 481
+      },
+      "marketingPrice": {
+        "originalPrice": {
+          "value": "18.93",
+          "currency": "USD"
+        },
+        "discountPercentage": "20",
+        "discountAmount": {
+          "value": "3.79",
+          "currency": "USD"
+        },
+        "priceTreatment": "MARKDOWN"
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/q6AAAOSwOOxme5D7/s-l960.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "BEST_OFFER"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/395494753253?_skw=snacks&hash=item5c155303e5:g:q6AAAOSwOOxme5D7",
+      "itemLocation": {
+        "postalCode": "923**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/M84AAOSwIXxme5D9/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/6t0AAOSwG89me5D~/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/lngAAOSwWIJme5EE/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/aAsAAOSwCq5me5EG/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/eS4AAOSwAa1me5EI/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/NPQAAOSwDVZme5EL/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/1rcAAOSwAqBme5EM/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "395494753253",
+      "availableCoupons": false,
+      "itemCreationDate": "2024-06-26T03:54:53.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|127029840134|428169612565",
+      "title": "US Snacks Roasted and Lightly Salted Edamame Beans - Crunchy High Protein Snack",
+      "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=127029840134",
+      "leafCategoryIds": [
+        "179187"
+      ],
+      "categories": [
+        {
+          "categoryId": "179187",
+          "categoryName": "Other Snacks"
+        },
+        {
+          "categoryId": "11700",
+          "categoryName": "Home & Garden"
+        },
+        {
+          "categoryId": "14308",
+          "categoryName": "Food & Beverages"
+        },
+        {
+          "categoryId": "257942",
+          "categoryName": "Pantry"
+        },
+        {
+          "categoryId": "258010",
+          "categoryName": "Snacks"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/lfcAAOSwpVZn7boZ/s-l225.jpg"
+      },
+      "price": {
+        "value": "19.99",
+        "currency": "USD"
+      },
+      "itemGroupType": "SELLER_DEFINED_VARIATIONS",
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C127029840134%7C428169612565",
+      "seller": {
+        "username": "ussnacks",
+        "feedbackPercentage": "99.2",
+        "feedbackScore": 120
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/lfcAAOSwpVZn7boZ/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/127029840134?_skw=snacks&hash=item1d93918906:g:lfcAAOSwpVZn7boZ&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UauRWhtTo3O3LkeG%2BKAKM3hkyG4TWwX2OVxievgsAYvFk8gnot0rvAjUXhz3B0enFEd6LcsEqaSBmIgo6VNG4P85RkG5RLTmxNL2DXv2ra2TNyBLu0UcALAwltEaIp%2FyOTEjGManuKjAdkvOO1vFCtdSJQQvXKKsnXzmqUlPWyWECFDDtCI8msTYLlhxkYwlMNU0SlP13aUYnyRBpPqc5LLaCtJ5Cgfb8DQNS5KK8amWDcwf4swEx%2Fh6Ci0U0mf%2BlaYxINwk3%2Bn%2FtcsqgoeNSV5",
+      "itemLocation": {
+        "postalCode": "913**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/61wAAOSwiP5n7bqW/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "127029840134",
+      "availableCoupons": false,
+      "itemCreationDate": "2025-04-02T22:37:49.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": true,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|126751061622|427856732286",
+      "title": "US Snacks - Yellow Double Roasted Chickpeas, Dried Grabanzo Beans",
+      "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=126751061622",
+      "leafCategoryIds": [
+        "179187"
+      ],
+      "categories": [
+        {
+          "categoryId": "179187",
+          "categoryName": "Other Snacks"
+        },
+        {
+          "categoryId": "11700",
+          "categoryName": "Home & Garden"
+        },
+        {
+          "categoryId": "14308",
+          "categoryName": "Food & Beverages"
+        },
+        {
+          "categoryId": "257942",
+          "categoryName": "Pantry"
+        },
+        {
+          "categoryId": "258010",
+          "categoryName": "Snacks"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/2QMAAOSwLUdnIrg-/s-l225.jpg"
+      },
+      "price": {
+        "value": "13.99",
+        "currency": "USD"
+      },
+      "itemGroupType": "SELLER_DEFINED_VARIATIONS",
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C126751061622%7C427856732286",
+      "seller": {
+        "username": "ussnacks",
+        "feedbackPercentage": "99.2",
+        "feedbackScore": 120
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/2QMAAOSwLUdnIrg-/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/126751061622?_skw=snacks&hash=item1d82f3b676:g:2QMAAOSwLUdnIrg-&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UZHn9qsuPTNnClLyNKICZaK5Zt%2B3kRkf%2FjENxxBOgAujnax%2F74JiodPkkh%2FGTWtssUEmdwmOBdHbq1T%2BPb3wQYWJ5x53bSR1%2BC%2FVuV5NeQuMORDPV0p6ao%2Ftsk1NqpKoHbwwZjDTZwhHcKvEXXbEVdIffFvn1u8EVo0Hg6sx0ImPmFoZEGpoxldhQvz2LXscOW%2FXMnmfkBuAFPKHYEQ9n%2FWCA69mpKLMDWl79eif1pqu4LvvVq0w95WxjwbSE%2FO%2Bz8gRSAmHwhl%2FaWMLhxeMSQV",
+      "itemLocation": {
+        "postalCode": "913**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/5s0AAOSwj11nIrhM/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/-VUAAOSw3ztnIrhV/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/C3EAAOSwS4tnIrhd/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "126751061622",
+      "availableCoupons": false,
+      "itemCreationDate": "2024-10-30T22:56:28.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": true,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|356007625798|0",
+      "title": "Trinidad Red Salted Prunes | Preserved Sweet and Sour Fruit | Big Snack Pack",
+      "leafCategoryIds": [
+        "179187"
+      ],
+      "categories": [
+        {
+          "categoryId": "179187",
+          "categoryName": "Other Snacks"
+        },
+        {
+          "categoryId": "11700",
+          "categoryName": "Home & Garden"
+        },
+        {
+          "categoryId": "14308",
+          "categoryName": "Food & Beverages"
+        },
+        {
+          "categoryId": "257942",
+          "categoryName": "Pantry"
+        },
+        {
+          "categoryId": "258010",
+          "categoryName": "Snacks"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/RKEAAOSwrAFm1gef/s-l225.jpg"
+      },
+      "price": {
+        "value": "17.95",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C356007625798%7C0",
+      "seller": {
+        "username": "trinifoodsnthingsllc",
+        "feedbackPercentage": "100.0",
+        "feedbackScore": 15
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/RKEAAOSwrAFm1gef/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "2.99",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/356007625798?_skw=snacks&hash=item52e3b54446:g:RKEAAOSwrAFm1gef&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UbXf0hbmhC1ih2Z7HAU1bN09y3r6%2BY%2FKoQygmVu13gIkL1VJZQFwdPq7ah9jWCKl3XC0csJn7qIhiLF2sgyAOXcMR4gfGydNeMwrC0DyX%2B%2F2v6flHG1jlaFGtoZfnntoLVbmPmZ8jt0RAyFxWoQ3qJitB%2FV6gpy6FfktU%2FeASDWZ5T6bh3agQHhcrI9IWuRzf4ZP3HmnnSzDIKTFufBTfTDd7isVrHKkAe%2BLPCAPbLyuAyy8pzLPbc8btbWnWrY373Lc26brwk%2BsGVAn7H4ZEle",
+      "itemLocation": {
+        "postalCode": "275**",
+        "country": "US"
+      },
+      "adultOnly": false,
+      "legacyItemId": "356007625798",
+      "availableCoupons": false,
+      "itemCreationDate": "2024-09-02T18:48:46.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": true,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|316138244641|0",
+      "title": "Frito-Lay Cheesy Snack Chips Variety Pack, 18 Count Multipack Box",
+      "leafCategoryIds": [
+        "179179"
+      ],
+      "categories": [
+        {
+          "categoryId": "179179",
+          "categoryName": "Chips"
+        },
+        {
+          "categoryId": "11700",
+          "categoryName": "Home & Garden"
+        },
+        {
+          "categoryId": "14308",
+          "categoryName": "Food & Beverages"
+        },
+        {
+          "categoryId": "257942",
+          "categoryName": "Pantry"
+        },
+        {
+          "categoryId": "258010",
+          "categoryName": "Snacks"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/G74AAOSwkOhniUGW/s-l225.jpg"
+      },
+      "price": {
+        "value": "8.89",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C316138244641%7C0",
+      "seller": {
+        "username": "shehnos-0",
+        "feedbackPercentage": "98.3",
+        "feedbackScore": 501
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/G74AAOSwkOhniUGW/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "BEST_OFFER"
+      ],
+      "epid": "19057607484",
+      "itemWebUrl": "https://www.ebay.com/itm/316138244641?_skw=snacks&hash=item499b4eca21:g:G74AAOSwkOhniUGW",
+      "itemLocation": {
+        "postalCode": "018**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/~ygAAOSwL0BniUGW/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/ZQgAAOSwo4FniUGW/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/MjgAAOSwA8dniUGW/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/OIsAAOSwSV1niUGW/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/DXoAAOSwp~lniUGW/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/t1gAAOSwJARniUGW/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/zs4AAOSwyDdniUGW/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/txAAAOSwOsVniUGW/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/fJUAAOSwGSFniUGW/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/2hAAAOSwcpVniUGW/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "316138244641",
+      "availableCoupons": false,
+      "itemCreationDate": "2025-01-16T17:28:08.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|235993313482|0",
+      "title": "Cheetos Flamin' Hot Dill Pickle 2-7/8 oz (Small Bag) *NEW*",
+      "leafCategoryIds": [
+        "179179"
+      ],
+      "categories": [
+        {
+          "categoryId": "179179",
+          "categoryName": "Chips"
+        },
+        {
+          "categoryId": "11700",
+          "categoryName": "Home & Garden"
+        },
+        {
+          "categoryId": "14308",
+          "categoryName": "Food & Beverages"
+        },
+        {
+          "categoryId": "257942",
+          "categoryName": "Pantry"
+        },
+        {
+          "categoryId": "258010",
+          "categoryName": "Snacks"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/nOIAAeSw1GVnyOWw/s-l225.jpg"
+      },
+      "price": {
+        "value": "9.00",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C235993313482%7C0",
+      "seller": {
+        "username": "chipsandstuff",
+        "feedbackPercentage": "100.0",
+        "feedbackScore": 104
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/nOIAAeSw1GVnyOWw/s-l225.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/235993313482?_skw=snacks&hash=item36f24c30ca:g:nOIAAeSw1GVnyOWw",
+      "itemLocation": {
+        "postalCode": "955**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/k6AAAeSwOWpnyOWx/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/nSYAAeSwrrFnyOWw/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/dfwAAeSwWh1nyOWx/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/e00AAeSwOcpnyOXL/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "235993313482",
+      "availableCoupons": false,
+      "itemCreationDate": "2025-03-07T03:28:49.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|356589272873|0",
+      "title": "Healthy Snack Boxes - Bar Variety Pack - Snack Box for Adults - Snacks Care P...",
+      "leafCategoryIds": [
+        "179187"
+      ],
+      "categories": [
+        {
+          "categoryId": "179187",
+          "categoryName": "Other Snacks"
+        },
+        {
+          "categoryId": "11700",
+          "categoryName": "Home & Garden"
+        },
+        {
+          "categoryId": "14308",
+          "categoryName": "Food & Beverages"
+        },
+        {
+          "categoryId": "257942",
+          "categoryName": "Pantry"
+        },
+        {
+          "categoryId": "258010",
+          "categoryName": "Snacks"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/qOQAAOSwdK9ntbvm/s-l225.jpg"
+      },
+      "price": {
+        "value": "31.04",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C356589272873%7C0",
+      "seller": {
+        "username": "zebrasales",
+        "feedbackPercentage": "100.0",
+        "feedbackScore": 94
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/qOQAAOSwdK9ntbvm/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "BEST_OFFER"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/356589272873?_skw=snacks&hash=item5306607f29:g:qOQAAOSwdK9ntbvm",
+      "itemLocation": {
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/0XoAAOSwwlZntbvl/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/LpQAAOSw8Elntbvp/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/XtoAAOSw0Ahntbvm/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/Xt0AAOSw0Ahntbvn/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "356589272873",
+      "availableCoupons": false,
+      "itemCreationDate": "2025-02-19T12:10:37.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|356703605309|0",
+      "title": "Utz Snack Variety Pack Individual Snacks Includes Potato Chips Cheese Pack of 42",
+      "leafCategoryIds": [
+        "179179"
+      ],
+      "categories": [
+        {
+          "categoryId": "179179",
+          "categoryName": "Chips"
+        },
+        {
+          "categoryId": "11700",
+          "categoryName": "Home & Garden"
+        },
+        {
+          "categoryId": "14308",
+          "categoryName": "Food & Beverages"
+        },
+        {
+          "categoryId": "257942",
+          "categoryName": "Pantry"
+        },
+        {
+          "categoryId": "258010",
+          "categoryName": "Snacks"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/l-UAAOSwqfRn4RAx/s-l225.jpg"
+      },
+      "price": {
+        "value": "16.95",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C356703605309%7C0",
+      "seller": {
+        "username": "thedealdone",
+        "feedbackPercentage": "95.1",
+        "feedbackScore": 73
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/l-UAAOSwqfRn4RAx/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "BEST_OFFER"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/356703605309?_skw=snacks&hash=item530d31123d:g:l-UAAOSwqfRn4RAx",
+      "itemLocation": {
+        "postalCode": "945**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/ln8AAOSwR5Rn4RAx/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/ckUAAOSw9Lhn4RAx/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/2XUAAOSwiXJn4RAx/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "356703605309",
+      "availableCoupons": false,
+      "itemCreationDate": "2025-03-24T08:02:00.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|196504235351|0",
+      "title": "45 Piece Variety Asian Snack Box Japanese Korean Chinese, Fun Asian Treats",
+      "leafCategoryIds": [
+        "79631"
+      ],
+      "categories": [
+        {
+          "categoryId": "79631",
+          "categoryName": "Other Food & Beverages"
+        },
+        {
+          "categoryId": "11700",
+          "categoryName": "Home & Garden"
+        },
+        {
+          "categoryId": "14308",
+          "categoryName": "Food & Beverages"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/K9AAAOSw851maOsy/s-l225.jpg"
+      },
+      "price": {
+        "value": "25.30",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C196504235351%7C0",
+      "seller": {
+        "username": "oceanlumineboutique",
+        "feedbackPercentage": "98.7",
+        "feedbackScore": 688
+      },
+      "marketingPrice": {
+        "originalPrice": {
+          "value": "27.50",
+          "currency": "USD"
+        },
+        "discountPercentage": "8",
+        "discountAmount": {
+          "value": "2.20",
+          "currency": "USD"
+        },
+        "priceTreatment": "MARKDOWN"
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/K9AAAOSw851maOsy/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/196504235351?_skw=snacks&hash=item2dc090ad57:g:K9AAAOSw851maOsy",
+      "itemLocation": {
+        "postalCode": "928**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/ivoAAOSw~jVmlcTp/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/ZjMAAOSwrWVmlcyc/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/OqgAAOSwFrJmlcS8/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/GKsAAOSwNVNmlcTf/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/31EAAOSwPtlmlcTf/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "196504235351",
+      "availableCoupons": false,
+      "itemCreationDate": "2024-07-16T00:58:21.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|365471712126|0",
+      "title": "Frito-Lay Baked and Popped Mix Variety Pack Snack Chips, 18 Count Multipack",
+      "leafCategoryIds": [
+        "179179"
+      ],
+      "categories": [
+        {
+          "categoryId": "179179",
+          "categoryName": "Chips"
+        },
+        {
+          "categoryId": "11700",
+          "categoryName": "Home & Garden"
+        },
+        {
+          "categoryId": "14308",
+          "categoryName": "Food & Beverages"
+        },
+        {
+          "categoryId": "257942",
+          "categoryName": "Pantry"
+        },
+        {
+          "categoryId": "258010",
+          "categoryName": "Snacks"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/168AAOSw79xn2arp/s-l225.jpg"
+      },
+      "price": {
+        "value": "9.48",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C365471712126%7C0",
+      "seller": {
+        "username": "globaledtraders",
+        "feedbackPercentage": "99.2",
+        "feedbackScore": 121
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/168AAOSw79xn2arp/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/365471712126?_skw=snacks&hash=item5517cfc37e:g:168AAOSw79xn2arp",
+      "itemLocation": {
+        "postalCode": "114**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/jxEAAOSwhDRn2arp/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/x64AAOSw97Zn2arq/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/kpgAAOSwBlxn2arq/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/LskAAOSw0ahn2art/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/9ooAAOSwNJZn2arp/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "365471712126",
+      "availableCoupons": false,
+      "itemCreationDate": "2025-03-20T09:41:55.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|376153002619|0",
+      "title": "Asian Snack Box, Includes 1 Drink, 1 Bag of Chips, and 8-10 mini snacks",
+      "leafCategoryIds": [
+        "79631"
+      ],
+      "categories": [
+        {
+          "categoryId": "79631",
+          "categoryName": "Other Food & Beverages"
+        },
+        {
+          "categoryId": "11700",
+          "categoryName": "Home & Garden"
+        },
+        {
+          "categoryId": "14308",
+          "categoryName": "Food & Beverages"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/poEAAeSwMhhn7DyH/s-l225.jpg"
+      },
+      "price": {
+        "value": "20.00",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C376153002619%7C0",
+      "seller": {
+        "username": "ellorenmellowren",
+        "feedbackPercentage": "100.0",
+        "feedbackScore": 15
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/poEAAeSwMhhn7DyH/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "BEST_OFFER"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/376153002619?_skw=snacks&hash=item579477527b:g:poEAAeSwMhhn7DyH",
+      "itemLocation": {
+        "postalCode": "762**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/8ukAAOSwE8FnyPle/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "376153002619",
+      "availableCoupons": false,
+      "itemCreationDate": "2025-04-10T21:58:16.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|316585646713|0",
+      "title": "PARAGOODIES Candy",
+      "leafCategoryIds": [
+        "179187"
+      ],
+      "categories": [
+        {
+          "categoryId": "179187",
+          "categoryName": "Other Snacks"
+        },
+        {
+          "categoryId": "11700",
+          "categoryName": "Home & Garden"
+        },
+        {
+          "categoryId": "14308",
+          "categoryName": "Food & Beverages"
+        },
+        {
+          "categoryId": "257942",
+          "categoryName": "Pantry"
+        },
+        {
+          "categoryId": "258010",
+          "categoryName": "Snacks"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/W~oAAOSwVxBn-SXe/s-l225.jpg"
+      },
+      "price": {
+        "value": "5.00",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C316585646713%7C0",
+      "seller": {
+        "username": "paradisegoodies",
+        "feedbackPercentage": "100.0",
+        "feedbackScore": 7
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/W~oAAOSwVxBn-SXe/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/316585646713?_skw=snacks&hash=item49b5f99a79:g:W~oAAOSwVxBn-SXe",
+      "itemLocation": {
+        "postalCode": "113**",
+        "country": "US"
+      },
+      "adultOnly": false,
+      "legacyItemId": "316585646713",
+      "availableCoupons": false,
+      "itemCreationDate": "2025-04-01T15:04:50.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|396327006510|0",
+      "title": "New Frito-Lay Flamin' Hot Mix Variety Pack Snack Chips, 18 Count Multipack New",
+      "leafCategoryIds": [
+        "179179"
+      ],
+      "categories": [
+        {
+          "categoryId": "179179",
+          "categoryName": "Chips"
+        },
+        {
+          "categoryId": "11700",
+          "categoryName": "Home & Garden"
+        },
+        {
+          "categoryId": "14308",
+          "categoryName": "Food & Beverages"
+        },
+        {
+          "categoryId": "257942",
+          "categoryName": "Pantry"
+        },
+        {
+          "categoryId": "258010",
+          "categoryName": "Snacks"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/QR8AAOSwxM1n140e/s-l225.jpg"
+      },
+      "price": {
+        "value": "7.49",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C396327006510%7C0",
+      "seller": {
+        "username": "premierusa_0",
+        "feedbackPercentage": "90.0",
+        "feedbackScore": 40
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/QR8AAOSwxM1n140e/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "BEST_OFFER"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/396327006510?_skw=snacks&hash=item5c46ee312e:g:QR8AAOSwxM1n140e",
+      "itemLocation": {
+        "postalCode": "223**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/8voAAOSwmCxn140d/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/b3wAAOSwDndn140e/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/V60AAOSwuFJn140c/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/ynMAAOSw0TFn140e/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/ABMAAOSwDwtn140c/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/9z8AAOSwUgRn140c/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "396327006510",
+      "availableCoupons": false,
+      "itemCreationDate": "2025-03-17T02:47:39.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|295700605798|0",
+      "title": "JJ's Bakery Pie Ultimate Variety Bundle of Snack Pies Kosher Parve (Pack of 12)",
+      "leafCategoryIds": [
+        "179187"
+      ],
+      "categories": [
+        {
+          "categoryId": "179187",
+          "categoryName": "Other Snacks"
+        },
+        {
+          "categoryId": "11700",
+          "categoryName": "Home & Garden"
+        },
+        {
+          "categoryId": "14308",
+          "categoryName": "Food & Beverages"
+        },
+        {
+          "categoryId": "257942",
+          "categoryName": "Pantry"
+        },
+        {
+          "categoryId": "258010",
+          "categoryName": "Snacks"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/bckAAOSwPg9kYruz/s-l225.jpg"
+      },
+      "price": {
+        "value": "26.99",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C295700605798%7C0",
+      "seller": {
+        "username": "shoptheking",
+        "feedbackPercentage": "98.6",
+        "feedbackScore": 19941
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/bckAAOSwPg9kYruz/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "epid": "5053273364",
+      "itemWebUrl": "https://www.ebay.com/itm/295700605798?_skw=snacks&hash=item44d9212b66:g:bckAAOSwPg9kYruz",
+      "itemLocation": {
+        "postalCode": "452**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/HwUAAOSwXlBkYruz/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/WhgAAOSwxuFkYruz/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/DFAAAOSw5MxkYruz/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/0RIAAOSwbPtkYruz/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/aaIAAOSwWCVkYruz/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/2-kAAOSwFC9kYruz/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "295700605798",
+      "availableCoupons": false,
+      "itemCreationDate": "2023-05-15T23:09:37.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|126750914702|427856768889",
+      "title": "US Snacks Old Fashioned Butter Toffee Peanut, Sweet, Crunchy & Roasted Peanuts",
+      "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=126750914702",
+      "leafCategoryIds": [
+        "79631"
+      ],
+      "categories": [
+        {
+          "categoryId": "79631",
+          "categoryName": "Other Food & Beverages"
+        },
+        {
+          "categoryId": "11700",
+          "categoryName": "Home & Garden"
+        },
+        {
+          "categoryId": "14308",
+          "categoryName": "Food & Beverages"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/ChgAAOSw2llnIpHC/s-l225.jpg"
+      },
+      "price": {
+        "value": "14.99",
+        "currency": "USD"
+      },
+      "itemGroupType": "SELLER_DEFINED_VARIATIONS",
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C126750914702%7C427856768889",
+      "seller": {
+        "username": "ussnacks",
+        "feedbackPercentage": "99.2",
+        "feedbackScore": 120
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/ChgAAOSw2llnIpHC/s-l1200.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/126750914702?_skw=snacks&hash=item1d82f1788e:g:ChgAAOSw2llnIpHC",
+      "itemLocation": {
+        "postalCode": "913**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/e8MAAOSw6e5n8Ags/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/jXAAAOSwb9xnIpHR/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "126750914702",
+      "availableCoupons": false,
+      "itemCreationDate": "2024-10-30T20:12:34.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|266926448868|0",
+      "title": "15 Exotic Sweet Savory Japanese Korean Asian Snack Box Mystery Dagashi Chips",
+      "leafCategoryIds": [
+        "79631"
+      ],
+      "categories": [
+        {
+          "categoryId": "79631",
+          "categoryName": "Other Food & Beverages"
+        },
+        {
+          "categoryId": "11700",
+          "categoryName": "Home & Garden"
+        },
+        {
+          "categoryId": "14308",
+          "categoryName": "Food & Beverages"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/C4wAAOSw7jhmp0WG/s-l225.jpg"
+      },
+      "price": {
+        "value": "14.99",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C266926448868%7C0",
+      "seller": {
+        "username": "fruitypeachpop",
+        "feedbackPercentage": "99.4",
+        "feedbackScore": 1093
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/C4wAAOSw7jhmp0WG/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "BEST_OFFER"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/266926448868?_skw=snacks&hash=item3e260e60e4:g:C4wAAOSw7jhmp0WG",
+      "itemLocation": {
+        "postalCode": "071**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/MREAAOSw9Ahmnvt5/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/~ZgAAOSweB1mnvuA/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/~doAAOSweB1mnvuV/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/waUAAOSwNPlmnvud/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/-a4AAOSwt1Nmnvuj/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "266926448868",
+      "availableCoupons": false,
+      "itemCreationDate": "2024-07-29T07:33:10.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|123817343391|0",
+      "title": "36 Packs Organic Kimnori Seasoned Roasted Seaweed Snacks - Sea Salt  Kim Nori ",
+      "leafCategoryIds": [
+        "79631"
+      ],
+      "categories": [
+        {
+          "categoryId": "79631",
+          "categoryName": "Other Food & Beverages"
+        },
+        {
+          "categoryId": "11700",
+          "categoryName": "Home & Garden"
+        },
+        {
+          "categoryId": "14308",
+          "categoryName": "Food & Beverages"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/YKsAAOSwZMNfbmua/s-l225.jpg"
+      },
+      "price": {
+        "value": "21.95",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C123817343391%7C0",
+      "seller": {
+        "username": "kimnori",
+        "feedbackPercentage": "99.8",
+        "feedbackScore": 4805
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/YKsAAOSwZMNfbmua/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/123817343391?_skw=snacks&hash=item1cd416b99f:g:YKsAAOSwZMNfbmua&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UasQ57HxxUTI9QVUmnWHVBvHnHLJyJyWAA4eeVktElcCHTFIdImbOX6GqMF0Q%2FTteHj%2BdqU9ZWa1DnyjA6dlXLYGuSvIabLaMnHPSEIYAKnbMqODx5s7iFbAiy4xf8dseGa9TilFVzzkWjs4RgFhPe9UwmWIZgi2CdISCZ8HkKI32apAFTK%2F5LAL5vYoTgXVeWUkqOiCsf1aoDSHn5FFlCqOD%2BvMP4Ctjm4hHorbL9eLfsFLEiZQyhcpOFq8bRyvKYadze5L4GGEFwdVcL62dzn",
+      "itemLocation": {
+        "postalCode": "907**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/u9cAAOSwBu1c8U8T/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/kZwAAOSwkTVc9-lE/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/nKwAAOSwJh1c9-lF/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/jOAAAOSwXYdc8XrG/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/AiIAAOSwZnRc9-lG/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/HLcAAOSwlQBc9Up9/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "123817343391",
+      "availableCoupons": false,
+      "itemCreationDate": "2019-06-27T22:14:05.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": true,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|196839752349|496472823696",
+      "title": "80 Pieces With Drink & Ramen Mix Variety Asian Snack Box Japanese Korean Taiwan",
+      "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=196839752349",
+      "leafCategoryIds": [
+        "79631"
+      ],
+      "categories": [
+        {
+          "categoryId": "79631",
+          "categoryName": "Other Food & Beverages"
+        },
+        {
+          "categoryId": "11700",
+          "categoryName": "Home & Garden"
+        },
+        {
+          "categoryId": "14308",
+          "categoryName": "Food & Beverages"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/EvgAAOSwfRlnQRwq/s-l225.jpg"
+      },
+      "price": {
+        "value": "17.47",
+        "currency": "USD"
+      },
+      "itemGroupType": "SELLER_DEFINED_VARIATIONS",
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C196839752349%7C496472823696",
+      "seller": {
+        "username": "oceanlumineboutique",
+        "feedbackPercentage": "98.7",
+        "feedbackScore": 688
+      },
+      "marketingPrice": {
+        "originalPrice": {
+          "value": "18.99",
+          "currency": "USD"
+        },
+        "discountPercentage": "8",
+        "discountAmount": {
+          "value": "1.52",
+          "currency": "USD"
+        },
+        "priceTreatment": "MARKDOWN"
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/EvgAAOSwfRlnQRwq/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/196839752349?_skw=snacks&hash=item2dd490429d:g:EvgAAOSwfRlnQRwq&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UbMpFTDxvEpazMEc6L4zg7XcjVYeOI5XV0AExp9GGT56eE85ekWCUOvTRqQ3GhkFPv3GNkKi%2Fd7MN6XBMDQ0qwXo%2BaaZ3ihVjU%2FAJV3fykQVllNeKzS31SPYdpgloG3ujZ0lAYK6dq1DiwtTfMl2ZYawrpsBwyh7sMcVNe%2FCLZyCGZhAoKt9CTgOLDi3e%2BLLadTpCVRDvoayOH2fN8rlu6%2FLSXWzphuQDfuk6Qi8%2FmNEMdZfL1q0fAWMk91j95SqsSAL0avP%2FxMiy0UQigBrhE9",
+      "itemLocation": {
+        "postalCode": "928**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/EDIAAOSwsDVnLrhz/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/6zwAAOSwfqBnLpzp/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/LFwAAOSwp~lno9Fo/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/RHAAAOSw0PFnLpzp/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/XDMAAOSwqr1nLqoW/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/r2MAAOSwnLFnLqqV/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/Nh8AAOSwvdlno9BA/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/d5EAAOSwfpFnLqu7/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/D44AAOSwUrpnLrRQ/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "196839752349",
+      "availableCoupons": false,
+      "itemCreationDate": "2024-11-23T00:10:04.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": true,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|197037392302|496631787851",
+      "title": "80 Pieces With Drink & Ramen Mix Variety Asian Snack Box Japanese Korean Taiwan",
+      "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=197037392302",
+      "leafCategoryIds": [
+        "79631"
+      ],
+      "categories": [
+        {
+          "categoryId": "79631",
+          "categoryName": "Other Food & Beverages"
+        },
+        {
+          "categoryId": "11700",
+          "categoryName": "Home & Garden"
+        },
+        {
+          "categoryId": "14308",
+          "categoryName": "Food & Beverages"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/4T4AAOSw3ipntsfZ/s-l225.jpg"
+      },
+      "price": {
+        "value": "17.47",
+        "currency": "USD"
+      },
+      "itemGroupType": "SELLER_DEFINED_VARIATIONS",
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C197037392302%7C496631787851",
+      "seller": {
+        "username": "oceanlumineboutique",
+        "feedbackPercentage": "98.7",
+        "feedbackScore": 688
+      },
+      "marketingPrice": {
+        "originalPrice": {
+          "value": "18.99",
+          "currency": "USD"
+        },
+        "discountPercentage": "8",
+        "discountAmount": {
+          "value": "1.52",
+          "currency": "USD"
+        },
+        "priceTreatment": "MARKDOWN"
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/4T4AAOSw3ipntsfZ/s-l960.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/197037392302?_skw=snacks&hash=item2de05801ae:g:4T4AAOSw3ipntsfZ&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5Ua6UvtYv3gkxFvYOd2FOTf87%2ByUaQJRVtZ8iRek9oNsjzAJwo1d6Fi1wSNyYiJlrp7nPyU%2BfhoABBxfw2bH%2FWMgSepX%2B8YI349rjxPi982yCJE1K8Ql02M8e3GtTEejEgo8G57RwMYJybuR0%2BEg9ztCAy6zwrPcfsMFm0RCukJoocF%2BhssVlsceDaCDoJwZMFH6mTYAZ193BjJ6nmBuFeImQFry3a%2FVFCr2b9x%2FSlA2ajU5lO21G8lf8Czv9Anp%2BF%2B1HOUoiTHkDoF394smulM1",
+      "itemLocation": {
+        "postalCode": "928**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/r2MAAOSwnLFnLqqV/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/6zwAAOSwfqBnLpzp/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/LFwAAOSwp~lno9Fo/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/RHAAAOSw0PFnLpzp/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/XDMAAOSwqr1nLqoW/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/Nh8AAOSwvdlno9BA/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/d5EAAOSwfpFnLqu7/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/D44AAOSwUrpnLrRQ/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "197037392302",
+      "availableCoupons": false,
+      "itemCreationDate": "2025-02-20T06:12:57.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": true,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|126759907669|428169778692",
+      "title": "US Snacks Japanese-Style Coated Peanuts 1 Pound",
+      "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=126759907669",
+      "leafCategoryIds": [
+        "179187"
+      ],
+      "categories": [
+        {
+          "categoryId": "179187",
+          "categoryName": "Other Snacks"
+        },
+        {
+          "categoryId": "11700",
+          "categoryName": "Home & Garden"
+        },
+        {
+          "categoryId": "14308",
+          "categoryName": "Food & Beverages"
+        },
+        {
+          "categoryId": "257942",
+          "categoryName": "Pantry"
+        },
+        {
+          "categoryId": "258010",
+          "categoryName": "Snacks"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/iWUAAOSwV2tnKXNG/s-l225.jpg"
+      },
+      "price": {
+        "value": "14.99",
+        "currency": "USD"
+      },
+      "itemGroupType": "SELLER_DEFINED_VARIATIONS",
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C126759907669%7C428169778692",
+      "seller": {
+        "username": "ussnacks",
+        "feedbackPercentage": "99.2",
+        "feedbackScore": 120
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/iWUAAOSwV2tnKXNG/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/126759907669?_skw=snacks&hash=item1d837ab155:g:iWUAAOSwV2tnKXNG&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UZH4fka8h7EJl2nXIi%2F2w3W3fvtMHnW3KRzWAEvtZ3QfBEWJn0veb%2FnLX9HYTIKoCbpnh%2FDxgA9kDwkxJCsTo17iFmu8jw9iQ3YBh2T0vTCDhH3apii9PFY3DD6qbugdIni%2BkM8hUq09QaSt3uvkKwlRN9UyFhzKZRjfkeldndH9mlvOKoTcrPdxTgoDF4SkrXu5FY4ZiE%2BBfTpTgbDd%2BoXj6WgAZaeYRNOkg8aIWZ%2F3KJzOLys%2FhWfzYLP%2FlXB53Kzt%2BK9l%2FoJyNS1fL8H8NwK",
+      "itemLocation": {
+        "postalCode": "913**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/YG8AAOSw525nKXNR/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/qW4AAOSwweZnKXNX/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/nN4AAOSwibJnKXNf/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/3tgAAOSwq-NnKXNx/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "126759907669",
+      "availableCoupons": false,
+      "itemCreationDate": "2024-11-05T01:21:39.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": true,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|123964300186|0",
+      "title": "Organic Kimnori Seasoned Roasted Seaweed Snacks - Sea-Salt  Kim Nori 30 Packs",
+      "leafCategoryIds": [
+        "79631"
+      ],
+      "categories": [
+        {
+          "categoryId": "79631",
+          "categoryName": "Other Food & Beverages"
+        },
+        {
+          "categoryId": "11700",
+          "categoryName": "Home & Garden"
+        },
+        {
+          "categoryId": "14308",
+          "categoryName": "Food & Beverages"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/XsUAAOSwNCtdFT~O/s-l225.jpg"
+      },
+      "price": {
+        "value": "17.95",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C123964300186%7C0",
+      "seller": {
+        "username": "kimnori",
+        "feedbackPercentage": "99.8",
+        "feedbackScore": 4805
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/XsUAAOSwNCtdFT~O/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/123964300186?_skw=snacks&hash=item1cdcd91b9a:g:XsUAAOSwNCtdFT~O",
+      "itemLocation": {
+        "postalCode": "907**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/u9cAAOSwBu1c8U8T/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/kZwAAOSwkTVc9-lE/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/nKwAAOSwJh1c9-lF/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/jOAAAOSwXYdc8XrG/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/AiIAAOSwZnRc9-lG/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/HLcAAOSwlQBc9Up9/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "123964300186",
+      "availableCoupons": false,
+      "itemCreationDate": "2019-11-05T07:14:53.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|402306438275|0",
+      "title": "2 Packs Utz Pub Mix Barrels A Savory Blend of Crunchy Snacks 44 OZ Each Pack",
+      "leafCategoryIds": [
+        "179187"
+      ],
+      "categories": [
+        {
+          "categoryId": "179187",
+          "categoryName": "Other Snacks"
+        },
+        {
+          "categoryId": "11700",
+          "categoryName": "Home & Garden"
+        },
+        {
+          "categoryId": "14308",
+          "categoryName": "Food & Beverages"
+        },
+        {
+          "categoryId": "257942",
+          "categoryName": "Pantry"
+        },
+        {
+          "categoryId": "258010",
+          "categoryName": "Snacks"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/GTIAAOSw9lte89ku/s-l225.jpg"
+      },
+      "price": {
+        "value": "29.95",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C402306438275%7C0",
+      "seller": {
+        "username": "yby.ltd",
+        "feedbackPercentage": "99.3",
+        "feedbackScore": 10259
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/GTIAAOSw9lte89ku/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/402306438275?_skw=snacks&hash=item5dab551483:g:GTIAAOSw9lte89ku",
+      "itemLocation": {
+        "postalCode": "910**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/rWkAAOSw6VRe89k6/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/nd8AAOSwzGZe89kI/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/dr8AAOSwXeJe89kQ/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/JfYAAOSwCTZe89p-/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "402306438275",
+      "availableCoupons": false,
+      "itemCreationDate": "2020-06-24T23:05:35.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|276724335832|0",
+      "title": "AMC Movie Theatres 1 Large Drink, *Automated 15-Min e-Delivery!*",
+      "leafCategoryIds": [
+        "79631"
+      ],
+      "categories": [
+        {
+          "categoryId": "79631",
+          "categoryName": "Other Food & Beverages"
+        },
+        {
+          "categoryId": "11700",
+          "categoryName": "Home & Garden"
+        },
+        {
+          "categoryId": "14308",
+          "categoryName": "Food & Beverages"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/ruMAAOSwWQlnN~nW/s-l225.jpg"
+      },
+      "price": {
+        "value": "5.95",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C276724335832%7C0",
+      "seller": {
+        "username": "movienightspecials",
+        "feedbackPercentage": "99.6",
+        "feedbackScore": 314
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/ruMAAOSwWQlnN~nW/s-l1200.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/276724335832?_skw=snacks&hash=item406e0e44d8:g:ruMAAOSwWQlnN~nW",
+      "itemLocation": {
+        "postalCode": "900**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/MGoAAOSwoSRnMnhj/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "276724335832",
+      "availableCoupons": false,
+      "itemCreationDate": "2024-11-09T21:59:20.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|267202832830|566974144132",
+      "title": "Organic Brazil Nuts - Non-GMO, Kosher, Raw, Vegan - by Food To Live",
+      "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=267202832830",
+      "leafCategoryIds": [
+        "258012"
+      ],
+      "categories": [
+        {
+          "categoryId": "258012",
+          "categoryName": "Nuts, Seeds & Mixes"
+        },
+        {
+          "categoryId": "11700",
+          "categoryName": "Home & Garden"
+        },
+        {
+          "categoryId": "14308",
+          "categoryName": "Food & Beverages"
+        },
+        {
+          "categoryId": "257942",
+          "categoryName": "Pantry"
+        },
+        {
+          "categoryId": "258010",
+          "categoryName": "Snacks"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/SzsAAeSwmzNn5ot8/s-l225.jpg"
+      },
+      "price": {
+        "value": "238.61",
+        "currency": "USD"
+      },
+      "itemGroupType": "SELLER_DEFINED_VARIATIONS",
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C267202832830%7C566974144132",
+      "seller": {
+        "username": "food-to-live",
+        "feedbackPercentage": "99.4",
+        "feedbackScore": 42196
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/SzsAAeSwmzNn5ot8/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/267202832830?_skw=snacks&hash=item3e3687a9be:g:SzsAAeSwmzNn5ot8",
+      "itemLocation": {
+        "postalCode": "112**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/i6IAAeSwT9ln5ot8/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/mxsAAeSwVepn5ot8/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/mksAAeSwX3Bn5ot8/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/8A8AAeSwKBpn5ot8/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/RM0AAeSwquhn5ot8/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/hvMAAeSwZ7tn5ot8/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/ijkAAeSwzwVn5ot8/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/YWsAAeSw-vtn5ot~/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/mzAAAeSwpBZn5ot8/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "267202832830",
+      "availableCoupons": false,
+      "itemCreationDate": "2025-03-28T11:26:31.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|203037859823|0",
+      "title": "Japanese Snack Box Candy Dagashi Sample Surprise 20 Piece Fun Grab Bag Lot Japan",
+      "leafCategoryIds": [
+        "79631"
+      ],
+      "categories": [
+        {
+          "categoryId": "79631",
+          "categoryName": "Other Food & Beverages"
+        },
+        {
+          "categoryId": "11700",
+          "categoryName": "Home & Garden"
+        },
+        {
+          "categoryId": "14308",
+          "categoryName": "Food & Beverages"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/JtQAAOSwQWhkNr87/s-l225.jpg"
+      },
+      "price": {
+        "value": "11.50",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C203037859823%7C0",
+      "seller": {
+        "username": "strayhamster",
+        "feedbackPercentage": "98.4",
+        "feedbackScore": 16402
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/JtQAAOSwQWhkNr87/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "5.50",
+            "currency": "USD"
+          },
+          "minEstimatedDeliveryDate": "2025-04-15T07:00:00.000Z",
+          "maxEstimatedDeliveryDate": "2025-04-17T07:00:00.000Z"
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/203037859823?_skw=snacks&hash=item2f45ffdfef:g:JtQAAOSwQWhkNr87",
+      "itemLocation": {
+        "postalCode": "840**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/lmwAAOSw30pnlAU1/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/wn0AAOSwPTNjikHV/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/MvgAAOSws3hjikH0/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/Hs0AAOSwkZ5jikHa/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/BhAAAOSwbw1jikHj/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/unUAAOSw1TdjRFHf/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/J04AAOSw19FjikIC/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/Se8AAOSw27dnUzlR/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "203037859823",
+      "availableCoupons": false,
+      "itemCreationDate": "2020-07-02T16:15:18.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|285794125264|0",
+      "title": "Tito Al's Choice Chicharrones Salt & Vinegar Fried Out Pork Fat w/Attached Skin",
+      "leafCategoryIds": [
+        "179187"
+      ],
+      "categories": [
+        {
+          "categoryId": "179187",
+          "categoryName": "Other Snacks"
+        },
+        {
+          "categoryId": "11700",
+          "categoryName": "Home & Garden"
+        },
+        {
+          "categoryId": "14308",
+          "categoryName": "Food & Beverages"
+        },
+        {
+          "categoryId": "257942",
+          "categoryName": "Pantry"
+        },
+        {
+          "categoryId": "258010",
+          "categoryName": "Snacks"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/nc4AAOSw9~Ngs~K-/s-l225.jpg"
+      },
+      "price": {
+        "value": "9.99",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C285794125264%7C0",
+      "seller": {
+        "username": "simple_sales_store2",
+        "feedbackPercentage": "99.3",
+        "feedbackScore": 9243
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/nc4AAOSw9~Ngs~K-/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "epid": "8009891998",
+      "itemWebUrl": "https://www.ebay.com/itm/285794125264?_skw=snacks&hash=item428aa845d0:g:nc4AAOSw9~Ngs~K-",
+      "itemLocation": {
+        "postalCode": "113**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/2lMAAOSwOOlgs~Lb/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/xQMAAOSwBxJgs~LP/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/irwAAOSwwGxgs~Ls/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "285794125264",
+      "availableCoupons": false,
+      "itemCreationDate": "2024-04-02T00:05:06.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|405745021691|0",
+      "title": "Internatinal exotic Mystery Snacks & Candy  Snack gift box! 10lbs Of Snacks!!",
+      "leafCategoryIds": [
+        "179187"
+      ],
+      "categories": [
+        {
+          "categoryId": "179187",
+          "categoryName": "Other Snacks"
+        },
+        {
+          "categoryId": "11700",
+          "categoryName": "Home & Garden"
+        },
+        {
+          "categoryId": "14308",
+          "categoryName": "Food & Beverages"
+        },
+        {
+          "categoryId": "257942",
+          "categoryName": "Pantry"
+        },
+        {
+          "categoryId": "258010",
+          "categoryName": "Snacks"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/HdgAAOSwUIRmTj93/s-l225.jpg"
+      },
+      "price": {
+        "value": "100.00",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C405745021691%7C0",
+      "seller": {
+        "username": "dealsactivated",
+        "feedbackPercentage": "100.0",
+        "feedbackScore": 44
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/HdgAAOSwUIRmTj93/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "CALCULATED"
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/405745021691?_skw=snacks&hash=item5e7849b2fb:g:HdgAAOSwUIRmTj93&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UZjjd7t71z1mY7ZW1VYdPKPEAjJTH4bjhiQIs%2Fs1QDJjJNDUQx0YFL9jFJErIlEhoutb1lV2yFToEofh1AdoKldbE959CDeble5czvfs2dqNQVDKEL5V%2BRIJ33bAuRPMb8yFGo8olC5z2HKJ1DDrUJK5ipfG0zFjD6Ck7zgTKhAfazJ%2F8vKyeWjKkD858Xum3D6TNTapKdQAJ75ji9rs0OdUZjGpYrODe0ytxHs%2FB8pc1aOfyjSIdQLV14GmRx4SMxDWuIE3Hizvof4vRUlNCn1",
+      "itemLocation": {
+        "postalCode": "282**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/ZGwAAeSwBWpn9rMa/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/QoYAAOSwKLJmrSpe/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/ZK0AAeSwicln9rMZ/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/fHEAAOSwWZ1mGVIU/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/c2AAAOSw~kRmGVIV/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/AswAAOSwsnFmGVIW/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/3jIAAOSww4JmGVIX/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/PusAAeSwTMFn9rMa/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/vt0AAOSw-s9mTj93/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/~jIAAOSwcxNmGVIS/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/e7MAAOSwF8dmSySA/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/YzEAAOSwteFmrSou/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/wYgAAOSwwy1mrSqC/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/NJMAAOSwIBFmSySC/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/6VcAAeSwIhVn9rMZ/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/XQ4AAeSwgCJn9rMZ/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "405745021691",
+      "availableCoupons": false,
+      "itemCreationDate": "2025-04-09T17:50:07.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": true,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|196504311220|0",
+      "title": "35 Piece Sweet & Savory Mix Variety Asian Snack Box- Japanese Korean Taiwanese",
+      "leafCategoryIds": [
+        "79631"
+      ],
+      "categories": [
+        {
+          "categoryId": "79631",
+          "categoryName": "Other Food & Beverages"
+        },
+        {
+          "categoryId": "11700",
+          "categoryName": "Home & Garden"
+        },
+        {
+          "categoryId": "14308",
+          "categoryName": "Food & Beverages"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/OS0AAOSwoGFmldC6/s-l225.jpg"
+      },
+      "price": {
+        "value": "17.94",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C196504311220%7C0",
+      "seller": {
+        "username": "oceanlumineboutique",
+        "feedbackPercentage": "98.7",
+        "feedbackScore": 688
+      },
+      "marketingPrice": {
+        "originalPrice": {
+          "value": "19.50",
+          "currency": "USD"
+        },
+        "discountPercentage": "8",
+        "discountAmount": {
+          "value": "1.56",
+          "currency": "USD"
+        },
+        "priceTreatment": "MARKDOWN"
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/OS0AAOSwoGFmldC6/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/196504311220?_skw=snacks&hash=item2dc091d5b4:g:OS0AAOSwoGFmldC6&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UaOEED%2BUm6C3twois0ij0hNjvI%2BGbal9fyv89x7%2B1Q7Z2ZPfLpzdZExJQQW0oXBXV9oGBKH8MpmLgz%2BMyChKDe9gFUHXmxsSrVKD6euSZQMoQnAOnmVNxKlTY9mMWAFD2QGe8EUfeI1KCKetVnQPinEyQNYKeXT%2BrioOvyylO8sNXHyP4R%2B%2B13cqPr7knAGZkK1%2Fx9l342J91iNwRBRBVGGdCn8yw1zzvVU6HSvFPLDZVYrDJmFEYt9E2kxt33e21lZNkGuI7ihyfXXaJM2nMrA",
+      "itemLocation": {
+        "postalCode": "928**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/rCgAAOSwxDdmldDN/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/yZkAAOSwjV1mldDT/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/uvEAAOSw1OBmldDj/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/iAAAAOSwVQ5mldDf/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/jGIAAOSwwXlmldDf/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/LLIAAOSwdYhntV3-/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/gicAAOSwMftntV36/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/0ycAAOSwUkxntV36/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/C2sAAOSw~tVntV36/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "196504311220",
+      "availableCoupons": false,
+      "itemCreationDate": "2024-07-16T01:47:23.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": true,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|204148858994|0",
+      "title": "Hello Kitty Snack Box 20 Dagashi Treats Konpeito Candy Sanrio Japan Fun Gift Box",
+      "leafCategoryIds": [
+        "79631"
+      ],
+      "categories": [
+        {
+          "categoryId": "79631",
+          "categoryName": "Other Food & Beverages"
+        },
+        {
+          "categoryId": "11700",
+          "categoryName": "Home & Garden"
+        },
+        {
+          "categoryId": "14308",
+          "categoryName": "Food & Beverages"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/JDkAAOSwtatn2s9e/s-l225.jpg"
+      },
+      "price": {
+        "value": "11.50",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C204148858994%7C0",
+      "seller": {
+        "username": "strayhamster",
+        "feedbackPercentage": "98.4",
+        "feedbackScore": 16402
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/JDkAAOSwtatn2s9e/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "5.50",
+            "currency": "USD"
+          },
+          "minEstimatedDeliveryDate": "2025-04-15T07:00:00.000Z",
+          "maxEstimatedDeliveryDate": "2025-04-17T07:00:00.000Z"
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/204148858994?_skw=snacks&hash=item2f88386072:g:JDkAAOSwtatn2s9e",
+      "itemLocation": {
+        "postalCode": "840**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/lJkAAOSwL~JnFB6U/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/gvsAAOSwdahlYLh~/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/8ckAAOSwF35gv4ip/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "204148858994",
+      "availableCoupons": false,
+      "itemCreationDate": "2022-11-10T20:34:11.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|226381081794|0",
+      "title": "Stellar Snacks Maui Monk Mini Pretzel Braids Individual Bags, 14 Gram, 75 Per",
+      "leafCategoryIds": [
+        "258011"
+      ],
+      "categories": [
+        {
+          "categoryId": "258011",
+          "categoryName": "Pretzels & Nibbles"
+        },
+        {
+          "categoryId": "11700",
+          "categoryName": "Home & Garden"
+        },
+        {
+          "categoryId": "14308",
+          "categoryName": "Food & Beverages"
+        },
+        {
+          "categoryId": "257942",
+          "categoryName": "Pantry"
+        },
+        {
+          "categoryId": "258010",
+          "categoryName": "Snacks"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/uzIAAOSwDNlm~Tcv/s-l225.jpg"
+      },
+      "price": {
+        "value": "61.04",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C226381081794%7C0",
+      "seller": {
+        "username": "buyitbythecase2",
+        "feedbackPercentage": "99.5",
+        "feedbackScore": 1948
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/uzIAAOSwDNlm~Tcv/s-l640.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/226381081794?_skw=snacks&hash=item34b55d2cc2:g:uzIAAOSwDNlm~Tcv",
+      "itemLocation": {
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/t58AAOSwmSRm~Tcw/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/VJYAAOSwIEhm~Tcw/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/87EAAOSwtLBm~Tcw/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/pPwAAOSwJ7hm~Tcv/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/3TMAAOSwIYpm~Tcw/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "226381081794",
+      "availableCoupons": false,
+      "itemCreationDate": "2024-10-02T12:02:42.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|124534892601|0",
+      "title": "Organic Seasoned Roasted Seaweed Snacks 12 PK Sea Salt.  Kim Nori ",
+      "leafCategoryIds": [
+        "79631"
+      ],
+      "categories": [
+        {
+          "categoryId": "79631",
+          "categoryName": "Other Food & Beverages"
+        },
+        {
+          "categoryId": "11700",
+          "categoryName": "Home & Garden"
+        },
+        {
+          "categoryId": "14308",
+          "categoryName": "Food & Beverages"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/SRIAAOSwL0NgCHBM/s-l225.jpg"
+      },
+      "price": {
+        "value": "8.95",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C124534892601%7C0",
+      "seller": {
+        "username": "kimnori",
+        "feedbackPercentage": "99.8",
+        "feedbackScore": 4805
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/SRIAAOSwL0NgCHBM/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/124534892601?_skw=snacks&hash=item1cfedba839:g:SRIAAOSwL0NgCHBM",
+      "itemLocation": {
+        "postalCode": "907**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/uvYAAOSwPidgBu4s/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/5RAAAOSwI9VgBu4p/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/gloAAOSwihlc9-i-/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/bWAAAOSw04dc9-i~/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/0KsAAOSwSXRc9-jA/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/y~QAAOSwOjddC6yd/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/pskAAOSw~gpgBu4r/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "124534892601",
+      "availableCoupons": false,
+      "itemCreationDate": "2021-01-19T14:35:49.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|324179971651|0",
+      "title": "Care Package 90 Count Snack Sampler Gift Basket",
+      "leafCategoryIds": [
+        "179187"
+      ],
+      "categories": [
+        {
+          "categoryId": "179187",
+          "categoryName": "Other Snacks"
+        },
+        {
+          "categoryId": "11700",
+          "categoryName": "Home & Garden"
+        },
+        {
+          "categoryId": "14308",
+          "categoryName": "Food & Beverages"
+        },
+        {
+          "categoryId": "257942",
+          "categoryName": "Pantry"
+        },
+        {
+          "categoryId": "258010",
+          "categoryName": "Snacks"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/m1YAAOSwpLlezr5q/s-l225.jpg"
+      },
+      "price": {
+        "value": "37.99",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C324179971651%7C0",
+      "seller": {
+        "username": "thenewmall",
+        "feedbackPercentage": "98.5",
+        "feedbackScore": 18410
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/m1YAAOSwpLlezr5q/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "epid": "5051925599",
+      "itemWebUrl": "https://www.ebay.com/itm/324179971651?_skw=snacks&hash=item4b7aa1ce43:g:m1YAAOSwpLlezr5q",
+      "itemLocation": {
+        "postalCode": "088**",
+        "country": "US"
+      },
+      "adultOnly": false,
+      "legacyItemId": "324179971651",
+      "availableCoupons": false,
+      "itemCreationDate": "2020-05-27T19:30:16.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|146292089844|0",
+      "title": "4x Bags Lays Ketchup Chips LARGE Family Size 220g- Free Shipping",
+      "leafCategoryIds": [
+        "179179"
+      ],
+      "categories": [
+        {
+          "categoryId": "179179",
+          "categoryName": "Chips"
+        },
+        {
+          "categoryId": "11700",
+          "categoryName": "Home & Garden"
+        },
+        {
+          "categoryId": "14308",
+          "categoryName": "Food & Beverages"
+        },
+        {
+          "categoryId": "257942",
+          "categoryName": "Pantry"
+        },
+        {
+          "categoryId": "258010",
+          "categoryName": "Snacks"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/c90AAOSwktZnauCM/s-l225.jpg"
+      },
+      "price": {
+        "value": "22.99",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C146292089844%7C0",
+      "seller": {
+        "username": "supremegoods1",
+        "feedbackPercentage": "99.3",
+        "feedbackScore": 434
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/c90AAOSwktZnauCM/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "BEST_OFFER"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/146292089844?_skw=snacks&hash=item220fb023f4:g:c90AAOSwktZnauCM",
+      "itemLocation": {
+        "postalCode": "M9L***",
+        "country": "CA"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/nMoAAOSwnIhnauCM/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/BJ8AAOSws5NnauCM/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/8AkAAOSwYwJnauCM/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "146292089844",
+      "availableCoupons": false,
+      "itemCreationDate": "2024-12-24T16:30:10.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|296571611029|0",
+      "title": "Rivalz Stuffed Snacks - 1.0 Oz Bags (Variety Pack) - Delicious & Nutritiou...SH5",
+      "leafCategoryIds": [
+        "179179"
+      ],
+      "categories": [
+        {
+          "categoryId": "179179",
+          "categoryName": "Chips"
+        },
+        {
+          "categoryId": "11700",
+          "categoryName": "Home & Garden"
+        },
+        {
+          "categoryId": "14308",
+          "categoryName": "Food & Beverages"
+        },
+        {
+          "categoryId": "257942",
+          "categoryName": "Pantry"
+        },
+        {
+          "categoryId": "258010",
+          "categoryName": "Snacks"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/HlEAAOSw-3BmleIk/s-l225.jpg"
+      },
+      "price": {
+        "value": "15.99",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C296571611029%7C0",
+      "seller": {
+        "username": "salesrgood2go",
+        "feedbackPercentage": "98.3",
+        "feedbackScore": 3916
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/HlEAAOSw-3BmleIk/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "BEST_OFFER"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/296571611029?_skw=snacks&hash=item450d0ba795:g:HlEAAOSw-3BmleIk",
+      "itemLocation": {
+        "postalCode": "902**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/xzoAAOSwTGZmleIk/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/regAAOSw9R9mleIk/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/Au0AAOSw9VNmleIk/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/KVAAAOSwf7ZmleIk/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/FPwAAOSwqVtmleIl/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/iVUAAOSwhhhmleIl/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/Lr4AAOSwSA9mleIl/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/wV8AAOSwXCBmleIl/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "296571611029",
+      "availableCoupons": false,
+      "itemCreationDate": "2024-07-16T03:04:50.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|405680059369|675966219227",
+      "title": "1 Full Size Snack & Drink 60 Exotic Japanese Korean Asian Snack Box Candies",
+      "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=405680059369",
+      "leafCategoryIds": [
+        "79631"
+      ],
+      "categories": [
+        {
+          "categoryId": "79631",
+          "categoryName": "Other Food & Beverages"
+        },
+        {
+          "categoryId": "11700",
+          "categoryName": "Home & Garden"
+        },
+        {
+          "categoryId": "14308",
+          "categoryName": "Food & Beverages"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/WqAAAeSwrAln3JPS/s-l225.jpg"
+      },
+      "price": {
+        "value": "13.29",
+        "currency": "USD"
+      },
+      "itemGroupType": "SELLER_DEFINED_VARIATIONS",
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C405680059369%7C675966219227",
+      "seller": {
+        "username": "premierproductsworld",
+        "feedbackPercentage": "99.5",
+        "feedbackScore": 1730
+      },
+      "marketingPrice": {
+        "originalPrice": {
+          "value": "13.99",
+          "currency": "USD"
+        },
+        "discountPercentage": "5",
+        "discountAmount": {
+          "value": "0.70",
+          "currency": "USD"
+        },
+        "priceTreatment": "MARKDOWN"
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/WqAAAeSwrAln3JPS/s-l225.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/405680059369?_skw=snacks&hash=item5e746a73e9:g:WqAAAeSwrAln3JPS",
+      "itemLocation": {
+        "postalCode": "920**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/VbMAAeSw8ixn3JPS/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/KzkAAeSwMCRn3JPS/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/RuwAAeSwNLNn3JPS/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/U5kAAeSwiTFn3JPS/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/I90AAeSwn9Rn3JPS/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/-z0AAeSw1Htn3JPS/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/Do0AAeSw-6Bn3JPS/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/SFcAAeSwQyBn3JPS/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/SFUAAeSwQyBn3JPS/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "405680059369",
+      "availableCoupons": false,
+      "itemCreationDate": "2025-03-20T22:12:46.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|194935849280|0",
+      "title": "30 PACK Popchips Variety Box (0.8 oz Bags) FRESH! FAST SHIPPING!",
+      "leafCategoryIds": [
+        "179179"
+      ],
+      "categories": [
+        {
+          "categoryId": "179179",
+          "categoryName": "Chips"
+        },
+        {
+          "categoryId": "11700",
+          "categoryName": "Home & Garden"
+        },
+        {
+          "categoryId": "14308",
+          "categoryName": "Food & Beverages"
+        },
+        {
+          "categoryId": "257942",
+          "categoryName": "Pantry"
+        },
+        {
+          "categoryId": "258010",
+          "categoryName": "Snacks"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/~tcAAOSwJoxnAiAV/s-l225.jpg"
+      },
+      "price": {
+        "value": "24.69",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C194935849280%7C0",
+      "seller": {
+        "username": "dailylowdeal",
+        "feedbackPercentage": "99.4",
+        "feedbackScore": 18327
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/~tcAAOSwJoxnAiAV/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "epid": "702518564",
+      "itemWebUrl": "https://www.ebay.com/itm/194935849280?_skw=snacks&hash=item2d63150140:g:~tcAAOSwJoxnAiAV",
+      "itemLocation": {
+        "postalCode": "605**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/~koAAOSwdEVnNCYr/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/GtAAAOSwJ3ZnAiAW/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/X2AAAOSwCRpnAiAY/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/bi8AAOSwm-hnAiAa/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/R~4AAOSw6lFnAiAb/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/vt0AAOSw8d5nAiAc/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/L1cAAOSwarZnAiAg/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "194935849280",
+      "availableCoupons": false,
+      "itemCreationDate": "2022-03-24T19:47:45.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|126759982159|0",
+      "title": "US Snacks Sesame Sticks, Salted, 2 Pound",
+      "leafCategoryIds": [
+        "179179"
+      ],
+      "categories": [
+        {
+          "categoryId": "179179",
+          "categoryName": "Chips"
+        },
+        {
+          "categoryId": "11700",
+          "categoryName": "Home & Garden"
+        },
+        {
+          "categoryId": "14308",
+          "categoryName": "Food & Beverages"
+        },
+        {
+          "categoryId": "257942",
+          "categoryName": "Pantry"
+        },
+        {
+          "categoryId": "258010",
+          "categoryName": "Snacks"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/Q6UAAOSwRIBnKXzj/s-l225.jpg"
+      },
+      "price": {
+        "value": "19.99",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C126759982159%7C0",
+      "seller": {
+        "username": "ussnacks",
+        "feedbackPercentage": "99.2",
+        "feedbackScore": 120
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/Q6UAAOSwRIBnKXzj/s-l1200.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/126759982159?_skw=snacks&hash=item1d837bd44f:g:Q6UAAOSwRIBnKXzj&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UYgyHbawmLyzrMfQWYIFAKmrF9i3TGfv1bKokpuu31FFN1VIK46GP9Lg0BaW%2BsJ0fU9XtiXEBVZMvnBBLVbsuIC%2FasFfMBAM765PBDYg8UYM3A4M%2BoFhTLRJ1ZWuhykz2NMOsenUk7H5IUPfXvDVInTBPfvsVAyF6JucGKyAWBoXjCqZgjepY8aHtCYp%2FLlDPqQ%2FYoIwR0xadw5DMjr2xylyJTBYHgAk3Y2uEZJKxpFl3SS1luV8gaE%2FnZ2u1X1vFlAXPQuwiyApVB6KDmjuoyw",
+      "itemLocation": {
+        "postalCode": "913**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/7YAAAOSwIiNnKXzp/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "126759982159",
+      "availableCoupons": false,
+      "itemCreationDate": "2024-11-05T02:09:03.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": true,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|196793740189|496451853631",
+      "title": "80 Pieces With Drink & Ramen Mix Variety Asian Snack Box Japanese Korean Taiwan",
+      "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=196793740189",
+      "leafCategoryIds": [
+        "79631"
+      ],
+      "categories": [
+        {
+          "categoryId": "79631",
+          "categoryName": "Other Food & Beverages"
+        },
+        {
+          "categoryId": "11700",
+          "categoryName": "Home & Garden"
+        },
+        {
+          "categoryId": "14308",
+          "categoryName": "Food & Beverages"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/EDIAAOSwsDVnLrhz/s-l225.jpg"
+      },
+      "price": {
+        "value": "17.47",
+        "currency": "USD"
+      },
+      "itemGroupType": "SELLER_DEFINED_VARIATIONS",
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C196793740189%7C496451853631",
+      "seller": {
+        "username": "oceanlumineboutique",
+        "feedbackPercentage": "98.7",
+        "feedbackScore": 688
+      },
+      "marketingPrice": {
+        "originalPrice": {
+          "value": "18.99",
+          "currency": "USD"
+        },
+        "discountPercentage": "8",
+        "discountAmount": {
+          "value": "1.52",
+          "currency": "USD"
+        },
+        "priceTreatment": "MARKDOWN"
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/EDIAAOSwsDVnLrhz/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/196793740189?_skw=snacks&hash=item2dd1d22b9d:g:EDIAAOSwsDVnLrhz&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UYsYa2TQV%2BQcg8vr3CyqpUQs16ZzF%2BDWCbYXPZZ7irGuS77I1xJvbpPKGvusolT7pTyHtNH3DZmFoUAFS3EcHQTuxJYxgODDzzChVld3ukSsS1k1iHNqJDuwzkFWMpTPZH7k%2Bt9WSPuGmxtoEJA2Gynhq%2B6Dv%2Fd2z1JQLkJzZlbfrGQ06aRZicPDtYqHTlXKzFhlIqT8x9PxrcCBya3ZxkPNZAzBMK6UDa%2FXMopYWYnsmoDWa%2FCtvUlX%2FnKVv8Y6Jeifw7fjnvP5B1qSivGbwhL",
+      "itemLocation": {
+        "postalCode": "928**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/6zwAAOSwfqBnLpzp/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/RHAAAOSw0PFnLpzp/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/3QUAAOSwj19nLqQJ/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/XDMAAOSwqr1nLqoW/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/r2MAAOSwnLFnLqqV/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/jmIAAOSws~BnLqqT/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/d5EAAOSwfpFnLqu7/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/D44AAOSwUrpnLrRQ/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "196793740189",
+      "availableCoupons": false,
+      "itemCreationDate": "2024-11-09T01:16:34.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": true,
+      "listingMarketplaceId": "EBAY_US"
+    }
+  ]
+}

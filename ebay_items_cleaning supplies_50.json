@@ -1,0 +1,4456 @@
+{
+  "href": "https://api.ebay.com/buy/browse/v1/item_summary/search?q=cleaning+supplies&limit=50&offset=0",
+  "total": 46975,
+  "next": "https://api.ebay.com/buy/browse/v1/item_summary/search?q=cleaning+supplies&limit=50&offset=50",
+  "limit": 50,
+  "offset": 0,
+  "itemSummaries": [
+    {
+      "itemId": "v1|276641448562|0",
+      "title": "Card Cleaning Kit! Best Value! Extra Supplies! Card Care Kit! Pokémon Yugioh TCG",
+      "leafCategoryIds": [
+        "183438"
+      ],
+      "categories": [
+        {
+          "categoryId": "183438",
+          "categoryName": "Card Toploaders & Holders"
+        },
+        {
+          "categoryId": "212",
+          "categoryName": "Sports Trading Cards"
+        },
+        {
+          "categoryId": "64482",
+          "categoryName": "Sports Mem, Cards & Fan Shop"
+        },
+        {
+          "categoryId": "183436",
+          "categoryName": "Storage & Display Supplies"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/WLUAAOSwe~Vm5jp0/s-l225.jpg"
+      },
+      "price": {
+        "value": "24.49",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C276641448562%7C0",
+      "seller": {
+        "username": "lucas_hlt",
+        "feedbackPercentage": "98.8",
+        "feedbackScore": 201
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/WLUAAOSwe~Vm5jp0/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "4.49",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "BEST_OFFER"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/276641448562?_skw=cleaning+supplies&hash=item40691d8272:g:WLUAAOSwe~Vm5jp0&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UZP4tU9sa1Tp9%2BYO56Orgb%2BDu9jP0Qe4lrdymzmaBVE8NJ%2FIZXVYm3s0Y4l%2Bv7sRZGPxYO2JojpyQ13YQElyLwQMqqBoJsVwr1Qk2EGOj%2BoZtLsAHy0WNU0Bohix1BGSxsT%2FK0uLMISChRra6l09krtE1GK6DuGo4iPqOI74n%2B0xNFw9u6E8SS%2FkNomlnfnwbM08pBeKh%2FPRr3OSekiNefiqKX%2B9iGZD2Oz09c218WEOgIcGCBZuRWWH01DGaAC3vo%2B6zFPmG%2BrqvfnynRIaPUR3elYyhk6w%2B2xh5MIVIwkzQ%3D%3D",
+      "itemLocation": {
+        "postalCode": "787**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/fncAAOSw~fdnhn~W/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/Hm4AAOSwBFFnhn~P/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/DRIAAOSwWdJnhn~b/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/nYEAAOSwaJJnhn~f/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/FpkAAOSwh69nhn~t/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/5ksAAOSwev1nhn~p/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/iAoAAOSwNjBm5jp2/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/zPIAAOSwJzJm5jp6/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/VJUAAOSw3aNm5jp8/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/qw4AAOSwtu9nhoAv/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "276641448562",
+      "availableCoupons": false,
+      "itemCreationDate": "2024-09-15T01:35:18.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": true,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|396184491555|0",
+      "title": "Universal Gun Cleaning Kit for Rifle Pistol Shotgun .17 - .45 Cal. Most Caliber",
+      "leafCategoryIds": [
+        "22700"
+      ],
+      "categories": [
+        {
+          "categoryId": "22700",
+          "categoryName": "Cleaning Supplies"
+        },
+        {
+          "categoryId": "888",
+          "categoryName": "Sporting Goods"
+        },
+        {
+          "categoryId": "7301",
+          "categoryName": "Hunting"
+        },
+        {
+          "categoryId": "177880",
+          "categoryName": "Gun Smithing & Maintenance"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/6xkAAOSwwvtnpnNR/s-l225.jpg"
+      },
+      "price": {
+        "value": "40.48",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C396184491555%7C0",
+      "seller": {
+        "username": "hot_market_deals",
+        "feedbackPercentage": "97.3",
+        "feedbackScore": 16864
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/6xkAAOSwwvtnpnNR/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/396184491555?_skw=cleaning+supplies&hash=item5c3e6f9623:g:6xkAAOSwwvtnpnNR&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5Ub7sQWoEDw3G2iHG7BJGh6uXSVuUwY4jsvpjyhR7KZKTCy1IcU1B0TynMDN6xxtY8A2PY6H%2BxvCWnZfuxReifb3mVI5nYuDZtI7OQBu6Nz%2BRiZMCrZI01%2BLH3VjJZyFZT57ePGk2UkAXo2hHsqNYBIZHnBFB3IIfzlCeiYgKBo9hKI%2B0LWCN47etW%2FTWEihCCQI4kngfGZ0KEaGdYGh8fW3H7b8wjQ69CxeuuOqOkmqTqksZP8aCE3Vuy%2FfNfSV8y6OmXi6EbufzFZI9NlFHULyeM8hewVXroEKDhyz4D5teA%3D%3D",
+      "itemLocation": {
+        "postalCode": "923**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/LOAAAOSw1J5npnNS/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/2VsAAOSwvIlnpnNS/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/FjgAAOSwt3tnpnNT/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/0bQAAOSwFKFnpnNU/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/5RgAAOSwgMpnpnNV/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/nU8AAOSw3~RnpnNY/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "396184491555",
+      "availableCoupons": false,
+      "itemCreationDate": "2025-02-08T02:55:53.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": true,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|135582572298|0",
+      "title": "163pcs Gun Cleaning Kit Universal Rifle Pistol Shotgun Handgun Firearm with Case",
+      "leafCategoryIds": [
+        "22700"
+      ],
+      "categories": [
+        {
+          "categoryId": "22700",
+          "categoryName": "Cleaning Supplies"
+        },
+        {
+          "categoryId": "888",
+          "categoryName": "Sporting Goods"
+        },
+        {
+          "categoryId": "7301",
+          "categoryName": "Hunting"
+        },
+        {
+          "categoryId": "177880",
+          "categoryName": "Gun Smithing & Maintenance"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/Y3MAAOSwyd5nvvzO/s-l225.jpg"
+      },
+      "price": {
+        "value": "24.69",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C135582572298%7C0",
+      "seller": {
+        "username": "super-homemarket",
+        "feedbackPercentage": "99.3",
+        "feedbackScore": 1062
+      },
+      "marketingPrice": {
+        "originalPrice": {
+          "value": "25.99",
+          "currency": "USD"
+        },
+        "discountPercentage": "5",
+        "discountAmount": {
+          "value": "1.30",
+          "currency": "USD"
+        },
+        "priceTreatment": "MARKDOWN"
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/Y3MAAOSwyd5nvvzO/s-l1200.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "BEST_OFFER"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/135582572298?_skw=cleaning+supplies&hash=item1f9159df0a:g:Y3MAAOSwyd5nvvzO",
+      "itemLocation": {
+        "postalCode": "945**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/7kgAAOSwrmdnvvzR/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/JN8AAOSwhEZnvvzT/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/ANsAAOSwXyJnvvzV/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/9FUAAOSwrdRnvvzX/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/5sQAAOSwQQxnvv0W/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/nSQAAOSwd2lnvv0Z/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/80QAAOSwFNhnvv0c/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/~2UAAOSw6ppnvv0d/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/OfUAAOSwC8pnvv0f/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/xgwAAOSwKxtnvv0h/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/qbEAAOSwv~Fnvv0n/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "135582572298",
+      "availableCoupons": false,
+      "itemCreationDate": "2025-02-26T23:38:01.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|375854932734|0",
+      "title": "1700PCS gun cleaning suppliesâ€”1500PCS Gun Cleaning Patches +200PCS Gun Cleani",
+      "leafCategoryIds": [
+        "22700"
+      ],
+      "categories": [
+        {
+          "categoryId": "22700",
+          "categoryName": "Cleaning Supplies"
+        },
+        {
+          "categoryId": "888",
+          "categoryName": "Sporting Goods"
+        },
+        {
+          "categoryId": "7301",
+          "categoryName": "Hunting"
+        },
+        {
+          "categoryId": "177880",
+          "categoryName": "Gun Smithing & Maintenance"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/OxcAAOSwO2dnVwyc/s-l225.jpg"
+      },
+      "price": {
+        "value": "11.99",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C375854932734%7C0",
+      "seller": {
+        "username": "anaprism_store",
+        "feedbackPercentage": "99.6",
+        "feedbackScore": 5257
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/OxcAAOSwO2dnVwyc/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/375854932734?_skw=cleaning+supplies&hash=item5782b322fe:g:OxcAAOSwO2dnVwyc",
+      "itemLocation": {
+        "postalCode": "605**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/iVQAAOSwvbFnVwyh/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/d0MAAOSwoRhnVwyf/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/KN0AAOSwkFlnVwye/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/nfkAAOSwudJnVwyg/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/NjcAAOSw4uFnVwyi/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/f3oAAOSwbD1nVwyj/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "375854932734",
+      "availableCoupons": false,
+      "itemCreationDate": "2024-12-09T21:28:37.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|293808605861|0",
+      "title": "Universal Gun Cleaning Kit for Rifle Pistol Shotgun Muzzleloader for any Caliber",
+      "leafCategoryIds": [
+        "22700"
+      ],
+      "categories": [
+        {
+          "categoryId": "22700",
+          "categoryName": "Cleaning Supplies"
+        },
+        {
+          "categoryId": "888",
+          "categoryName": "Sporting Goods"
+        },
+        {
+          "categoryId": "7301",
+          "categoryName": "Hunting"
+        },
+        {
+          "categoryId": "177880",
+          "categoryName": "Gun Smithing & Maintenance"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/WDUAAOSwHK1fnWkL/s-l225.jpg"
+      },
+      "price": {
+        "value": "41.99",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C293808605861%7C0",
+      "seller": {
+        "username": "beararmztactical",
+        "feedbackPercentage": "99.1",
+        "feedbackScore": 6348
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/WDUAAOSwHK1fnWkL/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/293808605861?_skw=cleaning+supplies&hash=item44685b8aa5:g:WDUAAOSwHK1fnWkL",
+      "itemLocation": {
+        "postalCode": "559**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/XZwAAOSwbl9fnWkY/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/nU8AAOSwVZxfnWkp/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/V4IAAOSwrqNfnWkd/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/GngAAOSwS1pfnWkg/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/aC8AAOSwv4xfnWki/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/hZIAAOSwzEpfnWkk/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/ljYAAOSwY1FfnWkm/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "293808605861",
+      "availableCoupons": false,
+      "itemCreationDate": "2020-10-31T13:42:36.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|306127730795|0",
+      "title": "For Gun Handgun Pistol Rifle 43 Pcs Cleaning Kit Set 22.357.38,9mm.45.40",
+      "leafCategoryIds": [
+        "22700"
+      ],
+      "categories": [
+        {
+          "categoryId": "22700",
+          "categoryName": "Cleaning Supplies"
+        },
+        {
+          "categoryId": "888",
+          "categoryName": "Sporting Goods"
+        },
+        {
+          "categoryId": "7301",
+          "categoryName": "Hunting"
+        },
+        {
+          "categoryId": "177880",
+          "categoryName": "Gun Smithing & Maintenance"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/wnYAAOSwaulntmbO/s-l225.jpg"
+      },
+      "price": {
+        "value": "13.99",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C306127730795%7C0",
+      "seller": {
+        "username": "forward-sell",
+        "feedbackPercentage": "98.1",
+        "feedbackScore": 100422
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/wnYAAOSwaulntmbO/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "BEST_OFFER"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/306127730795?_skw=cleaning+supplies&hash=item4746a2786b:g:wnYAAOSwaulntmbO",
+      "itemLocation": {
+        "postalCode": "770**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/~a4AAOSwebVntmbO/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/bp0AAOSw0tZntmbO/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/dPIAAOSwea5ntmbO/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/chwAAOSwwNNntmbO/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/9rsAAOSwOKNntmbO/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/ERIAAOSwFQ5ntmbO/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/sTMAAOSwRJdntmbQ/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/VzsAAOSwSOJntmbP/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/JjQAAOSwIpVntmbP/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/b9UAAOSwlgJntmbP/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/I28AAOSwZhpntmbP/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/tQIAAOSw8xde9mg~/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "306127730795",
+      "availableCoupons": false,
+      "itemCreationDate": "2025-02-20T05:18:42.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|256773815276|0",
+      "title": "1000PCS Gun Cleaning Patches for Firearms, Highly Absorbent Gun Cleaning Clot...",
+      "leafCategoryIds": [
+        "22700"
+      ],
+      "categories": [
+        {
+          "categoryId": "22700",
+          "categoryName": "Cleaning Supplies"
+        },
+        {
+          "categoryId": "888",
+          "categoryName": "Sporting Goods"
+        },
+        {
+          "categoryId": "7301",
+          "categoryName": "Hunting"
+        },
+        {
+          "categoryId": "177880",
+          "categoryName": "Gun Smithing & Maintenance"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/qbEAAOSwljxnetdK/s-l225.jpg"
+      },
+      "price": {
+        "value": "10.71",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C256773815276%7C0",
+      "seller": {
+        "username": "yonimelman1234",
+        "feedbackPercentage": "99.5",
+        "feedbackScore": 1771
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/qbEAAOSwljxnetdK/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/256773815276?_skw=cleaning+supplies&hash=item3bc8e97bec:g:qbEAAOSwljxnetdK",
+      "itemLocation": {
+        "postalCode": "826**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/gDoAAOSws4FnetdK/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/R18AAOSwoE1netdL/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/WmAAAOSwMjxnetdK/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/Va0AAOSw6HRnetdL/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/4h4AAOSwD91netdK/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "256773815276",
+      "availableCoupons": false,
+      "itemCreationDate": "2025-01-05T19:01:31.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|333628974419|0",
+      "title": "Hoppes Pistol Gun Cleaning Kit - Gun Cleaner - Gun Oil Lube - Cleaning Patches",
+      "leafCategoryIds": [
+        "22700"
+      ],
+      "categories": [
+        {
+          "categoryId": "22700",
+          "categoryName": "Cleaning Supplies"
+        },
+        {
+          "categoryId": "888",
+          "categoryName": "Sporting Goods"
+        },
+        {
+          "categoryId": "7301",
+          "categoryName": "Hunting"
+        },
+        {
+          "categoryId": "177880",
+          "categoryName": "Gun Smithing & Maintenance"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/QVcAAOSw67te62vE/s-l225.jpg"
+      },
+      "price": {
+        "value": "18.95",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C333628974419%7C0",
+      "seller": {
+        "username": "adcretails",
+        "feedbackPercentage": "99.9",
+        "feedbackScore": 7444
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/QVcAAOSw67te62vE/s-l1200.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "BEST_OFFER"
+      ],
+      "epid": "3039551629",
+      "itemWebUrl": "https://www.ebay.com/itm/333628974419?_skw=cleaning+supplies&hash=item4dadd62553:g:QVcAAOSw67te62vE",
+      "itemLocation": {
+        "postalCode": "336**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/WCIAAOSw-2xe62vC/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/fI8AAOSwK21e62vC/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/zYEAAOSws4Re62vC/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/vlUAAOSwQP5e62vB/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/HrkAAOSwfHZe62vE/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "333628974419",
+      "availableCoupons": false,
+      "itemCreationDate": "2020-06-18T13:28:10.000Z",
+      "topRatedBuyingExperience": true,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|276842161067|0",
+      "title": "10 Pack of .38/.357 Caliber/ 9MM Bore Mops for Gun Cleaning and Maintenance",
+      "leafCategoryIds": [
+        "22700"
+      ],
+      "categories": [
+        {
+          "categoryId": "22700",
+          "categoryName": "Cleaning Supplies"
+        },
+        {
+          "categoryId": "888",
+          "categoryName": "Sporting Goods"
+        },
+        {
+          "categoryId": "7301",
+          "categoryName": "Hunting"
+        },
+        {
+          "categoryId": "177880",
+          "categoryName": "Gun Smithing & Maintenance"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/SK8AAOSwDX5lUoTx/s-l225.jpg"
+      },
+      "price": {
+        "value": "12.75",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C276842161067%7C0",
+      "seller": {
+        "username": "designfunctionvalue",
+        "feedbackPercentage": "99.7",
+        "feedbackScore": 1526
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/SK8AAOSwDX5lUoTx/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/276842161067?_skw=cleaning+supplies&hash=item40751423ab:g:SK8AAOSwDX5lUoTx",
+      "itemLocation": {
+        "postalCode": "926**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/wj0AAOSw675lUoTx/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/9ZQAAOSwzlFlUoTw/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/-GYAAOSw3tBlUoTw/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "276842161067",
+      "availableCoupons": false,
+      "itemCreationDate": "2025-02-04T02:07:22.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|176686492893|0",
+      "title": "HOPPES PISTOL CLEANING KIT 9MM 38 357 (HOPPC038B)",
+      "leafCategoryIds": [
+        "22700"
+      ],
+      "categories": [
+        {
+          "categoryId": "22700",
+          "categoryName": "Cleaning Supplies"
+        },
+        {
+          "categoryId": "888",
+          "categoryName": "Sporting Goods"
+        },
+        {
+          "categoryId": "7301",
+          "categoryName": "Hunting"
+        },
+        {
+          "categoryId": "177880",
+          "categoryName": "Gun Smithing & Maintenance"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/LeUAAOSwHqFl7yxU/s-l225.jpg"
+      },
+      "price": {
+        "value": "14.95",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C176686492893%7C0",
+      "seller": {
+        "username": "hann_farha",
+        "feedbackPercentage": "99.7",
+        "feedbackScore": 15646
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/LeUAAOSwHqFl7yxU/s-l1200.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "epid": "2254491107",
+      "itemWebUrl": "https://www.ebay.com/itm/176686492893?_skw=cleaning+supplies&hash=item292355ecdd:g:LeUAAOSwHqFl7yxU",
+      "itemLocation": {
+        "postalCode": "322**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/d6MAAOSw8Pxl7yxQ/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "176686492893",
+      "availableCoupons": false,
+      "itemCreationDate": "2024-11-16T19:45:26.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|334683252791|0",
+      "title": "163pcs Gun Cleaning Kit Universal Rifle Pistol Shotgun Handgun Firearm with Case",
+      "leafCategoryIds": [
+        "22700"
+      ],
+      "categories": [
+        {
+          "categoryId": "22700",
+          "categoryName": "Cleaning Supplies"
+        },
+        {
+          "categoryId": "888",
+          "categoryName": "Sporting Goods"
+        },
+        {
+          "categoryId": "7301",
+          "categoryName": "Hunting"
+        },
+        {
+          "categoryId": "177880",
+          "categoryName": "Gun Smithing & Maintenance"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/NIsAAOSw6A9mhKy5/s-l225.jpg"
+      },
+      "price": {
+        "value": "28.98",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C334683252791%7C0",
+      "seller": {
+        "username": "kekeenen",
+        "feedbackPercentage": "99.0",
+        "feedbackScore": 11462
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/NIsAAOSw6A9mhKy5/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "BEST_OFFER"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/334683252791?_skw=cleaning+supplies&hash=item4decad2837:g:NIsAAOSw6A9mhKy5",
+      "itemLocation": {
+        "postalCode": "770**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/5QMAAOSwoLFmhKy5/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/B4sAAOSwCNpmhKy5/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/UHgAAOSwwWdmhKy5/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/TjAAAOSwTT9mhKy6/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/9VcAAOSw~2pmhKy4/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/i6YAAOSwkCJmhKy5/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/P2YAAOSwstZmhKy4/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/tFIAAOSw25BmhKy6/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/I~QAAOSwkYBmhKy4/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/zKcAAOSwHBRmhKy5/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/zjgAAOSwZhBmhKy5/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "334683252791",
+      "availableCoupons": false,
+      "itemCreationDate": "2022-12-30T02:06:49.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|364983465839|0",
+      "title": "Gun Butter 1oz Premium Gun Lubricant And Cleaner",
+      "leafCategoryIds": [
+        "22700"
+      ],
+      "categories": [
+        {
+          "categoryId": "22700",
+          "categoryName": "Cleaning Supplies"
+        },
+        {
+          "categoryId": "888",
+          "categoryName": "Sporting Goods"
+        },
+        {
+          "categoryId": "7301",
+          "categoryName": "Hunting"
+        },
+        {
+          "categoryId": "177880",
+          "categoryName": "Gun Smithing & Maintenance"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/q0UAAOSwZ9NnkFYm/s-l225.jpg"
+      },
+      "price": {
+        "value": "23.54",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C364983465839%7C0",
+      "seller": {
+        "username": "southsdiscountdeals",
+        "feedbackPercentage": "99.6",
+        "feedbackScore": 3029
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/q0UAAOSwZ9NnkFYm/s-l1200.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "epid": "22069139440",
+      "itemWebUrl": "https://www.ebay.com/itm/364983465839?_skw=cleaning+supplies&hash=item54fab5b76f:g:q0UAAOSwZ9NnkFYm",
+      "itemLocation": {
+        "postalCode": "356**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/9zMAAOSwpi5mg0d5/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "364983465839",
+      "availableCoupons": false,
+      "itemCreationDate": "2024-07-02T06:16:55.000Z",
+      "topRatedBuyingExperience": true,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|276918406944|0",
+      "title": "10 Pack of .22 Caliber Bore Mops for Gun Cleaning and Maintenance",
+      "leafCategoryIds": [
+        "22700"
+      ],
+      "categories": [
+        {
+          "categoryId": "22700",
+          "categoryName": "Cleaning Supplies"
+        },
+        {
+          "categoryId": "888",
+          "categoryName": "Sporting Goods"
+        },
+        {
+          "categoryId": "7301",
+          "categoryName": "Hunting"
+        },
+        {
+          "categoryId": "177880",
+          "categoryName": "Gun Smithing & Maintenance"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/UboAAOSwuURlUn5r/s-l225.jpg"
+      },
+      "price": {
+        "value": "12.75",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C276918406944%7C0",
+      "seller": {
+        "username": "designfunctionvalue",
+        "feedbackPercentage": "99.7",
+        "feedbackScore": 1526
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/UboAAOSwuURlUn5r/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/276918406944?_skw=cleaning+supplies&hash=item40799f8f20:g:UboAAOSwuURlUn5r",
+      "itemLocation": {
+        "postalCode": "805**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/MdYAAOSwd31lUn5r/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/5okAAOSwIcVlUn5r/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/IloAAOSwNWBlUn5r/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "276918406944",
+      "availableCoupons": false,
+      "itemCreationDate": "2025-03-04T08:38:10.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|235648419705|0",
+      "title": "126pcs Pro Universal Cleaning Kit for Pistol Rifle Shotgun Gun Barrel Cleaner",
+      "leafCategoryIds": [
+        "22700"
+      ],
+      "categories": [
+        {
+          "categoryId": "22700",
+          "categoryName": "Cleaning Supplies"
+        },
+        {
+          "categoryId": "888",
+          "categoryName": "Sporting Goods"
+        },
+        {
+          "categoryId": "7301",
+          "categoryName": "Hunting"
+        },
+        {
+          "categoryId": "177880",
+          "categoryName": "Gun Smithing & Maintenance"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/kWwAAOSwRANlu1DN/s-l225.jpg"
+      },
+      "price": {
+        "value": "22.47",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C235648419705%7C0",
+      "seller": {
+        "username": "firstsf-9",
+        "feedbackPercentage": "97.8",
+        "feedbackScore": 1659
+      },
+      "marketingPrice": {
+        "originalPrice": {
+          "value": "24.16",
+          "currency": "USD"
+        },
+        "discountPercentage": "7",
+        "discountAmount": {
+          "value": "1.69",
+          "currency": "USD"
+        },
+        "priceTreatment": "MARKDOWN"
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/kWwAAOSwRANlu1DN/s-l1200.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "epid": "3070478694",
+      "itemWebUrl": "https://www.ebay.com/itm/235648419705?_skw=cleaning+supplies&hash=item36ddbd8779:g:kWwAAOSwRANlu1DN&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5Uas1KYHA%2BGalgHm%2Bl%2FvibdB0BY7Tx0K%2BaddQ8VN7f43oD%2FSHt0U366WSwToVp6PioifgF95XNBbckiBy0KYgX6kAdvqgw6pHvcJ0Fsvm0KKt6hN4LwvBjAqUdWuRGvXtIfk5zq0ItMcuqdv%2BdXpJIcB1qezipm8B3dos7PdWdG6t4bWuSe%2Ff15NjfSWOocldDCt%2BOvxWHrhb8tHuPUk%2BivaUDv1o0jlzyBZM5U%2BMnt282zbmba785YwSXZhCsiWFAOjlJ2RBS7WlLMMESzt529SOeK9PnM2gA7DBp0EHmhSCA%3D%3D",
+      "itemLocation": {
+        "postalCode": "117**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/vaQAAOSwiBllu1DM/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/c-UAAOSw3Dxlu1DM/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/0q0AAOSwbrdhNxYb/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/lawAAOSwtPphNxYN/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/ZccAAOSwuexhNxYY/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/pW8AAOSwofVlu1DN/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/ThAAAOSwzetlu1DM/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/8RYAAOSweBtlu1DN/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/AjUAAOSwGGllu1DN/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/UMYAAOSwk0Vlu1DN/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/0JEAAOSwc1VhNxYk/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/68oAAOSwBfhhNxYo/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/igkAAOSw1rNlu1DM/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/sBoAAOSwsEVhNxYf/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/HqUAAOSwNztlu1DN/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/UZAAAOSwSo9lu1DN/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/wswAAOSwtDBlu1DN/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/OoIAAOSwrpZlu1DN/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "235648419705",
+      "availableCoupons": false,
+      "itemCreationDate": "2024-07-11T09:40:40.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": true,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|295680027514|0",
+      "title": "HOPPES PISTOL CLEANING KIT 9/38/380/357 (HOPPC038B)",
+      "leafCategoryIds": [
+        "22700"
+      ],
+      "categories": [
+        {
+          "categoryId": "22700",
+          "categoryName": "Cleaning Supplies"
+        },
+        {
+          "categoryId": "888",
+          "categoryName": "Sporting Goods"
+        },
+        {
+          "categoryId": "7301",
+          "categoryName": "Hunting"
+        },
+        {
+          "categoryId": "177880",
+          "categoryName": "Gun Smithing & Maintenance"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/y6wAAOSwIXZkVWJR/s-l225.jpg"
+      },
+      "price": {
+        "value": "18.89",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C295680027514%7C0",
+      "seller": {
+        "username": "cdnnsportsinc",
+        "feedbackPercentage": "99.1",
+        "feedbackScore": 37980
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/y6wAAOSwIXZkVWJR/s-l1200.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "epid": "2254491107",
+      "itemWebUrl": "https://www.ebay.com/itm/295680027514?_skw=cleaning+supplies&hash=item44d7e72b7a:g:y6wAAOSwIXZkVWJR&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UarU7aGa%2By8QyfEoOrdxJSGkLdIGA1FBkNVsx%2F3RKF7T6HVV93rNuKCDG6zsLsgMgu%2FZ1ZA5RJtRC0a%2B%2Bwj3fGqIXh%2B5ei2GwKfqhJ5uCGD5udswMReazaAx1ozvwfEswIPIJsiZ6Ld12GmBg61pjekh1CUfbolE05fUKSszSw2NqzBRW%2F36Z%2F9d6tOI1hahPzsYndmKWGriyAj%2BifdDGVb8x2bm6AewQdnY8BwwkCM%2FJ2uTsrymOIds0oDE2x4VwjYQIspZ9JEUlV9bp2gSI3f%2FCxI1pynOTBlGFEx5zlmEA%3D%3D",
+      "itemLocation": {
+        "postalCode": "796**",
+        "country": "US"
+      },
+      "adultOnly": false,
+      "legacyItemId": "295680027514",
+      "availableCoupons": false,
+      "itemCreationDate": "2023-05-05T20:16:30.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": true,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|396184464868|0",
+      "title": "Gun Cleaner Cleaning Oil 2 Oz & 1 Oz Needle Oiler Lubricant Multi-Purpose Kit",
+      "leafCategoryIds": [
+        "22700"
+      ],
+      "categories": [
+        {
+          "categoryId": "22700",
+          "categoryName": "Cleaning Supplies"
+        },
+        {
+          "categoryId": "888",
+          "categoryName": "Sporting Goods"
+        },
+        {
+          "categoryId": "7301",
+          "categoryName": "Hunting"
+        },
+        {
+          "categoryId": "177880",
+          "categoryName": "Gun Smithing & Maintenance"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/LsEAAOSwl2Nnpm96/s-l225.jpg"
+      },
+      "price": {
+        "value": "16.22",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C396184464868%7C0",
+      "seller": {
+        "username": "hot_market_deals",
+        "feedbackPercentage": "97.3",
+        "feedbackScore": 16864
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/LsEAAOSwl2Nnpm96/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/396184464868?_skw=cleaning+supplies&hash=item5c3e6f2de4:g:LsEAAOSwl2Nnpm96&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UYwJ63maeXkn7TQhutqjdVaV8vl9o%2Bqk0Vl19EqpAUSyQ20F0jTlVZf86Jtx0qjP7kgCToaslONAfTEnMVPjLsNT1BAMVWt%2FipxQMlN%2BfXNGuW60gDoAWananJCvcKpSv7sux3QNXxH5XCNde7yppljiijryXl901IsrEHGrb9Y2acIQQo21mLtz30GccOZPSAEQ1DUb5bMbZG%2BAy5bIG4lyUlC%2BjtDevhw%2F5qfMHx4cc0sLVURI1vWALlz49hqAl9Pt7f8YJYjie8jn3UFb%2BXySIOAypHfyZsv6brFbo9KRg%3D%3D",
+      "itemLocation": {
+        "postalCode": "923**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/jp0AAOSw3Q9npm99/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/SpkAAOSwbC9npm9~/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/l4MAAOSwAeVnpm9~/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/DDwAAOSwRNtnpm-A/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/lSAAAOSwq3xnpm-C/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/WcsAAOSwLltnpm-E/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/reYAAOSwzwFnpm-H/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/KNUAAOSwFudnpm-I/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/6bcAAOSw88Bnpm-L/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/OloAAOSw9mpnpm-M/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "396184464868",
+      "availableCoupons": false,
+      "itemCreationDate": "2025-02-08T02:39:43.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": true,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|391844687659|0",
+      "title": "MaximalPower 3PK Gun Cleaning BRONZE Bore Brush for 9mm .357 .38 Caliber Pistol",
+      "leafCategoryIds": [
+        "22700"
+      ],
+      "categories": [
+        {
+          "categoryId": "22700",
+          "categoryName": "Cleaning Supplies"
+        },
+        {
+          "categoryId": "888",
+          "categoryName": "Sporting Goods"
+        },
+        {
+          "categoryId": "7301",
+          "categoryName": "Hunting"
+        },
+        {
+          "categoryId": "177880",
+          "categoryName": "Gun Smithing & Maintenance"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/lDIAAOSwCCxn-UzV/s-l225.jpg"
+      },
+      "price": {
+        "value": "9.49",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C391844687659%7C0",
+      "seller": {
+        "username": "digi-battery",
+        "feedbackPercentage": "99.1",
+        "feedbackScore": 80057
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/lDIAAOSwCCxn-UzV/s-l1200.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/391844687659?_skw=cleaning+supplies&hash=item5b3bc36f2b:g:lDIAAOSwCCxn-UzV",
+      "itemLocation": {
+        "postalCode": "917**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/Y7IAAOSwjaRn-UzW/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/CRcAAOSwKDtn-UzX/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "391844687659",
+      "availableCoupons": false,
+      "itemCreationDate": "2017-07-21T00:33:29.000Z",
+      "topRatedBuyingExperience": true,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|388110585734|0",
+      "title": "163pcs Gun Cleaning Kit Universal Rifle Pistol Shotgun Handgun Firearm with Case",
+      "leafCategoryIds": [
+        "22700"
+      ],
+      "categories": [
+        {
+          "categoryId": "22700",
+          "categoryName": "Cleaning Supplies"
+        },
+        {
+          "categoryId": "888",
+          "categoryName": "Sporting Goods"
+        },
+        {
+          "categoryId": "7301",
+          "categoryName": "Hunting"
+        },
+        {
+          "categoryId": "177880",
+          "categoryName": "Gun Smithing & Maintenance"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/XeoAAOSwz39n2dZB/s-l225.jpg"
+      },
+      "price": {
+        "value": "21.99",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C388110585734%7C0",
+      "seller": {
+        "username": "automationpro",
+        "feedbackPercentage": "99.3",
+        "feedbackScore": 869
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/XeoAAOSwz39n2dZB/s-l1200.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "BEST_OFFER"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/388110585734?_skw=cleaning+supplies&hash=item5a5d318f86:g:XeoAAOSwz39n2dZB",
+      "itemLocation": {
+        "postalCode": "945**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/DkgAAOSwPK5n2dZE/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/mLsAAOSwWIxn2dZG/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/IxsAAOSw-iln2dZH/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/picAAOSwVTxn2dZJ/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/~ZQAAOSwjjdn2dZK/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/fvYAAOSwAO9n2dZM/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/h~YAAOSwTNhn2dZN/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/BBAAAOSwdYxn2dZS/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/vgQAAOSw3ARn2dZU/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/SO4AAOSwS6Jn2dZW/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/7osAAOSwmQZn2dZX/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "388110585734",
+      "availableCoupons": false,
+      "itemCreationDate": "2025-03-19T02:23:55.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|395590476828|664393076924",
+      "title": "163pcs Gun Cleaning Kit Universal Rifle Pistol Shotgun Handgun Firearm with Case",
+      "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=395590476828",
+      "leafCategoryIds": [
+        "22700"
+      ],
+      "categories": [
+        {
+          "categoryId": "22700",
+          "categoryName": "Cleaning Supplies"
+        },
+        {
+          "categoryId": "888",
+          "categoryName": "Sporting Goods"
+        },
+        {
+          "categoryId": "7301",
+          "categoryName": "Hunting"
+        },
+        {
+          "categoryId": "177880",
+          "categoryName": "Gun Smithing & Maintenance"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/~nYAAOSwAvBm1nPg/s-l225.jpg"
+      },
+      "price": {
+        "value": "27.99",
+        "currency": "USD"
+      },
+      "itemGroupType": "SELLER_DEFINED_VARIATIONS",
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C395590476828%7C664393076924",
+      "seller": {
+        "username": "miduo9",
+        "feedbackPercentage": "99.3",
+        "feedbackScore": 701
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/~nYAAOSwAvBm1nPg/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/395590476828?_skw=cleaning+supplies&hash=item5c1b07a41c:g:~nYAAOSwAvBm1nPg",
+      "itemLocation": {
+        "postalCode": "917**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/sR8AAOSwg-RmuWtj/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/UukAAOSwArBmuWtj/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/DFUAAOSwhYFmuWtj/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/PDsAAOSwnoZmuWtj/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/PDoAAOSwnoZmuWtj/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/O~cAAOSwxn9muWtj/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/K7cAAOSwTgdmuWtj/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/hwkAAOSwskJmuWtj/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/YVoAAOSwppFmuWtj/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/Zi8AAOSwEo9muWtk/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/JdwAAOSwt2BmuWtk/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/GaQAAOSwRtZmuWtk/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/b9YAAOSwizVmuWtk/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "395590476828",
+      "availableCoupons": false,
+      "itemCreationDate": "2024-08-12T01:54:48.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|356717518164|625671669731",
+      "title": "800/1700 gun cleaning suppliesâ€”1500PCS Gun Cleaning Patches +200PCS Gun Cleani",
+      "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=356717518164",
+      "leafCategoryIds": [
+        "22700"
+      ],
+      "categories": [
+        {
+          "categoryId": "22700",
+          "categoryName": "Cleaning Supplies"
+        },
+        {
+          "categoryId": "888",
+          "categoryName": "Sporting Goods"
+        },
+        {
+          "categoryId": "7301",
+          "categoryName": "Hunting"
+        },
+        {
+          "categoryId": "177880",
+          "categoryName": "Gun Smithing & Maintenance"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/h7cAAOSw8ixn5pwV/s-l225.jpg"
+      },
+      "price": {
+        "value": "10.69",
+        "currency": "USD"
+      },
+      "itemGroupType": "SELLER_DEFINED_VARIATIONS",
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C356717518164%7C625671669731",
+      "seller": {
+        "username": "quickdeals2024",
+        "feedbackPercentage": "98.5",
+        "feedbackScore": 1099
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/h7cAAOSw8ixn5pwV/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/356717518164?_skw=cleaning+supplies&hash=item530e055d54:g:h7cAAOSw8ixn5pwV",
+      "itemLocation": {
+        "postalCode": "540**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/0uQAAOSwJURn5pwV/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/PqUAAOSwz99n5pwV/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/dQsAAOSwCkVn5pwV/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/RgAAAOSwzLtn5pwV/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/vK4AAOSw6ENn5pwV/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "356717518164",
+      "availableCoupons": false,
+      "itemCreationDate": "2025-03-28T23:41:13.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|365397705492|0",
+      "title": "All Steel 15.748\" Cleaning Rod & Cleaning Kit for 7.62x39",
+      "leafCategoryIds": [
+        "22700"
+      ],
+      "categories": [
+        {
+          "categoryId": "22700",
+          "categoryName": "Cleaning Supplies"
+        },
+        {
+          "categoryId": "888",
+          "categoryName": "Sporting Goods"
+        },
+        {
+          "categoryId": "7301",
+          "categoryName": "Hunting"
+        },
+        {
+          "categoryId": "177880",
+          "categoryName": "Gun Smithing & Maintenance"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/nkcAAOSw4BFnrovh/s-l225.jpg"
+      },
+      "price": {
+        "value": "24.99",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C365397705492%7C0",
+      "seller": {
+        "username": "liquidation777",
+        "feedbackPercentage": "99.2",
+        "feedbackScore": 18101
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/nkcAAOSw4BFnrovh/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/365397705492?_skw=cleaning+supplies&hash=item5513668314:g:nkcAAOSw4BFnrovh",
+      "itemLocation": {
+        "postalCode": "917**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/pzoAAOSwS~lnrovn/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/3mQAAOSwkJdnrovn/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/qaMAAOSw07Vnrovn/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/qPcAAOSwoXlkQHYK/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "365397705492",
+      "availableCoupons": false,
+      "itemCreationDate": "2025-02-15T00:21:28.000Z",
+      "topRatedBuyingExperience": true,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|276416635157|0",
+      "title": "10 Pack of .30 Caliber Bore Mops for Gun Cleaning and Maintenance",
+      "leafCategoryIds": [
+        "22700"
+      ],
+      "categories": [
+        {
+          "categoryId": "22700",
+          "categoryName": "Cleaning Supplies"
+        },
+        {
+          "categoryId": "888",
+          "categoryName": "Sporting Goods"
+        },
+        {
+          "categoryId": "7301",
+          "categoryName": "Hunting"
+        },
+        {
+          "categoryId": "177880",
+          "categoryName": "Gun Smithing & Maintenance"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/85QAAOSw7x1lUoKZ/s-l225.jpg"
+      },
+      "price": {
+        "value": "12.75",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C276416635157%7C0",
+      "seller": {
+        "username": "designfunctionvalue",
+        "feedbackPercentage": "99.7",
+        "feedbackScore": 1526
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/85QAAOSw7x1lUoKZ/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/276416635157?_skw=cleaning+supplies&hash=item405bb72115:g:85QAAOSw7x1lUoKZ",
+      "itemLocation": {
+        "postalCode": "805**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/3m8AAOSwTqZlUoKZ/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/uekAAOSw6HZlUoKZ/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/XhYAAOSwUp9lUoKZ/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "276416635157",
+      "availableCoupons": false,
+      "itemCreationDate": "2024-04-08T09:28:48.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|266876403799|0",
+      "title": "Birchwood Casey Perma Blue Liquid Cold Gun Bluing - 3 OZ-13125",
+      "leafCategoryIds": [
+        "22700"
+      ],
+      "categories": [
+        {
+          "categoryId": "22700",
+          "categoryName": "Cleaning Supplies"
+        },
+        {
+          "categoryId": "888",
+          "categoryName": "Sporting Goods"
+        },
+        {
+          "categoryId": "7301",
+          "categoryName": "Hunting"
+        },
+        {
+          "categoryId": "177880",
+          "categoryName": "Gun Smithing & Maintenance"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/pSkAAOSwfXZklOoo/s-l225.jpg"
+      },
+      "price": {
+        "value": "12.99",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C266876403799%7C0",
+      "seller": {
+        "username": "eastexsales",
+        "feedbackPercentage": "99.6",
+        "feedbackScore": 13666
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/pSkAAOSwfXZklOoo/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "epid": "1620090867",
+      "itemWebUrl": "https://www.ebay.com/itm/266876403799?_skw=cleaning+supplies&hash=item3e2312c057:g:pSkAAOSwfXZklOoo",
+      "itemLocation": {
+        "postalCode": "759**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/fcgAAOSwi21me2fN/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/ftMAAOSwa9tme2fM/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/jr4AAOSwbJxme2fj/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/YSYAAOSwEKZme2gE/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "266876403799",
+      "availableCoupons": false,
+      "itemCreationDate": "2024-06-26T01:00:11.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|321503699359|0",
+      "title": "Ballistol Multi Purpose Oil-Lubricant Gun Cleaner-6oz Aerosol can-Sportsmans Oil",
+      "leafCategoryIds": [
+        "22700"
+      ],
+      "categories": [
+        {
+          "categoryId": "22700",
+          "categoryName": "Cleaning Supplies"
+        },
+        {
+          "categoryId": "888",
+          "categoryName": "Sporting Goods"
+        },
+        {
+          "categoryId": "7301",
+          "categoryName": "Hunting"
+        },
+        {
+          "categoryId": "177880",
+          "categoryName": "Gun Smithing & Maintenance"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/bWkAAOSwlpZlFaAl/s-l225.jpg"
+      },
+      "price": {
+        "value": "14.90",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C321503699359%7C0",
+      "seller": {
+        "username": "heintzbrosauto1",
+        "feedbackPercentage": "99.1",
+        "feedbackScore": 46583
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/bWkAAOSwlpZlFaAl/s-l1200.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "epid": "2255467902",
+      "itemWebUrl": "https://www.ebay.com/itm/321503699359?_skw=cleaning+supplies&hash=item4adb1d219f:g:bWkAAOSwlpZlFaAl",
+      "itemLocation": {
+        "postalCode": "286**",
+        "country": "US"
+      },
+      "adultOnly": false,
+      "legacyItemId": "321503699359",
+      "availableCoupons": false,
+      "itemCreationDate": "2014-08-27T14:58:50.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|365313155197|0",
+      "title": "1700PCS gun cleaning suppliesâ€”1500PCS Gun Cleaning Patches +200PCS Gun Cleani",
+      "leafCategoryIds": [
+        "22700"
+      ],
+      "categories": [
+        {
+          "categoryId": "22700",
+          "categoryName": "Cleaning Supplies"
+        },
+        {
+          "categoryId": "888",
+          "categoryName": "Sporting Goods"
+        },
+        {
+          "categoryId": "7301",
+          "categoryName": "Hunting"
+        },
+        {
+          "categoryId": "177880",
+          "categoryName": "Gun Smithing & Maintenance"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/K00AAOSwE0pnFt-S/s-l225.jpg"
+      },
+      "price": {
+        "value": "11.77",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C365313155197%7C0",
+      "seller": {
+        "username": "mothers-call",
+        "feedbackPercentage": "99.8",
+        "feedbackScore": 1150
+      },
+      "marketingPrice": {
+        "originalPrice": {
+          "value": "11.89",
+          "currency": "USD"
+        },
+        "discountPercentage": "1",
+        "discountAmount": {
+          "value": "0.12",
+          "currency": "USD"
+        }
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/K00AAOSwE0pnFt-S/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/365313155197?_skw=cleaning+supplies&hash=item550e5c607d:g:K00AAOSwE0pnFt-S",
+      "itemLocation": {
+        "postalCode": "605**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/VS8AAOSwfFVnFt-P/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/sYMAAOSwg9dnFt-K/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/ER4AAOSw4z1nFt-O/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/RwQAAOSwtl5nFt-O/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/TC0AAOSw9l5nFt-O/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/TfkAAOSwmLtnFt-k/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "365313155197",
+      "availableCoupons": false,
+      "itemCreationDate": "2024-12-29T20:19:32.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|395358294558|663984168708",
+      "title": "Bore Rope Gun Snake Barrel Cleaners .22 thru .45 & 12 20 Ga Rifle Shotgun Pistol",
+      "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=395358294558",
+      "leafCategoryIds": [
+        "22700"
+      ],
+      "categories": [
+        {
+          "categoryId": "22700",
+          "categoryName": "Cleaning Supplies"
+        },
+        {
+          "categoryId": "888",
+          "categoryName": "Sporting Goods"
+        },
+        {
+          "categoryId": "7301",
+          "categoryName": "Hunting"
+        },
+        {
+          "categoryId": "177880",
+          "categoryName": "Gun Smithing & Maintenance"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/v8wAAOSwAANnH1fS/s-l225.jpg"
+      },
+      "price": {
+        "value": "6.95",
+        "currency": "USD"
+      },
+      "itemGroupType": "SELLER_DEFINED_VARIATIONS",
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C395358294558%7C663984168708",
+      "seller": {
+        "username": "etromm",
+        "feedbackPercentage": "99.1",
+        "feedbackScore": 12962
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/v8wAAOSwAANnH1fS/s-l1200.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/395358294558?_skw=cleaning+supplies&hash=item5c0d30d21e:g:v8wAAOSwAANnH1fS",
+      "itemLocation": {
+        "postalCode": "917**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/4SwAAOSwALdjb7cF/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/liMAAOSwUORjb7aK/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/8dgAAOSw5b5jb7Zv/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/PgcAAOSw7U9jb7cf/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/ibkAAOSwHq5jb7aE/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/U-YAAOSwZU9jb7aa/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/twUAAOSwDLRjb7aP/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/JMkAAOSw0q9jb7Zq/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/J48AAOSwlBJjb7Z6/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/8iEAAOSw5b5jb7ac/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/-jEAAOSwwcBjb7af/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "395358294558",
+      "availableCoupons": false,
+      "itemCreationDate": "2024-04-23T23:50:01.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|376075053998|0",
+      "title": "Lucas Oil Hunting Gun Oil – Universal Firearm Lubricant, USA-Made",
+      "leafCategoryIds": [
+        "22700"
+      ],
+      "categories": [
+        {
+          "categoryId": "22700",
+          "categoryName": "Cleaning Supplies"
+        },
+        {
+          "categoryId": "888",
+          "categoryName": "Sporting Goods"
+        },
+        {
+          "categoryId": "7301",
+          "categoryName": "Hunting"
+        },
+        {
+          "categoryId": "177880",
+          "categoryName": "Gun Smithing & Maintenance"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/bNMAAOSwKCJn12LJ/s-l225.jpg"
+      },
+      "price": {
+        "value": "6.99",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C376075053998%7C0",
+      "seller": {
+        "username": "outshoregear",
+        "feedbackPercentage": "100.0",
+        "feedbackScore": 30
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/bNMAAOSwKCJn12LJ/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/376075053998?_skw=cleaning+supplies&hash=item578fd1ebae:g:bNMAAOSwKCJn12LJ",
+      "itemLocation": {
+        "postalCode": "802**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/Lp4AAOSw-11n12LL/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/PPwAAOSwT9ln12LL/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/FsAAAOSw8jtn12LN/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/U20AAOSwbxBn12LO/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/X78AAOSwaV9n12LT/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/P3kAAOSw1XZn12LU/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/lBEAAOSw8oln12LW/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/GbEAAOSw3Y9n12LX/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/0iwAAOSw8F1n12LY/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/GmQAAOSwh7Rn12LZ/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "376075053998",
+      "availableCoupons": false,
+      "itemCreationDate": "2025-03-17T05:46:35.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|235678062499|0",
+      "title": "Gun Cleaning Kit Universal - Gun Accessories Cleaning Supplies Gun Parts Cleaner",
+      "leafCategoryIds": [
+        "22700"
+      ],
+      "categories": [
+        {
+          "categoryId": "22700",
+          "categoryName": "Cleaning Supplies"
+        },
+        {
+          "categoryId": "888",
+          "categoryName": "Sporting Goods"
+        },
+        {
+          "categoryId": "7301",
+          "categoryName": "Hunting"
+        },
+        {
+          "categoryId": "177880",
+          "categoryName": "Gun Smithing & Maintenance"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/hOYAAOSwk3pmq84U/s-l225.jpg"
+      },
+      "price": {
+        "value": "11.99",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C235678062499%7C0",
+      "seller": {
+        "username": "black_pearll",
+        "feedbackPercentage": "100.0",
+        "feedbackScore": 2930
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/hOYAAOSwk3pmq84U/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/235678062499?_skw=cleaning+supplies&hash=item36df81d7a3:g:hOYAAOSwk3pmq84U",
+      "itemLocation": {
+        "postalCode": "923**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/4DcAAOSw~2Rmq84Y/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/zlcAAOSw1mVmq84d/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/ybwAAOSwsTNmq84g/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/Yj8AAOSwaxNmq84j/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/Wx4AAOSwIZ1mq84l/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/410AAOSwdrxmq84o/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/BZwAAOSwogJmq84s/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/EmwAAOSwfvZmq84u/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/IXQAAOSwVlxmq84x/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/77gAAOSwMFVmq844/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/x-cAAOSwo41mq847/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "235678062499",
+      "availableCoupons": false,
+      "itemCreationDate": "2024-08-02T18:04:45.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|296797616649|0",
+      "title": "HOPPE'S BORESNAKE DEN 9mm & 38/380/357 caliber Pistol Cleaning Kit 24002D",
+      "leafCategoryIds": [
+        "22700"
+      ],
+      "categories": [
+        {
+          "categoryId": "22700",
+          "categoryName": "Cleaning Supplies"
+        },
+        {
+          "categoryId": "888",
+          "categoryName": "Sporting Goods"
+        },
+        {
+          "categoryId": "7301",
+          "categoryName": "Hunting"
+        },
+        {
+          "categoryId": "177880",
+          "categoryName": "Gun Smithing & Maintenance"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/I5sAAOSw5PpnKoJq/s-l225.jpg"
+      },
+      "price": {
+        "value": "14.99",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C296797616649%7C0",
+      "seller": {
+        "username": "cdnnsportsinc",
+        "feedbackPercentage": "99.1",
+        "feedbackScore": 37980
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/I5sAAOSw5PpnKoJq/s-l1200.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/296797616649?_skw=cleaning+supplies&hash=item451a843a09:g:I5sAAOSw5PpnKoJq&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UZNfLH88KbPacL2HQkoumTKEwUPnfDRkEhlIJ3hZluOQDXN7SQ6j9qDQM5dUBClB0974IzgO0%2BIt2nB9qbJS0n2RGCP6aPaHrjUIue%2B2pVmVYqdbVn2IqyN3d8i3tTtaz%2BkHGiEbT0xnzdwhN7Y48yeB%2BgBcRMzU8ZWz4MyOYmqZLsjtaGVUn1zCUvzlrh0tPJiKiZRZrx6VYshLGQwh9EpS3%2FMXcCJZvrFJdpHukxxfDapSFj13MwXi9DT1oXk96ZPg23t%2Bbnn7IYzzfmHPIh9eXwPgj0UbhO0W7N7SqGlIg%3D%3D",
+      "itemLocation": {
+        "postalCode": "796**",
+        "country": "US"
+      },
+      "adultOnly": false,
+      "legacyItemId": "296797616649",
+      "availableCoupons": false,
+      "itemCreationDate": "2024-11-05T20:40:10.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": true,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|276820505398|0",
+      "title": "Card Cleaning Kit! Best Value! Extra Supplies! Card Care Kit! Pokémon MTG Yugioh",
+      "leafCategoryIds": [
+        "183438"
+      ],
+      "categories": [
+        {
+          "categoryId": "183438",
+          "categoryName": "Card Toploaders & Holders"
+        },
+        {
+          "categoryId": "212",
+          "categoryName": "Sports Trading Cards"
+        },
+        {
+          "categoryId": "64482",
+          "categoryName": "Sports Mem, Cards & Fan Shop"
+        },
+        {
+          "categoryId": "183436",
+          "categoryName": "Storage & Display Supplies"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/WLUAAOSwe~Vm5jp0/s-l225.jpg"
+      },
+      "price": {
+        "value": "24.49",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C276820505398%7C0",
+      "seller": {
+        "username": "lucas_hlt",
+        "feedbackPercentage": "98.8",
+        "feedbackScore": 201
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/WLUAAOSwe~Vm5jp0/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "4.49",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "BEST_OFFER"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/276820505398?_skw=cleaning+supplies&hash=item4073c9b336:g:WLUAAOSwe~Vm5jp0&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UYH44gzExTnvGZFaO476t9PAGa51DSDIGSeefbAiigsWO2e62w5kax8GsUPyDJqQ20s9aPGPOSqUSqGKDL%2BkCAzCUxFD9mLde4PKBBZzta9AAs%2BynduTBRT4Y%2B2J59B50sB8dq6vreguS9BLAho3nFz7mxJDI%2BF96W9JpCfgl9Cf0QLINhnNWcFA39cfck6xA6SGj%2FxNXviaiNoKEDmrqX65phkHRpr1ekc6QDSiagnSv1I%2Bjq1U5e382oAeRznp6I2BhiKp%2Fj9NmCYiFzOWkgGjOJEaSRIfnaHb%2FOioXDzLw%3D%3D",
+      "itemLocation": {
+        "postalCode": "787**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/fncAAOSw~fdnhn~W/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/Hm4AAOSwBFFnhn~P/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/DRIAAOSwWdJnhn~b/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/nYEAAOSwaJJnhn~f/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/FpkAAOSwh69nhn~t/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/5ksAAOSwev1nhn~p/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/iAoAAOSwNjBm5jp2/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/zPIAAOSwJzJm5jp6/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/VJUAAOSw3aNm5jp8/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/qw4AAOSwtu9nhoAv/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "276820505398",
+      "availableCoupons": false,
+      "itemCreationDate": "2025-01-18T06:40:29.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": true,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|146402563143|0",
+      "title": "Ballistol 2 Pack Multi Purpose Oil-Lubricant Gun Cleaner-6oz Aerosol",
+      "leafCategoryIds": [
+        "22700"
+      ],
+      "categories": [
+        {
+          "categoryId": "22700",
+          "categoryName": "Cleaning Supplies"
+        },
+        {
+          "categoryId": "888",
+          "categoryName": "Sporting Goods"
+        },
+        {
+          "categoryId": "7301",
+          "categoryName": "Hunting"
+        },
+        {
+          "categoryId": "177880",
+          "categoryName": "Gun Smithing & Maintenance"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/B3gAAOSwCidntpfz/s-l225.jpg"
+      },
+      "price": {
+        "value": "28.99",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C146402563143%7C0",
+      "seller": {
+        "username": "vusart",
+        "feedbackPercentage": "98.7",
+        "feedbackScore": 3470
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/B3gAAOSwCidntpfz/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "epid": "2255467902",
+      "itemWebUrl": "https://www.ebay.com/itm/146402563143?_skw=cleaning+supplies&hash=item221645d447:g:B3gAAOSwCidntpfz&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UZ3kszo2dO72ExoPWFTbRCFnlZqjNl3YU5HdAvA29E7HS1EtTH9T7a4Gw43TR1OYhEvsQlsYGEH7Se7NjrxNwSVPSujvYazHLjaJTkvK%2FZ0tdPwXjRe4K%2F7Q2mWVfEC1LILY259gmAflzXj6k6J45woQHZSdV84Fu32jtSDqco42EahKPG8FouoSjQ3tD1J6Jeer%2BE%2BfqvIFm2bt4UwaTBHBfVpXLU1ISnMTnDsZEYXvI07iwFTYTL55vbmkCG66qJtVqqKDXxgq7e0SwCyd2f4A7tA3XvcLl1BGj7bQ%2FQjlQ%3D%3D",
+      "itemLocation": {
+        "postalCode": "234**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/SpIAAOSwbKpntpgC/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/JBEAAOSwTYFntpgG/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/4dsAAOSw24FntpgD/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "146402563143",
+      "availableCoupons": false,
+      "itemCreationDate": "2025-02-20T08:50:47.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": true,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|115731629048|0",
+      "title": "Pistol Cleaning kit .22.357.38 9mm.45 .40 Caliber Cleaning Tools Oil Bottle",
+      "leafCategoryIds": [
+        "22700"
+      ],
+      "categories": [
+        {
+          "categoryId": "22700",
+          "categoryName": "Cleaning Supplies"
+        },
+        {
+          "categoryId": "888",
+          "categoryName": "Sporting Goods"
+        },
+        {
+          "categoryId": "7301",
+          "categoryName": "Hunting"
+        },
+        {
+          "categoryId": "177880",
+          "categoryName": "Gun Smithing & Maintenance"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/JM8AAOSw0PtgERE-/s-l225.jpg"
+      },
+      "price": {
+        "value": "19.80",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C115731629048%7C0",
+      "seller": {
+        "username": "pride_sports",
+        "feedbackPercentage": "99.4",
+        "feedbackScore": 30157
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/JM8AAOSw0PtgERE-/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "BEST_OFFER"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/115731629048?_skw=cleaning+supplies&hash=item1af22483f8:g:JM8AAOSw0PtgERE-&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5Ua5DBBEGC7LLhmcEektM7lSEhrgQpGk7aUvrFIs1N3QNlzE%2FSoZjxyXpOlgZUweIDWqPtQbnnzRhLfVAid%2BZrwkfO4DbU6BmaqMqZiPyVZ02AGQ4EU%2Bagk15Cz7SZutZdcdUdxu1IOOgsKlt7AakW%2BKI5xb2%2BN6SrxtPY2ih75y0WpAB2twOktXx97KtK48jZNHOfYqeat3utZpY%2F9BDX2yeqHtO6zQa%2FBQ4J5X%2BWIXk7cBuZPSbgYtm7pz7vNe0pEEd6zMbCWDj63M6V0ZoJEyqI%2FpcDw%2F8PpTfIAMA8dU7w%3D%3D",
+      "itemLocation": {
+        "postalCode": "900**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/K48AAOSwcJRgERFB/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/4pIAAOSw-C1gERFJ/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/eiEAAOSwij1gERFD/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/oKoAAOSwgvdgERFH/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/LpgAAOSwt81gERFN/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/YQgAAOSwqOZgERFQ/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/YkMAAOSwLVdgERFL/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "115731629048",
+      "availableCoupons": false,
+      "itemCreationDate": "2023-03-15T10:05:07.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": true,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|196711758920|0",
+      "title": "9Pcs Universal Gun Cleaning Kit Rifle Pistol Brush Cleaner Set 2-Ended Brush",
+      "leafCategoryIds": [
+        "22700"
+      ],
+      "categories": [
+        {
+          "categoryId": "22700",
+          "categoryName": "Cleaning Supplies"
+        },
+        {
+          "categoryId": "888",
+          "categoryName": "Sporting Goods"
+        },
+        {
+          "categoryId": "7301",
+          "categoryName": "Hunting"
+        },
+        {
+          "categoryId": "177880",
+          "categoryName": "Gun Smithing & Maintenance"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/7MAAAOSwt5plim-Y/s-l225.jpg"
+      },
+      "price": {
+        "value": "3.50",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C196711758920%7C0",
+      "seller": {
+        "username": "powerlampsell20188",
+        "feedbackPercentage": "99.5",
+        "feedbackScore": 3121
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/7MAAAOSwt5plim-Y/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/196711758920?_skw=cleaning+supplies&hash=item2dccef3c48:g:7MAAAOSwt5plim-Y",
+      "itemLocation": {
+        "postalCode": "088**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/A~gAAOSw2fJlim-X/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/jyUAAOSw90xlim-Y/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/sBEAAOSwKv5lim-Y/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/3lgAAOSwqsZlim-a/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/cUYAAOSwflJlim-Y/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/RqAAAOSwaLllim-Y/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/69QAAOSwRcBlim-Y/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/JnYAAOSwdB1lim-Z/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/qYYAAOSw06xlim-X/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/CRcAAOSwJKNlim-a/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/vf4AAOSw7Yhlim-Z/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/N9sAAOSwkFVlim-Y/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "196711758920",
+      "availableCoupons": false,
+      "itemCreationDate": "2024-10-10T09:16:53.000Z",
+      "topRatedBuyingExperience": true,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|146165398762|0",
+      "title": "Hoppe's 38, .357, 9mm Caliber Pistol Cleaning Kit",
+      "leafCategoryIds": [
+        "22700"
+      ],
+      "categories": [
+        {
+          "categoryId": "22700",
+          "categoryName": "Cleaning Supplies"
+        },
+        {
+          "categoryId": "888",
+          "categoryName": "Sporting Goods"
+        },
+        {
+          "categoryId": "7301",
+          "categoryName": "Hunting"
+        },
+        {
+          "categoryId": "177880",
+          "categoryName": "Gun Smithing & Maintenance"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/ZjwAAOSwzAJnK6g-/s-l225.jpg"
+      },
+      "price": {
+        "value": "22.99",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C146165398762%7C0",
+      "seller": {
+        "username": "forzasports",
+        "feedbackPercentage": "99.2",
+        "feedbackScore": 619236
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/ZjwAAOSwzAJnK6g-/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "epid": "1937655967",
+      "itemWebUrl": "https://www.ebay.com/itm/146165398762?_skw=cleaning+supplies&hash=item220822fcea:g:ZjwAAOSwzAJnK6g-",
+      "itemLocation": {
+        "postalCode": "180**",
+        "country": "US"
+      },
+      "adultOnly": false,
+      "legacyItemId": "146165398762",
+      "availableCoupons": false,
+      "itemCreationDate": "2024-11-06T17:31:39.000Z",
+      "topRatedBuyingExperience": true,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|295806041012|0",
+      "title": "Universal Handgun Cleaning Kit for Pistols Revolver and SBR Calibers",
+      "leafCategoryIds": [
+        "22700"
+      ],
+      "categories": [
+        {
+          "categoryId": "22700",
+          "categoryName": "Cleaning Supplies"
+        },
+        {
+          "categoryId": "888",
+          "categoryName": "Sporting Goods"
+        },
+        {
+          "categoryId": "7301",
+          "categoryName": "Hunting"
+        },
+        {
+          "categoryId": "177880",
+          "categoryName": "Gun Smithing & Maintenance"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/LjYAAOSw6ltkqVzg/s-l225.jpg"
+      },
+      "price": {
+        "value": "19.99",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C295806041012%7C0",
+      "seller": {
+        "username": "beararmztactical",
+        "feedbackPercentage": "99.1",
+        "feedbackScore": 6348
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/LjYAAOSw6ltkqVzg/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/295806041012?_skw=cleaning+supplies&hash=item44df69fbb4:g:LjYAAOSw6ltkqVzg",
+      "itemLocation": {
+        "postalCode": "559**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/HnYAAOSwsL5kqVzj/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/obIAAOSwZR1kqVz5/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/Q-sAAOSwAqxkqVzd/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/oXAAAOSwP3dkqVzf/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/pkkAAOSww3VkqVze/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "295806041012",
+      "availableCoupons": false,
+      "itemCreationDate": "2023-07-08T12:59:19.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|115591166192|0",
+      "title": " Gun Cleaning Kit Handgun Cleaning Kit Pistol Cleaning Kit .22.357/9mm",
+      "leafCategoryIds": [
+        "22700"
+      ],
+      "categories": [
+        {
+          "categoryId": "22700",
+          "categoryName": "Cleaning Supplies"
+        },
+        {
+          "categoryId": "888",
+          "categoryName": "Sporting Goods"
+        },
+        {
+          "categoryId": "7301",
+          "categoryName": "Hunting"
+        },
+        {
+          "categoryId": "177880",
+          "categoryName": "Gun Smithing & Maintenance"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/Oh0AAOSwMeNjZGMN/s-l225.jpg"
+      },
+      "price": {
+        "value": "15.99",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C115591166192%7C0",
+      "seller": {
+        "username": "outlets-usa",
+        "feedbackPercentage": "98.3",
+        "feedbackScore": 3606
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/Oh0AAOSwMeNjZGMN/s-l1200.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/115591166192?_skw=cleaning+supplies&hash=item1ae9c538f0:g:Oh0AAOSwMeNjZGMN",
+      "itemLocation": {
+        "postalCode": "917**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/cCsAAOSwFmJjZGMT/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/5gQAAOSwSTZjZGMh/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/9-0AAOSwwRRjZGMo/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/OOMAAOSw4qhjZGMu/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/u1QAAOSwRRBjZGM1/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "115591166192",
+      "availableCoupons": false,
+      "itemCreationDate": "2022-11-04T00:56:58.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|276319425577|0",
+      "title": "10 Pack- .22 Cal Nylon Bore Brushes for Gun Cleaning and Maintenance",
+      "leafCategoryIds": [
+        "22700"
+      ],
+      "categories": [
+        {
+          "categoryId": "22700",
+          "categoryName": "Cleaning Supplies"
+        },
+        {
+          "categoryId": "888",
+          "categoryName": "Sporting Goods"
+        },
+        {
+          "categoryId": "7301",
+          "categoryName": "Hunting"
+        },
+        {
+          "categoryId": "177880",
+          "categoryName": "Gun Smithing & Maintenance"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/kKwAAOSwactlUxLW/s-l225.jpg"
+      },
+      "price": {
+        "value": "12.75",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C276319425577%7C0",
+      "seller": {
+        "username": "designfunctionvalue",
+        "feedbackPercentage": "99.7",
+        "feedbackScore": 1526
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/kKwAAOSwactlUxLW/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/276319425577?_skw=cleaning+supplies&hash=item4055ebd429:g:kKwAAOSwactlUxLW",
+      "itemLocation": {
+        "postalCode": "805**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/1ZwAAOSwuT5lUxLW/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/R4IAAOSw2B9lUxLV/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/QUUAAOSwZnVlUxLW/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "276319425577",
+      "availableCoupons": false,
+      "itemCreationDate": "2024-02-05T05:54:51.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|146468237847|0",
+      "title": "Bore Cleaning Rope 30, 7.62MM, 308, 7.82MM, 32 Cal Keyword Bore Snake",
+      "leafCategoryIds": [
+        "22700"
+      ],
+      "categories": [
+        {
+          "categoryId": "22700",
+          "categoryName": "Cleaning Supplies"
+        },
+        {
+          "categoryId": "888",
+          "categoryName": "Sporting Goods"
+        },
+        {
+          "categoryId": "7301",
+          "categoryName": "Hunting"
+        },
+        {
+          "categoryId": "177880",
+          "categoryName": "Gun Smithing & Maintenance"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/TY0AAOSw3kZn3xqv/s-l225.jpg"
+      },
+      "price": {
+        "value": "8.99",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C146468237847%7C0",
+      "seller": {
+        "username": "dsdsports",
+        "feedbackPercentage": "100.0",
+        "feedbackScore": 25
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/TY0AAOSw3kZn3xqv/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/146468237847?_skw=cleaning+supplies&hash=item221a2ff217:g:TY0AAOSw3kZn3xqv",
+      "itemLocation": {
+        "postalCode": "162**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/kRYAAOSwDbFn3xq2/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "146468237847",
+      "availableCoupons": false,
+      "itemCreationDate": "2025-03-23T20:18:53.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|115732489059|0",
+      "title": "Bore Guides Kit with 3 Muzzle Guides for Firearm Cleaning, Universal Bore Guides",
+      "leafCategoryIds": [
+        "22700"
+      ],
+      "categories": [
+        {
+          "categoryId": "22700",
+          "categoryName": "Cleaning Supplies"
+        },
+        {
+          "categoryId": "888",
+          "categoryName": "Sporting Goods"
+        },
+        {
+          "categoryId": "7301",
+          "categoryName": "Hunting"
+        },
+        {
+          "categoryId": "177880",
+          "categoryName": "Gun Smithing & Maintenance"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/cI8AAOSwpO9kEuRG/s-l225.jpg"
+      },
+      "price": {
+        "value": "15.70",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C115732489059%7C0",
+      "seller": {
+        "username": "pride_sports",
+        "feedbackPercentage": "99.4",
+        "feedbackScore": 30157
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/cI8AAOSwpO9kEuRG/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "BEST_OFFER"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/115732489059?_skw=cleaning+supplies&hash=item1af231a363:g:cI8AAOSwpO9kEuRG&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UbfZr5M6jB2F1Bvrb222FtrH2o29G%2B7VhdcP1dz3VAehG4PdhPh4sNK5EvZmZj0iQnKf9QBEhI1oGYtimCwTUG9FUgw3vN3K9Nh2xzcPuT6mbRVt8m6vCS5bsqZdB8%2B1enI%2BVof%2BFeoHCOKIylXiqcwwNOSTIq%2FuFsYfrdQrXYIYumDtKWHOG7gN90vEo3KGtcoCuOMuVQcM6293fxxUXu12tO2TueuE4E7SP9N%2FXuCPNAeTLfHVjEL8QTk9czgQhRyTMyYrwPb%2FZkI85K6LRAC%2FECEJEB6mjWw%2FJ9nClKtHw%3D%3D",
+      "itemLocation": {
+        "postalCode": "906**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/sxsAAOSwRc9kEuRG/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/5U8AAOSw0l5kEuRH/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/cPAAAOSwUJxkEuRI/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/hRQAAOSwTSxkEuRI/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/~h0AAOSwFglkEuRJ/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "115732489059",
+      "availableCoupons": false,
+      "itemCreationDate": "2023-03-16T09:41:30.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": true,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|145362408675|0",
+      "title": "2 PACK Remington-Rem Oil Spray Gun Aerosol Cleaning Lubricant 10 Oz - 2 PACK",
+      "leafCategoryIds": [
+        "22700"
+      ],
+      "categories": [
+        {
+          "categoryId": "22700",
+          "categoryName": "Cleaning Supplies"
+        },
+        {
+          "categoryId": "888",
+          "categoryName": "Sporting Goods"
+        },
+        {
+          "categoryId": "7301",
+          "categoryName": "Hunting"
+        },
+        {
+          "categoryId": "177880",
+          "categoryName": "Gun Smithing & Maintenance"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/iVsAAOSwP6RlKFm9/s-l225.jpg"
+      },
+      "price": {
+        "value": "25.78",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C145362408675%7C0",
+      "seller": {
+        "username": "vusart",
+        "feedbackPercentage": "98.7",
+        "feedbackScore": 3470
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/iVsAAOSwP6RlKFm9/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/145362408675?_skw=cleaning+supplies&hash=item21d84654e3:g:iVsAAOSwP6RlKFm9&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UblNTnxr%2BFVx7ViR3aDU2GDtpRC%2BB98xcGmOJAIrc3Hz5kk1O%2BjKXVqSaHOkajwOAJ4KpScgNQkr%2BzFeYh2vhYdRv8it%2Fm1ORh5jmaYuO4U8NwF4hS9VhFv0BrI%2FeeWUxjGjtR%2FqQMdL4rB5XwYpqPnSV8NTe836510eIdUqJT21CFwVSxiypefJEoas1hU3fs19Vhy6Ml%2FIYEXKIV%2FLyvbRpUVIN09mar3p%2B1DtH5Ax0zr7qjLBpUutJ3LAtzfVYp9DESPThQWek13icnpEVUdWiCj%2BCgJzjboKMQVluxtNA%3D%3D",
+      "itemLocation": {
+        "postalCode": "234**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/8ncAAOSwUgZlKFm9/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "145362408675",
+      "availableCoupons": false,
+      "itemCreationDate": "2023-10-12T20:42:35.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": true,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|196637343123|0",
+      "title": "For .22LR, .223, .257, 5.56mm Rifle Gun Cleaning Kit Brush Cleaner with Pouch US",
+      "leafCategoryIds": [
+        "22700"
+      ],
+      "categories": [
+        {
+          "categoryId": "22700",
+          "categoryName": "Cleaning Supplies"
+        },
+        {
+          "categoryId": "888",
+          "categoryName": "Sporting Goods"
+        },
+        {
+          "categoryId": "7301",
+          "categoryName": "Hunting"
+        },
+        {
+          "categoryId": "177880",
+          "categoryName": "Gun Smithing & Maintenance"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/i~8AAOSwt9dnr~V6/s-l225.jpg"
+      },
+      "price": {
+        "value": "9.99",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C196637343123%7C0",
+      "seller": {
+        "username": "forward-sell",
+        "feedbackPercentage": "98.1",
+        "feedbackScore": 100422
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/i~8AAOSwt9dnr~V6/s-l1200.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/196637343123?_skw=cleaning+supplies&hash=item2dc87fbd93:g:i~8AAOSwt9dnr~V6",
+      "itemLocation": {
+        "postalCode": "770**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/z6UAAOSwCXlnr~V6/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/m7IAAOSw5MFnr~V6/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/1n8AAOSwVzdnr~V6/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "196637343123",
+      "availableCoupons": false,
+      "itemCreationDate": "2024-09-15T00:45:13.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|265610192042|0",
+      "title": "Military Type Butt Stock Cleaning Kit - Army, Marine, USMC Rifle Cleaning Kit",
+      "leafCategoryIds": [
+        "22700"
+      ],
+      "categories": [
+        {
+          "categoryId": "22700",
+          "categoryName": "Cleaning Supplies"
+        },
+        {
+          "categoryId": "888",
+          "categoryName": "Sporting Goods"
+        },
+        {
+          "categoryId": "7301",
+          "categoryName": "Hunting"
+        },
+        {
+          "categoryId": "177880",
+          "categoryName": "Gun Smithing & Maintenance"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/e84AAOSw0OpkFfUu/s-l225.jpg"
+      },
+      "price": {
+        "value": "29.95",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C265610192042%7C0",
+      "seller": {
+        "username": "militarytactics",
+        "feedbackPercentage": "99.6",
+        "feedbackScore": 3962
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/e84AAOSw0OpkFfUu/s-l640.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/265610192042?_skw=cleaning+supplies&hash=item3dd799e4aa:g:e84AAOSw0OpkFfUu",
+      "itemLocation": {
+        "postalCode": "975**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/TTsAAOSwLvRkFfPP/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/-CQAAOSwtOdkFfSd/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "265610192042",
+      "availableCoupons": false,
+      "itemCreationDate": "2022-03-23T17:23:17.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|266588947039|0",
+      "title": "Wipe Out Patch Out Bore Cleaner by Sharp Shoot \"R\" Used by World Class Shooters!",
+      "leafCategoryIds": [
+        "22700"
+      ],
+      "categories": [
+        {
+          "categoryId": "22700",
+          "categoryName": "Cleaning Supplies"
+        },
+        {
+          "categoryId": "888",
+          "categoryName": "Sporting Goods"
+        },
+        {
+          "categoryId": "7301",
+          "categoryName": "Hunting"
+        },
+        {
+          "categoryId": "177880",
+          "categoryName": "Gun Smithing & Maintenance"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/GXQAAOSwayZljhMr/s-l225.jpg"
+      },
+      "price": {
+        "value": "18.98",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C266588947039%7C0",
+      "seller": {
+        "username": "dtom9172",
+        "feedbackPercentage": "99.7",
+        "feedbackScore": 14361
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/GXQAAOSwayZljhMr/s-l960.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/266588947039?_skw=cleaning+supplies&hash=item3e11f0825f:g:GXQAAOSwayZljhMr",
+      "itemLocation": {
+        "postalCode": "720**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/V5gAAOSwXflkypvV/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "266588947039",
+      "availableCoupons": false,
+      "itemCreationDate": "2023-12-29T00:30:49.000Z",
+      "topRatedBuyingExperience": true,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|123172684016|0",
+      "title": "6 PCS Set Gun Rifle Pistol Cleaning Picks + Nylon Brushes - Non-Scratching",
+      "leafCategoryIds": [
+        "22700"
+      ],
+      "categories": [
+        {
+          "categoryId": "22700",
+          "categoryName": "Cleaning Supplies"
+        },
+        {
+          "categoryId": "888",
+          "categoryName": "Sporting Goods"
+        },
+        {
+          "categoryId": "7301",
+          "categoryName": "Hunting"
+        },
+        {
+          "categoryId": "177880",
+          "categoryName": "Gun Smithing & Maintenance"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/-LMAAOSw62RdFjQs/s-l225.jpg"
+      },
+      "price": {
+        "value": "6.99",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C123172684016%7C0",
+      "seller": {
+        "username": "greenheadhunting",
+        "feedbackPercentage": "99.3",
+        "feedbackScore": 26028
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/-LMAAOSw62RdFjQs/s-l1200.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "epid": "3020150930",
+      "itemWebUrl": "https://www.ebay.com/itm/123172684016?_skw=cleaning+supplies&hash=item1cadaa00f0:g:-LMAAOSw62RdFjQs",
+      "itemLocation": {
+        "postalCode": "153**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/wyYAAOSweTRdFjQt/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/0cAAAOSwzfNdFjQv/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/Hm0AAOSwQTNdFjQx/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/yk8AAOSwwKZdFjQy/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/PxwAAOSwqeVdFjQ0/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "123172684016",
+      "availableCoupons": false,
+      "itemCreationDate": "2018-06-04T20:08:31.000Z",
+      "topRatedBuyingExperience": true,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|174782724675|0",
+      "title": "Hoppes BoreSnake Bore Cleaner .40/.41 Caliber Pistol",
+      "leafCategoryIds": [
+        "22700"
+      ],
+      "categories": [
+        {
+          "categoryId": "22700",
+          "categoryName": "Cleaning Supplies"
+        },
+        {
+          "categoryId": "888",
+          "categoryName": "Sporting Goods"
+        },
+        {
+          "categoryId": "7301",
+          "categoryName": "Hunting"
+        },
+        {
+          "categoryId": "177880",
+          "categoryName": "Gun Smithing & Maintenance"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/qdoAAOSwOLZhQOxr/s-l225.jpg"
+      },
+      "price": {
+        "value": "7.99",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C174782724675%7C0",
+      "seller": {
+        "username": "salempawn",
+        "feedbackPercentage": "99.5",
+        "feedbackScore": 12731
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/qdoAAOSwOLZhQOxr/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "epid": "2254308128",
+      "itemWebUrl": "https://www.ebay.com/itm/174782724675?_skw=cleaning+supplies&hash=item28b1dcba43:g:qdoAAOSwOLZhQOxr",
+      "itemLocation": {
+        "postalCode": "471**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/IgYAAOSwAgBhQOxm/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/ydMAAOSw6a1grp87/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "174782724675",
+      "availableCoupons": false,
+      "itemCreationDate": "2021-05-26T19:19:16.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|146462754211|0",
+      "title": "Norma Precision Bore Cleaning Rope 9mm, 380, 375, 357, 38, 33 Cal Bore Snake",
+      "leafCategoryIds": [
+        "22700"
+      ],
+      "categories": [
+        {
+          "categoryId": "22700",
+          "categoryName": "Cleaning Supplies"
+        },
+        {
+          "categoryId": "888",
+          "categoryName": "Sporting Goods"
+        },
+        {
+          "categoryId": "7301",
+          "categoryName": "Hunting"
+        },
+        {
+          "categoryId": "177880",
+          "categoryName": "Gun Smithing & Maintenance"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/E7MAAOSwmoxn2yOS/s-l225.jpg"
+      },
+      "price": {
+        "value": "8.99",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C146462754211%7C0",
+      "seller": {
+        "username": "dsdsports",
+        "feedbackPercentage": "100.0",
+        "feedbackScore": 25
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/E7MAAOSwmoxn2yOS/s-l960.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/146462754211?_skw=cleaning+supplies&hash=item2219dc45a3:g:E7MAAOSwmoxn2yOS",
+      "itemLocation": {
+        "postalCode": "162**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/cG0AAOSw2mtn2yOY/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "146462754211",
+      "availableCoupons": false,
+      "itemCreationDate": "2025-03-20T20:08:04.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|267105633737|0",
+      "title": "Wipe Out AREOSOL Bore Cleaner by Sharp Shoot \"R\" Used by World Class Shooters!",
+      "leafCategoryIds": [
+        "22700"
+      ],
+      "categories": [
+        {
+          "categoryId": "22700",
+          "categoryName": "Cleaning Supplies"
+        },
+        {
+          "categoryId": "888",
+          "categoryName": "Sporting Goods"
+        },
+        {
+          "categoryId": "7301",
+          "categoryName": "Hunting"
+        },
+        {
+          "categoryId": "177880",
+          "categoryName": "Gun Smithing & Maintenance"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/3K8AAOSwscZnax1V/s-l225.jpg"
+      },
+      "price": {
+        "value": "18.98",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C267105633737%7C0",
+      "seller": {
+        "username": "dtom9172",
+        "feedbackPercentage": "99.7",
+        "feedbackScore": 14361
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/3K8AAOSwscZnax1V/s-l640.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "epid": "1200480971",
+      "itemWebUrl": "https://www.ebay.com/itm/267105633737?_skw=cleaning+supplies&hash=item3e30bc85c9:g:3K8AAOSwscZnax1V",
+      "itemLocation": {
+        "postalCode": "720**",
+        "country": "US"
+      },
+      "adultOnly": false,
+      "legacyItemId": "267105633737",
+      "availableCoupons": false,
+      "itemCreationDate": "2024-12-25T20:57:01.000Z",
+      "topRatedBuyingExperience": true,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|225750136087|524856140186",
+      "title": "Pistol, Rifle and Shotgun Brush Cotton Swab Brush",
+      "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=225750136087",
+      "leafCategoryIds": [
+        "22700"
+      ],
+      "categories": [
+        {
+          "categoryId": "22700",
+          "categoryName": "Cleaning Supplies"
+        },
+        {
+          "categoryId": "888",
+          "categoryName": "Sporting Goods"
+        },
+        {
+          "categoryId": "7301",
+          "categoryName": "Hunting"
+        },
+        {
+          "categoryId": "177880",
+          "categoryName": "Gun Smithing & Maintenance"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/ul0AAOSw8Q1k7ZTr/s-l225.jpg"
+      },
+      "price": {
+        "value": "2.50",
+        "currency": "USD"
+      },
+      "itemGroupType": "SELLER_DEFINED_VARIATIONS",
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C225750136087%7C524856140186",
+      "seller": {
+        "username": "high-rober",
+        "feedbackPercentage": "100.0",
+        "feedbackScore": 750
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/ul0AAOSw8Q1k7ZTr/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "4.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/225750136087?_skw=cleaning+supplies&hash=item348fc1b517:g:ul0AAOSw8Q1k7ZTr",
+      "itemLocation": {
+        "postalCode": "782**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/WnIAAOSwYqRk7ZTr/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/JIIAAOSwn-Vk7ZTq/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/iCQAAOSwtjpk7ZTq/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/AF0AAOSw~qlk7piW/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/KdQAAOSwEulk7pmj/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/qhMAAOSwkCJk7pny/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/7nUAAOSwHgZk7pn6/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/bD8AAOSwlT1k7poE/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "225750136087",
+      "availableCoupons": false,
+      "itemCreationDate": "2023-08-29T13:25:30.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|146406362649|0",
+      "title": "Brownells Oxpho-Blue Liquid Gun Blue, Cold Bluing Solution, Gunsmithing Tools",
+      "leafCategoryIds": [
+        "22700"
+      ],
+      "categories": [
+        {
+          "categoryId": "22700",
+          "categoryName": "Cleaning Supplies"
+        },
+        {
+          "categoryId": "888",
+          "categoryName": "Sporting Goods"
+        },
+        {
+          "categoryId": "7301",
+          "categoryName": "Hunting"
+        },
+        {
+          "categoryId": "177880",
+          "categoryName": "Gun Smithing & Maintenance"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/bpgAAOSwcSpnuQYU/s-l225.jpg"
+      },
+      "price": {
+        "value": "18.99",
+        "currency": "USD"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C146406362649%7C0",
+      "seller": {
+        "username": "vusart",
+        "feedbackPercentage": "98.7",
+        "feedbackScore": 3470
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/bpgAAOSwcSpnuQYU/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "epid": "2254437639",
+      "itemWebUrl": "https://www.ebay.com/itm/146406362649?_skw=cleaning+supplies&hash=item22167fce19:g:bpgAAOSwcSpnuQYU&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UaDoF1lUAV9zM%2BeybDNTfoDjWlpjYHx9babFBe9kdx196YHSvfGWo9jbpxf82Z6qxzJP7d0LfuLW198PUi5S8lp3cnM0oGppq%2BkiSGTmMPPtH5ZexMt7ezfiHP7vwATkIbQotl8gAKx84%2BdBaZLXuOLUXcs928UuRcVlfbj%2BJJSMGJxfG%2BIEwu9wSw%2BQO6Ovp1vaQuIXI1NOF91bJ9IwSllnVSeHm9eZMbklOtXGyPcr%2F7pLjNpAh9xzXafp8nxAAbUSCkD2GeCxVPaijJKIFCn0nTw1tZUyqlSq4jm6O4sfg%3D%3D",
+      "itemLocation": {
+        "postalCode": "234**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/2yQAAOSwZ7pnuQYV/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/YRoAAOSwrdRnuQYX/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/m6cAAOSw9AVnuQYW/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/HWoAAOSw-A1nuQYV/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "146406362649",
+      "availableCoupons": false,
+      "itemCreationDate": "2025-02-22T05:03:31.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": true,
+      "listingMarketplaceId": "EBAY_US"
+    },
+    {
+      "itemId": "v1|388112358452|655314422372",
+      "title": "163pc Gun Cleaning Kit Universal Rifle Pistol Shotgun Handgun Firearm with Case",
+      "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=388112358452",
+      "leafCategoryIds": [
+        "22700"
+      ],
+      "categories": [
+        {
+          "categoryId": "22700",
+          "categoryName": "Cleaning Supplies"
+        },
+        {
+          "categoryId": "888",
+          "categoryName": "Sporting Goods"
+        },
+        {
+          "categoryId": "7301",
+          "categoryName": "Hunting"
+        },
+        {
+          "categoryId": "177880",
+          "categoryName": "Gun Smithing & Maintenance"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/lS4AAOSwcMBn2j60/s-l225.jpg"
+      },
+      "price": {
+        "value": "30.99",
+        "currency": "USD"
+      },
+      "itemGroupType": "SELLER_DEFINED_VARIATIONS",
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C388112358452%7C655314422372",
+      "seller": {
+        "username": "amkerda",
+        "feedbackPercentage": "97.6",
+        "feedbackScore": 5043
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/lS4AAOSwcMBn2j60/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "USD"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "itemWebUrl": "https://www.ebay.com/itm/388112358452?_skw=cleaning+supplies&hash=item5a5d4c9c34:g:lS4AAOSwcMBn2j60&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UaM2AVg54he6q37imkjG5Bo2s1f7FbIcQ7gF0pxL9MfqbJPa9EV1H1QZ4%2BogCeUwQAbvXgBcU4pJvX%2Biv8tw5JpkPzl7HuGct4bABrypRS5KJmEvanUtZBXmldv5OELSMn8cwBC3xLRTtVtW%2BTCf1CqVq0vuCoVib77fph%2FLfFor1bN2kaha%2BHCHsLyfomyi3jHW6RvIQE0r0lHYyi%2BFuSJRv9fXZeJUFlR6aAjyVGEF4Dbh2X7rqYvlqILzdpLG1QMRCzHxO0XiSOZ1h%2B3rXXSrhW5MjwZFmrQmxdEzBAiBw%3D%3D",
+      "itemLocation": {
+        "postalCode": "917**",
+        "country": "US"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/cL4AAOSwFLpn2j67/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/tpwAAOSwksZn2j69/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/j7IAAOSwuWJn2j7L/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/jRMAAOSw8JJn2j7R/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/OOgAAOSw0lRn2j7X/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/E6UAAOSwIsNn2j7Y/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/aGoAAOSwHqVn2j7a/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/kMMAAOSwQtln2j7c/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/240AAOSwJPNn2j7g/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/-dcAAOSw9t5n2j7i/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/wpoAAOSwqz1n2j7p/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/BkEAAOSw1t1n2j7u/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/F94AAOSwQSBn2j7x/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "388112358452",
+      "availableCoupons": false,
+      "itemCreationDate": "2025-03-19T09:52:58.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": true,
+      "listingMarketplaceId": "EBAY_US"
+    }
+  ]
+}
