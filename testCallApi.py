@@ -54,7 +54,7 @@ def fetch_and_save_items(query, limit):
     if response.status_code == 200:
         items_data = response.json()
         
-        file_path = f'ebay_items_{query}_{limit}.json'
+        file_path = f'ebay_data/ebay_items_{query}_{limit}.json'
         with open(file_path, 'w', encoding='utf-8') as f:
             json.dump(items_data, f, ensure_ascii=False, indent=2)
         
@@ -70,4 +70,4 @@ def fetch_and_save_items(query, limit):
 if __name__ == "__main__":
     categories = ['snacks', 'beverages', 'personal care', 'cleaning supplies', 'canned food', 'dry goods']
     for categorie in categories:
-        fetch_and_save_items(query=categorie, limit=50)
+        fetch_and_save_items(query=categorie, limit=200)

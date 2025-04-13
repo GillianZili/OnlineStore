@@ -35,14 +35,14 @@ class ItemController {
   // Single item
 
   @GetMapping("/item/{id}")
-  Item one(@PathVariable Long id) {
+  Item one(@PathVariable String id) {
 
     return repository.findById(id)
         .orElseThrow(() -> new ItemNotFoundException(id));
   }
 
   @PutMapping("/item/{id}")
-  Item replaceItem(@RequestBody Item newItem, @PathVariable Long id) {
+  Item replaceItem(@RequestBody Item newItem, @PathVariable String id) {
 
     return repository.findById(id)
         .map(item -> {
@@ -55,10 +55,5 @@ class ItemController {
         .orElseGet(() -> {
           return repository.save(newItem);
         });
-  }
-
-  @DeleteMapping("/item/{id}")
-  void deleteItem(@PathVariable Long id) {
-    repository.deleteById(id);
   }
 }
