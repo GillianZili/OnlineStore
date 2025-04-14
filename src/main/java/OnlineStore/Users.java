@@ -1,11 +1,13 @@
 package OnlineStore;
 
+import jakarta.persistence.Table;
 import java.util.Objects;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
 
 @Entity
+@Table(name = "Users")
 public class Users {
 
   private @Id

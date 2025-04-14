@@ -4,17 +4,14 @@ import static org.junit.jupiter.api.Assertions.*;
 
 import java.io.IOException;
 import java.util.List;
-import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.boot.test.context.SpringBootTest;
 
 
 public class ItemLoaderServiceTest {
 
   @Test
   void testLoadItemsFromJson() throws IOException {
-    ItemLoaderService service = new ItemLoaderService();
+    ItemJsonParseService service = new ItemJsonParseService();
 
     String file = "D:\\work_palace\\OnlineStore\\ebay_data\\ebay_items_beverages_200.json";
     service.loadItemsFromJson(file);

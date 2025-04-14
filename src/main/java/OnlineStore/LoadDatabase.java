@@ -13,7 +13,7 @@ class LoadDatabase {
   private static final Logger log = LoggerFactory.getLogger(LoadDatabase.class);
 
   @Bean
-  CommandLineRunner initDatabase(ItemRepository emp_repo, UsersRepository user_repo) {
+  CommandLineRunner initDatabase(ItemRepository emp_repo) {
 
     List<String> jsonFiles= List.of(
         "D:\\work_palace\\OnlineStore\\ebay_data\\ebay_items_beverages_200.json",
@@ -26,7 +26,7 @@ class LoadDatabase {
 
     return args -> {
       for(String fileUrl: jsonFiles) {
-        ItemLoaderService itemService = new ItemLoaderService();
+        ItemJsonParseService itemService = new ItemJsonParseService();
         itemService.loadItemsFromJson(fileUrl);
         List<Item> items = itemService.getItemList();
         for(Item item:items){

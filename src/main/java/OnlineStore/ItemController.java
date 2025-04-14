@@ -2,7 +2,6 @@ package OnlineStore;
 
 import java.util.List;
 
-import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
@@ -11,7 +10,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-class ItemController {
+public class ItemController {
 
   private final ItemRepository repository;
 
@@ -19,29 +18,25 @@ class ItemController {
     this.repository = repository;
   }
 
-  // Aggregate root
-  // tag::get-aggregate-root[]
-  @GetMapping("/item")
+  @GetMapping("/items")
   List<Item> all() {
     return repository.findAll();
   }
-  // end::get-aggregate-root[]
 
-  @PostMapping("/item")
+  @PostMapping("/items")
   Item newItem(@RequestBody Item newItem) {
     return repository.save(newItem);
   }
 
   // Single item
-
-  @GetMapping("/item/{id}")
+  @GetMapping("/items/{id}")
   Item one(@PathVariable String id) {
 
     return repository.findById(id)
         .orElseThrow(() -> new ItemNotFoundException(id));
   }
 
-  @PutMapping("/item/{id}")
+  @PutMapping("/items/{id}")
   Item replaceItem(@RequestBody Item newItem, @PathVariable String id) {
 
     return repository.findById(id)

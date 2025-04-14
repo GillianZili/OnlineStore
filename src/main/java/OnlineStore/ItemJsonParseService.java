@@ -7,7 +7,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-public class ItemLoaderService {
+public class ItemJsonParseService {
 
   private List<Item> itemList = new ArrayList<>();
 
@@ -23,7 +23,6 @@ public class ItemLoaderService {
       String name = node.path("title").asText();
       double price = Double.parseDouble(node.path("price").path("value").asText());
       int storage = (int)(Math.random() * 30) + 1;
-      String url = node.path("itemWebUrl").asText();
 
       Item item = new Item(id, name, price, storage);
       itemList.add(item);
