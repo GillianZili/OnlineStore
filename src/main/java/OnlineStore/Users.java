@@ -16,8 +16,12 @@ public class Users {
 
   Users(){}
 
+  Users(Long id){
+    this.id = id;
+  }
+
   Users(Long id, String name) {
-    this.id =id;
+    this.id = id;
     this.name = name;
   }
 

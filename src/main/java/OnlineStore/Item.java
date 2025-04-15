@@ -17,7 +17,10 @@ public class Item {
   private double price;
   private int storage;
 
-  Item() {
+  Item() {}
+
+  Item(String id) {
+    this.id=id;
   }
 
   Item(String id, String name, double price, int storage) {

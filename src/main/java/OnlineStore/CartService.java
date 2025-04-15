@@ -42,12 +42,17 @@ public class CartService {
     // else just update the amount
     // if the amount of the item becomes 0, delete the line
     if (optionalCart.isEmpty()){
-      Cart new_item = new Cart(userId,item.getName(),amount,item.getPrice());
+      Cart new_item = new Cart(userId,item.getName(),item.getId(),amount,item.getPrice());
       cartRepo.save(new_item);
     }else{
       Cart existing_item=optionalCart.get();
-      existing_item.setAmount(existing_item.getAmount()+amount);
-      cartRepo.save(existing_item);
+      int new_amount=existing_item.getAmount()+amount;
+      if(new_amount==0){
+        cartRepo.delete(existing_item);
+      }else {
+        existing_item.setAmount(existing_item.getAmount() + amount);
+        cartRepo.save(existing_item);
+      }
     }
 
     //update the amount of this item from item table
