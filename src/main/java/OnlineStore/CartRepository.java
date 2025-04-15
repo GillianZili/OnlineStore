@@ -8,5 +8,5 @@ interface CartRepository extends JpaRepository<Cart, Long> {
 
   List<Cart> findByUserId(Long userId);
 
-  Optional<Cart> findByItemIdAndUserId(Long userId, String itemId);
+  Optional<Cart> findByItemIdAndUserId(String itemId, Long userId);
 }

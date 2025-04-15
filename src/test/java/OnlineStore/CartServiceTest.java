@@ -40,7 +40,7 @@ class CartServiceTest {
 
     when(usersRepo.findById(user.getId())).thenReturn(Optional.of(user));
     when(itemRepo.findById(item1.getId())).thenReturn(Optional.of(item1));
-    when(cartRepo.findByItemIdAndUserId(user.getId(), item1.getId())).thenReturn(Optional.of(cart));
+    when(cartRepo.findByItemIdAndUserId(item1.getId(),user.getId())).thenReturn(Optional.of(cart));
 
     cartService.updateItemInCart(user.getId(), item1.getId(), -3);
     cartService.updateItemInCart(user.getId(), item1.getId(), 2);

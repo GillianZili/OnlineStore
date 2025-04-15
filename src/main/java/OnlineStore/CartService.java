@@ -31,9 +31,9 @@ public class CartService {
       throw new IllegalArgumentException("Not enough stock");
     }
 
-    Optional<Cart> optionalCart = cartRepo.findByItemIdAndUserId(userId, itemId);
-    if (optionalCart.isEmpty() || (amount<0 && optionalCart.get().getAmount() < abs(amount))) {
-      throw new IllegalArgumentException("You didn’t add that many to your cart.");
+    Optional<Cart> optionalCart = cartRepo.findByItemIdAndUserId(itemId,userId);
+    if (amount<0 && (optionalCart.get().getAmount() < abs(amount) || optionalCart.isEmpty())) {
+      throw new IllegalArgumentException("You didn't add that many to your cart.");
     }
 
 

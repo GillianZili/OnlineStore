@@ -1,5 +1,6 @@
 package OnlineStore;
 
+import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
@@ -16,19 +17,22 @@ public class Cart {
   @GeneratedValue(strategy = GenerationType.IDENTITY) // generate key_id automatically by DB
   private Long id;
 
-  Long user_id;
+  @Column(name = "item_id")
+  String itemId;
+
+  @Column(name = "user_id")
+  Long userId;
+
   String item_name;
-  String item_id;
   Integer amount;
   double price;
 
+  public Cart(){}
 
-
-
-  public Cart(Long user_id, String item_name, String item_id, Integer amount, double price) {
-    this.user_id = user_id;
+  public Cart(Long userId, String item_name, String itemId, Integer amount, double price) {
+    this.userId = userId;
     this.item_name = item_name;
-    this.item_id = item_id;
+    this.itemId = itemId;
     this.amount = amount;
     this.price = price;
   }
@@ -43,28 +47,28 @@ public class Cart {
       return false;
     }
     Cart other = (Cart) o;
-    return this.user_id.equals(other.user_id) && this.item_name.equals(other.item_name) && this.item_id.equals(other.item_id) && this.amount.equals(
+    return this.userId.equals(other.userId) && this.item_name.equals(other.item_name) && this.itemId.equals(other.itemId) && this.amount.equals(
         other.amount) && this.price == other.price;
   }
 
   @Override
   public int hashCode() {
-    return Objects.hash(this.user_id, this.item_name, this.item_id, this.amount, this.price);
+    return Objects.hash(this.userId, this.item_name, this.itemId, this.amount, this.price);
   }
 
   @Override
   public String toString() {
     return "Cart{" +
-        "user_id=" + user_id +
-        ", item_id=" + item_id +
+        "user_id=" + userId +
+        ", item_id=" + itemId +
         ", item=" + item_name +
         ", amount=" + amount +
         ", price=" + price +
         '}';
   }
 
-  public void setUser_id(Long user_id) {
-    this.user_id = user_id;
+  public void setUser_id(Long userId) {
+    this.userId = userId;
   }
 
 
@@ -77,11 +81,11 @@ public class Cart {
   }
 
   public Long getUser_id() {
-    return user_id;
+    return userId;
   }
 
   public void setItem_id(String item_id) {
-    this.item_id = item_id;
+    this.itemId = item_id;
   }
 
   public void setItem_name(String item_name) {
@@ -97,7 +101,7 @@ public class Cart {
   }
 
   public String getItem_id() {
-    return item_id;
+    return itemId;
   }
 
   public String getItem_name() {

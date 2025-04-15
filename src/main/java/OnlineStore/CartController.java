@@ -1,9 +1,9 @@
 package OnlineStore;
 
 import java.util.List;
+import java.util.Optional;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
-import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
@@ -36,8 +36,12 @@ public class CartController {
    * @return
    */
   @GetMapping("/carts/{user_id}")
-  Cart one(@PathVariable Long user_id) {
-    return repository.findById(user_id).orElseThrow(() -> new UsersNotFoundException(user_id));
+  List<Cart> one(@PathVariable Long user_id) {
+    List<Cart> carts = repository.findByUserId(user_id);
+    if (carts.isEmpty()) {
+      throw new UsersNotFoundException(user_id);
+    }
+    return carts;
   }
 
   /**
@@ -47,7 +51,7 @@ public class CartController {
    * @return
    */
   @PostMapping("/carts/{user_id}/{item_id}/{amount}")
-  ResponseEntity<String> add(@PathVariable Long user_id, @PathVariable String newItem_id,@PathVariable int amount) {
+  ResponseEntity<String> add(@PathVariable Long user_id, @PathVariable("item_id") String newItem_id,@PathVariable int amount) {
     try {
       service.updateItemInCart(user_id, newItem_id,amount);
       return ResponseEntity.ok("Item added successfully.");
