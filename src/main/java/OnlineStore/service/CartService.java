@@ -1,7 +1,15 @@
-package OnlineStore;
+package OnlineStore.service;
 
 import static java.lang.Math.abs;
 
+import OnlineStore.repository.CartRepository;
+import OnlineStore.exception.ItemNotFoundException;
+import OnlineStore.repository.ItemRepository;
+import OnlineStore.exception.UsersNotFoundException;
+import OnlineStore.repository.UsersRepository;
+import OnlineStore.model.Cart;
+import OnlineStore.model.Item;
+import OnlineStore.model.Users;
 import java.util.Optional;
 import org.springframework.stereotype.Service;
 

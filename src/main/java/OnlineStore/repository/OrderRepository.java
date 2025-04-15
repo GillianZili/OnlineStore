@@ -1,4 +1,4 @@
-package OnlineStore;
+package OnlineStore.repository;
 
 public interface OrderRepository {
 

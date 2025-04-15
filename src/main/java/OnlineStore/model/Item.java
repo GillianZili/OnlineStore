@@ -1,4 +1,4 @@
-package OnlineStore;
+package OnlineStore.model;
 
 import jakarta.persistence.Table;
 import java.util.Objects;
@@ -19,11 +19,11 @@ public class Item {
 
   Item() {}
 
-  Item(String id) {
+  public Item(String id) {
     this.id=id;
   }
 
-  Item(String id, String name, double price, int storage) {
+  public Item(String id, String name, double price, int storage) {
     this.id = id;
     this.name = name;
     this.price = price;

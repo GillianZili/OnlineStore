@@ -1,5 +1,6 @@
-package OnlineStore;
+package OnlineStore.service;
 
+import OnlineStore.model.Item;
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import java.io.File;

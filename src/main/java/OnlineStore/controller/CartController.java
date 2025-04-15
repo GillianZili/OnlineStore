@@ -1,7 +1,11 @@
-package OnlineStore;
+package OnlineStore.controller;
 
+import OnlineStore.repository.CartRepository;
+import OnlineStore.service.CartService;
+import OnlineStore.exception.ItemNotFoundException;
+import OnlineStore.exception.UsersNotFoundException;
+import OnlineStore.model.Cart;
 import java.util.List;
-import java.util.Optional;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

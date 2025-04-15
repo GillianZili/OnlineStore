@@ -1,4 +1,4 @@
-package OnlineStore;
+package OnlineStore.exception;
 
 public class UsersNotFoundException extends RuntimeException {
 

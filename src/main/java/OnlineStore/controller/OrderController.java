@@ -1,4 +1,4 @@
-package OnlineStore;
+package OnlineStore.controller;
 
 public class OrderController {
 

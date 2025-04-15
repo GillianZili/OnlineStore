@@ -1,4 +1,4 @@
-package OnlineStore;
+package OnlineStore.model;
 
 import jakarta.persistence.Table;
 import java.util.Objects;
@@ -14,9 +14,9 @@ public class Users {
   Long id;
   private String name;
 
-  Users(){}
+  public Users(){}
 
-  Users(Long id){
+  public Users(Long id){
     this.id = id;
   }
 

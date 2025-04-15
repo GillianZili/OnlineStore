@@ -2,6 +2,8 @@ package OnlineStore;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+import OnlineStore.model.Item;
+import OnlineStore.service.ItemJsonParseService;
 import java.io.IOException;
 import java.util.List;
 import org.junit.jupiter.api.Test;

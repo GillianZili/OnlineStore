@@ -3,6 +3,13 @@ package OnlineStore;
 import static org.junit.jupiter.api.Assertions.*;
 import static org.mockito.Mockito.*;
 
+import OnlineStore.model.Cart;
+import OnlineStore.model.Item;
+import OnlineStore.model.Users;
+import OnlineStore.repository.CartRepository;
+import OnlineStore.repository.ItemRepository;
+import OnlineStore.repository.UsersRepository;
+import OnlineStore.service.CartService;
 import java.util.Optional;
 
 import org.junit.jupiter.api.BeforeEach;
@@ -51,7 +58,7 @@ class CartServiceTest {
 
     IllegalArgumentException exception1 = assertThrows(IllegalArgumentException.class, ()->cartService.updateItemInCart(
         user.getId(),item1.getId(),-5));
-    assertEquals("You didn’t add that many to your cart.", exception1.getMessage());
+    assertEquals("You didn't add that many to your cart.", exception1.getMessage());
 
     IllegalArgumentException exception2 = assertThrows(IllegalArgumentException.class, ()->cartService.updateItemInCart(
         user.getId(),item1.getId(),20));

@@ -1,5 +1,8 @@
-package OnlineStore;
+package OnlineStore.controller;
 
+import OnlineStore.exception.UsersNotFoundException;
+import OnlineStore.repository.UsersRepository;
+import OnlineStore.model.Users;
 import java.util.List;
 
 import org.springframework.web.bind.annotation.DeleteMapping;
