@@ -9,7 +9,7 @@ import OnlineStore.exception.UsersNotFoundException;
 import OnlineStore.repository.UsersRepository;
 import OnlineStore.model.Cart;
 import OnlineStore.model.Item;
-import OnlineStore.model.Users;
+import OnlineStore.model.User;
 import java.util.Optional;
 import org.springframework.stereotype.Service;
 
@@ -33,7 +33,7 @@ public class CartService {
   public void updateItemInCart(Long userId, String itemId, int amount) {
     //check itemId and userId if they are exists,
     //check the storage of this item
-    Users user = usersRepo.findById(userId).orElseThrow(() -> new UsersNotFoundException(userId));
+    User user = usersRepo.findById(userId).orElseThrow(() -> new UsersNotFoundException(userId));
     Item item = itemRepo.findById(itemId).orElseThrow(() -> new ItemNotFoundException(itemId));
     if (amount>0 && item.getStorage() < amount) {
       throw new IllegalArgumentException("Not enough stock");

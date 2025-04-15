@@ -58,7 +58,7 @@ public class CartController {
   ResponseEntity<String> add(@PathVariable Long user_id, @PathVariable("item_id") String newItem_id,@PathVariable int amount) {
     try {
       service.updateItemInCart(user_id, newItem_id,amount);
-      return ResponseEntity.ok("Item added successfully.");
+      return ResponseEntity.ok("Item updated successfully.");
     } catch (ItemNotFoundException e) {
       return ResponseEntity.status(HttpStatus.NOT_FOUND).body(e.getMessage());
     }

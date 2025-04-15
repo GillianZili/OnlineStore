@@ -5,7 +5,7 @@ import static org.mockito.Mockito.*;
 
 import OnlineStore.model.Cart;
 import OnlineStore.model.Item;
-import OnlineStore.model.Users;
+import OnlineStore.model.User;
 import OnlineStore.repository.CartRepository;
 import OnlineStore.repository.ItemRepository;
 import OnlineStore.repository.UsersRepository;
@@ -40,7 +40,7 @@ class CartServiceTest {
 
   @Test
   void testUpdateExistingCartItem() {
-    Users user = new Users(1L);
+    User user = new User(1L);
     Item item1 = new Item("aa0001","Coke Cola",3.88,10);
 
     Cart cart = new Cart(user.getId(), item1.getName(), item1.getId(), 5,3.88);

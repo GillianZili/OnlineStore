@@ -8,19 +8,19 @@ import jakarta.persistence.Id;
 
 @Entity
 @Table(name = "Users")
-public class Users {
+public class User {
 
   private @Id
   Long id;
   private String name;
 
-  public Users(){}
+  public User(){}
 
-  public Users(Long id){
+  public User(Long id){
     this.id = id;
   }
 
-  Users(Long id, String name) {
+  public User(Long id, String name) {
     this.id = id;
     this.name = name;
   }
@@ -31,7 +31,7 @@ public class Users {
       return true;
     if (!(o instanceof Item))
       return false;
-    Users other = (Users) o;
+    User other = (User) o;
     return this.id.equals(other.id) && this.name.equals(other.name);
   }
 
