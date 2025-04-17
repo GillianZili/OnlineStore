@@ -29,7 +29,7 @@ public class CartController {
    *
    * @return
    */
-  @GetMapping("/carts")
+  @GetMapping("/cart")
   List<Cart> all() {
     return repository.findAll();
   }
@@ -39,7 +39,7 @@ public class CartController {
    *
    * @return
    */
-  @GetMapping("/carts/{user_id}")
+  @GetMapping("/cart/{user_id}")
   List<Cart> one(@PathVariable Long user_id) {
     List<Cart> carts = repository.findByUserId(user_id);
     if (carts.isEmpty()) {
@@ -54,7 +54,7 @@ public class CartController {
    * @param newItem_id the product to be added to the cart
    * @return
    */
-  @PostMapping("/carts/{user_id}/{item_id}/{amount}")
+  @PostMapping("/cart/{user_id}/{item_id}/{amount}")
   ResponseEntity<String> add(@PathVariable Long user_id, @PathVariable("item_id") String newItem_id,@PathVariable int amount) {
     try {
       service.updateItemInCart(user_id, newItem_id,amount);

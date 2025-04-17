@@ -1,5 +1,8 @@
 package OnlineStore.repository;
 
-public interface OrderRepository {
+import OnlineStore.model.Order;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface OrderRepository extends JpaRepository<Order, String> {
 
 }

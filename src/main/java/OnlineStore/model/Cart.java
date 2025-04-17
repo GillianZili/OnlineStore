@@ -13,19 +13,19 @@ import java.util.Objects;
 @Table(name = "Carts")
 public class Cart {
 
-  @Id
+  private @Id
   @GeneratedValue(strategy = GenerationType.IDENTITY) // generate key_id automatically by DB
-  private Long id;
+  Long id;
 
   @Column(name = "item_id")
-  String itemId;
+  private String itemId;
 
   @Column(name = "user_id")
-  Long userId;
+  private Long userId;
 
-  String item_name;
-  Integer amount;
-  double price;
+  private String item_name;
+  private Integer amount;
+  private double price;
 
   public Cart(){}
 

@@ -21,25 +21,29 @@ public class ItemController {
     this.repository = repository;
   }
 
-  @GetMapping("/items")
+  @GetMapping("/item")
   List<Item> all() {
     return repository.findAll();
   }
 
-  @PostMapping("/items")
+  @PostMapping("/item/new")
   Item newItem(@RequestBody Item newItem) {
     return repository.save(newItem);
   }
 
-  // Single item
-  @GetMapping("/items/{id}")
-  Item one(@PathVariable String id) {
-
+  @GetMapping("/item/id/{id}")
+  Item getItemById(@PathVariable String id) {
     return repository.findById(id)
         .orElseThrow(() -> new ItemNotFoundException(id));
   }
 
-  @PutMapping("/items/{id}")
+  @GetMapping("/item/search/{name}")
+  List<Item> getItemByName(@PathVariable String name) {
+    System.out.println("Search name = " + name);
+    return repository.findByNameContainingIgnoreCase(name);
+  }
+
+  @PutMapping("/item/update/{id}")
   Item replaceItem(@RequestBody Item newItem, @PathVariable String id) {
 
     return repository.findById(id)
