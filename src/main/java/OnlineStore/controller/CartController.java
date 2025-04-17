@@ -1,9 +1,8 @@
 package OnlineStore.controller;
 
+import OnlineStore.model.CartRequest;
 import OnlineStore.repository.CartRepository;
 import OnlineStore.service.CartService;
-import OnlineStore.exception.ItemNotFoundException;
-import OnlineStore.exception.UsersNotFoundException;
 import OnlineStore.model.Cart;
 import java.util.List;
 import org.springframework.http.HttpStatus;
@@ -11,6 +10,7 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
@@ -41,26 +41,19 @@ public class CartController {
    */
   @GetMapping("/cart/{user_id}")
   List<Cart> one(@PathVariable Long user_id) {
-    List<Cart> carts = repository.findByUserId(user_id);
-    if (carts.isEmpty()) {
-      throw new UsersNotFoundException(user_id);
-    }
-    return carts;
+    return repository.findByUserId(user_id);
   }
 
-  /**
-   * add product to one's cart
-   *
-   * @param newItem_id the product to be added to the cart
-   * @return
-   */
-  @PostMapping("/cart/{user_id}/{item_id}/{amount}")
-  ResponseEntity<String> add(@PathVariable Long user_id, @PathVariable("item_id") String newItem_id,@PathVariable int amount) {
+
+  @PostMapping("/cart/add")
+  ResponseEntity<String> add(@RequestBody CartRequest cartRequest) {
     try {
-      service.updateItemInCart(user_id, newItem_id,amount);
+      Cart updateCartItem = cartRequest.toCart();
+      service.updateItemInCart(updateCartItem.getUser_id(), updateCartItem.getItem_id(),
+          updateCartItem.getAmount());
       return ResponseEntity.ok("Item updated successfully.");
-    } catch (ItemNotFoundException e) {
-      return ResponseEntity.status(HttpStatus.NOT_FOUND).body(e.getMessage());
+    }catch (Exception e) {
+      return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).body("error: " + e.getMessage());
     }
   }
 }

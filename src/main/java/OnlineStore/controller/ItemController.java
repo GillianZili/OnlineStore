@@ -26,7 +26,7 @@ public class ItemController {
     return repository.findAll();
   }
 
-  @PostMapping("/item/new")
+  @PostMapping("/item/add")
   Item newItem(@RequestBody Item newItem) {
     return repository.save(newItem);
   }
