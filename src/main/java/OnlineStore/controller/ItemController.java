@@ -1,10 +1,10 @@
 package OnlineStore.controller;
 
-import OnlineStore.exception.ItemNotFoundException;
 import OnlineStore.repository.ItemRepository;
 import OnlineStore.model.Item;
 import java.util.List;
 
+import java.util.Optional;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
@@ -32,14 +32,12 @@ public class ItemController {
   }
 
   @GetMapping("/item/id/{id}")
-  Item getItemById(@PathVariable String id) {
-    return repository.findById(id)
-        .orElseThrow(() -> new ItemNotFoundException(id));
+  Optional<Item> getItemById(@PathVariable String id) {
+    return repository.findById(id);
   }
 
   @GetMapping("/item/search/{name}")
   List<Item> getItemByName(@PathVariable String name) {
-    System.out.println("Search name = " + name);
     return repository.findByNameContainingIgnoreCase(name);
   }
 

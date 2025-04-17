@@ -6,10 +6,12 @@ import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 import jakarta.persistence.Table;
+import java.time.LocalDateTime;
 import java.util.Objects;
+import org.hibernate.annotations.CreationTimestamp;
 
 @Entity
-@Table(name = "Order")
+@Table(name = "Orders")
 public class Order {
   @Id
   @GeneratedValue(strategy = GenerationType.IDENTITY) // generate key_id automatically by DB
@@ -24,14 +26,18 @@ public class Order {
   private double totalPrice;
   private int totalAmountOfItems;
 
+  @CreationTimestamp
+  @Column(name = "checkout_time", updatable = false)
+  private LocalDateTime checkoutTime;
+
   public Order(){}
 
-  public Order(Long id, Long userId, String userName, double totalPrice, int totalAmountOfItems) {
-    this.id = id;
+  public Order(Long userId, String userName, double totalPrice, int totalAmountOfItems) {
     this.userId = userId;
     this.userName = userName;
     this.totalPrice = totalPrice;
     this.totalAmountOfItems = totalAmountOfItems;
+    this.checkoutTime = LocalDateTime.now();
   }
 
   public Long getId() {
@@ -74,6 +80,14 @@ public class Order {
     this.userName = userName;
   }
 
+  public LocalDateTime getCheckoutTime() {
+    return checkoutTime;
+  }
+
+  public void setCheckoutTime(LocalDateTime checkoutTime) {
+    this.checkoutTime = checkoutTime;
+  }
+
   @Override
   public boolean equals(Object o) {
     if (o == null || getClass() != o.getClass()) {
@@ -99,6 +113,7 @@ public class Order {
         ", userName='" + userName + '\'' +
         ", totalPrice=" + totalPrice +
         ", totalAmountOfItems=" + totalAmountOfItems +
+        ", checkoutTime=" + checkoutTime +
         '}';
   }
 }

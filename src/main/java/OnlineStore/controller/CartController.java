@@ -4,6 +4,7 @@ import OnlineStore.model.CartRequest;
 import OnlineStore.repository.CartRepository;
 import OnlineStore.service.CartService;
 import OnlineStore.model.Cart;
+import java.util.Collections;
 import java.util.List;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -31,7 +32,11 @@ public class CartController {
    */
   @GetMapping("/cart")
   List<Cart> all() {
-    return repository.findAll();
+    List<Cart> carts = repository.findAll();
+    if (carts == null) {
+      return Collections.emptyList();
+    }
+    return carts;
   }
 
   /**
@@ -41,7 +46,11 @@ public class CartController {
    */
   @GetMapping("/cart/{user_id}")
   List<Cart> one(@PathVariable Long user_id) {
-    return repository.findByUserId(user_id);
+    List<Cart> carts = repository.findByUserId(user_id);;
+    if (carts == null) {
+      return Collections.emptyList();
+    }
+    return carts;
   }
 
 
