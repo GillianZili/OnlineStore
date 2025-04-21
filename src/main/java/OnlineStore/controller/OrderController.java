@@ -1,7 +1,6 @@
 package OnlineStore.controller;
 
 import OnlineStore.model.Cart;
-import OnlineStore.model.Item;
 import OnlineStore.model.Order;
 import OnlineStore.model.User;
 import OnlineStore.repository.CartRepository;
@@ -47,6 +46,7 @@ public class OrderController {
     return orderRepository.findByUserId(user_id);
   }
 
+  // delete cart
   @PostMapping("/checkout/{user_id}")
   ResponseEntity<String> checkOut(@PathVariable Long user_id) {
     try {
@@ -66,5 +66,4 @@ public class OrderController {
       return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).body("error: " + e.getMessage());
     }
   }
-
 }

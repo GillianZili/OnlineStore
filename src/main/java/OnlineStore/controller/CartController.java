@@ -54,7 +54,7 @@ public class CartController {
   }
 
 
-  @PostMapping("/cart/add")
+  @PostMapping("/cart/update")
   ResponseEntity<String> add(@RequestBody CartRequest cartRequest) {
     try {
       Cart updateCartItem = cartRequest.toCart();
