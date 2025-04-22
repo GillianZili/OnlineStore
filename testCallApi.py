@@ -68,6 +68,6 @@ def fetch_and_save_items(query, limit):
 
 
 if __name__ == "__main__":
-    categories = ['snacks', 'beverages', 'personal care', 'cleaning supplies', 'canned food', 'dry goods']
+    categories = ['snacks', 'beverages', 'dairy', 'cleaning supplies', 'seasoning', 'fruits']
     for categorie in categories:
         fetch_and_save_items(query=categorie, limit=200)

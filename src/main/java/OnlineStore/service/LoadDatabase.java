@@ -23,7 +23,10 @@ class LoadDatabase {
         "D:\\work_palace\\OnlineStore\\ebay_data\\ebay_items_cleaning supplies_200.json",
         "D:\\work_palace\\OnlineStore\\ebay_data\\ebay_items_dry goods_200.json",
         "D:\\work_palace\\OnlineStore\\ebay_data\\ebay_items_personal care_200.json",
-        "D:\\work_palace\\OnlineStore\\ebay_data\\ebay_items_snacks_200.json"
+        "D:\\work_palace\\OnlineStore\\ebay_data\\ebay_items_snacks_200.json",
+        "D:\\work_palace\\OnlineStore\\ebay_data\\ebay_items_dairy_200.json",
+        "D:\\work_palace\\OnlineStore\\ebay_data\\ebay_items_fruits_200.json",
+        "D:\\work_palace\\OnlineStore\\ebay_data\\ebay_items_seasoning_200.json"
     );
 
     return args -> {

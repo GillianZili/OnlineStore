@@ -18,11 +18,11 @@ import org.springframework.web.bind.annotation.RestController;
 public class CartController {
 
   private final CartRepository repository;
-  private final CartService service;
+  private final CartService cartService;
 
-  public CartController(CartRepository repository, CartService service) {
+  public CartController(CartRepository repository, CartService cartService) {
     this.repository = repository;
-    this.service = service;
+    this.cartService = cartService;
   }
 
   /**
@@ -55,14 +55,20 @@ public class CartController {
 
 
   @PostMapping("/cart/update")
-  ResponseEntity<String> add(@RequestBody CartRequest cartRequest) {
+  public ResponseEntity<String> addMultiple(@RequestBody List<CartRequest> cartRequests) {
     try {
-      Cart updateCartItem = cartRequest.toCart();
-      service.updateItemInCart(updateCartItem.getUser_id(), updateCartItem.getItem_id(),
-          updateCartItem.getAmount());
-      return ResponseEntity.ok("Item updated successfully.");
-    }catch (Exception e) {
-      return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).body("error: " + e.getMessage());
+      for (CartRequest request : cartRequests) {
+        Cart updateCartItem = request.toCart();
+        cartService.updateItemInCart(
+            updateCartItem.getUser_id(),
+            updateCartItem.getItem_id(),
+            updateCartItem.getAmount()
+        );
+      }
+      return ResponseEntity.ok("All items updated successfully.");
+    } catch (Exception e) {
+      return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR)
+          .body("error: " + e.getMessage());
     }
   }
 }

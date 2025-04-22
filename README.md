@@ -11,11 +11,18 @@
     "storage": xx
 }
 ```
-# @PostMapping("/cart/add")
+# @PostMapping("/cart/update")
 ```
-{
-    "amount": xx,
-    "user_id": xx,
-    "item_id": "xx"
-}
+[
+  {
+    "user_id": 4,
+    "item_id": "v1|134894087175|0",
+    "amount": 1
+  },
+  {
+    "user_id": 4,
+    "item_id": "v1|127066517020|0",
+    "amount": 2
+  }
+]
 ```

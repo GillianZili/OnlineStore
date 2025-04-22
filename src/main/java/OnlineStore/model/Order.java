@@ -1,5 +1,6 @@
 package OnlineStore.model;
 
+import com.fasterxml.jackson.annotation.JsonFormat;
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
@@ -28,6 +29,7 @@ public class Order {
 
   @CreationTimestamp
   @Column(name = "checkout_time", updatable = false)
+  @JsonFormat(pattern = "yyyy-MM-dd HH:mm:ss")
   private LocalDateTime checkoutTime;
 
   public Order(){}

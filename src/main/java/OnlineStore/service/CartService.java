@@ -30,23 +30,32 @@ public class CartService {
     this.usersRepo = usersRepo;
   }
 
+  /**
+   * Updates the quantity of a specific item in a user's shopping cart.
+   * <p>
+   * If the item is not yet in the cart, it will be added. If the updated quantity reaches zero,
+   * the item will be removed from the cart. Also updates the stock in the item repository accordingly.
+   *
+   * @param userId the ID of the user whose cart is being updated
+   * @param itemId the ID of the item to update
+   * @param amount the number of items to add (positive) or remove (negative) from the cart
+   * @throws UsersNotFoundException if the user ID does not exist
+   * @throws ItemNotFoundException if the item ID does not exist
+   * @throws IllegalArgumentException if the requested stock is insufficient or the removal exceeds what's in the cart
+   */
   public void updateItemInCart(Long userId, String itemId, int amount) {
-    //check itemId and userId if they are exists,
-    //check the storage of this item
     User user = usersRepo.findById(userId).orElseThrow(() -> new UsersNotFoundException(userId));
     Item item = itemRepo.findById(itemId).orElseThrow(() -> new ItemNotFoundException(itemId));
     if (amount>0 && item.getStorage() < amount) {
       throw new IllegalArgumentException("Not enough stock");
     }
-
     Optional<Cart> optionalCart = cartRepo.findByItemIdAndUserId(itemId,userId);
     if (amount<0 && (optionalCart.get().getAmount() < abs(amount) || optionalCart.isEmpty())) {
       throw new IllegalArgumentException("You didn't add that many to your cart.");
     }
 
 
-    // update items to the user's cart (cart table)
-    // if the item doesn't exist in the cart table, add a new one
+    // if the item doesn't exist in the cart table, create a new one
     // else just update the amount
     // if the amount of the item becomes 0, delete the line
     if (optionalCart.isEmpty()){
@@ -63,7 +72,7 @@ public class CartService {
       }
     }
 
-    //update the amount of this item from item table
+    //update the amount of this item in item table
     item.setStorage(item.getStorage() - amount);
     itemRepo.save(item);
   }

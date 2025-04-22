@@ -6,6 +6,8 @@ public class CartRequest {
   public String item_id;
   public int amount;
 
+  public CartRequest() {}
+
   public Cart toCart() {
     Cart cart = new Cart();
     cart.setUser_id(user_id);
