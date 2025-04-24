@@ -57,7 +57,7 @@ public class Item {
   @Override
   public String toString() {
     return "Item{" + "id=" + this.id + ", name='" + this.name + '\'' + ", price=" + this.price
-        + '\'' + this.storage + '\'' + '}';
+        + '\'' + ", storage=" + this.storage + '\'' + '}';
   }
 
   public String getId() {

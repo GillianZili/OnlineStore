@@ -66,7 +66,7 @@ public class Cart {
     if (this == o) {
       return true;
     }
-    if (!(o instanceof Item)) {
+    if (!(o instanceof Cart)) {
       return false;
     }
     Cart other = (Cart) o;

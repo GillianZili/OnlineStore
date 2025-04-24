@@ -34,7 +34,7 @@ public class User {
   public boolean equals(Object o) {
     if (this == o)
       return true;
-    if (!(o instanceof Item))
+    if (!(o instanceof User))
       return false;
     User other = (User) o;
     return this.id.equals(other.id) && this.name.equals(other.name);
