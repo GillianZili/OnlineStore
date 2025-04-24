@@ -38,8 +38,11 @@ spring.datasource.username=your_username
 spring.datasource.password=your_password
 spring.jpa.hibernate.ddl-auto=update
 ```
+### Step 3: Get your ebay API token
+Since the data of items is fetched from eBay, you have to get your ebay API for further work.\
+Please follow the official instruction: https://developer.ebay.com/develop/get-started
 
-### Step 3: launch the server
+### Step 4: launch the server
 To start the backend server, run the following command in your terminal:
 ```
 ./mvnw spring-boot:run
