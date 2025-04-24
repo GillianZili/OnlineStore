@@ -63,14 +63,14 @@ Please note that the backend, configured with Spring Boot, runs on port 8080 by 
 ```
 [
   {
-    "user_id": 4,
-    "item_id": "v1|134894087175|0",
-    "amount": 1
+    "user_id": xx,
+    "item_id": "xxxxx",
+    "amount": xx
   },
   {
-    "user_id": 4,
-    "item_id": "v1|127066517020|0",
-    "amount": 2
+    "user_id": xx,
+    "item_id": "xxxxx",
+    "amount": xx
   }
 ]
 ```
