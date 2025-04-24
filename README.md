@@ -25,10 +25,8 @@ Clone the backend project to your local machine:
 ```
 git clone <your-repository-url>
 cd <your-repository-directory>
-
-## The command line of launching MySQL:
-& "C:\Program Files\MySQL\MySQL Server 8.0\bin\mysql" -u root -p   
 ```
+
 
 ### Step 2: Configure the Application
 Make sure to configure your application.properties or application.yml file with your database credentials.
@@ -37,6 +35,10 @@ spring.datasource.url=jdbc:mysql://localhost:3306/your_database_name
 spring.datasource.username=your_username
 spring.datasource.password=your_password
 spring.jpa.hibernate.ddl-auto=update
+```
+The command line of launching MySQL:
+```
+& "C:\Program Files\MySQL\MySQL Server 8.0\bin\mysql" -u root -p
 ```
 ### Step 3: Get your ebay API token
 Since the data of items is fetched from eBay, you have to get your ebay API for further work.\
