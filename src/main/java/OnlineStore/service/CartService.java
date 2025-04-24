@@ -6,7 +6,7 @@ import OnlineStore.repository.CartRepository;
 import OnlineStore.exception.ItemNotFoundException;
 import OnlineStore.repository.ItemRepository;
 import OnlineStore.exception.UsersNotFoundException;
-import OnlineStore.repository.UsersRepository;
+import OnlineStore.repository.UserRepository;
 import OnlineStore.model.Cart;
 import OnlineStore.model.Item;
 import OnlineStore.model.User;
@@ -20,14 +20,21 @@ import org.springframework.stereotype.Service;
 @Service
 public class CartService {
 
-  UsersRepository usersRepo;
+  UserRepository userRepo;
   ItemRepository itemRepo;
   CartRepository cartRepo;
 
-  public CartService(ItemRepository itemRepo, CartRepository cartRepo, UsersRepository usersRepo) {
+  /**
+   * Construct a cart service with specified repositories for items, carts and users.
+   *
+   * @param itemRepo the repository used to access item data
+   * @param cartRepo the repository used to manage cart data
+   * @param userRepo the repository used to retrieve user information
+   */
+  public CartService(ItemRepository itemRepo, CartRepository cartRepo, UserRepository userRepo) {
     this.itemRepo = itemRepo;
     this.cartRepo = cartRepo;
-    this.usersRepo = usersRepo;
+    this.userRepo = userRepo;
   }
 
   /**
@@ -44,7 +51,7 @@ public class CartService {
    * @throws IllegalArgumentException if the requested stock is insufficient or the removal exceeds what's in the cart
    */
   public void updateItemInCart(Long userId, String itemId, int amount) {
-    User user = usersRepo.findById(userId).orElseThrow(() -> new UsersNotFoundException(userId));
+    User user = userRepo.findById(userId).orElseThrow(() -> new UsersNotFoundException(userId));
     Item item = itemRepo.findById(itemId).orElseThrow(() -> new ItemNotFoundException(itemId));
     if (amount>0 && item.getStorage() < amount) {
       throw new IllegalArgumentException("Not enough stock");

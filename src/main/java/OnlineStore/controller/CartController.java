@@ -14,25 +14,34 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
+/**
+ * REST controller that handles operations related to shopping carts.
+ */
 @RestController
 public class CartController {
 
-  private final CartRepository repository;
+  private final CartRepository cartRepo;
   private final CartService cartService;
 
-  public CartController(CartRepository repository, CartService cartService) {
-    this.repository = repository;
+  /**
+   * Construct a cart controller with the specified repository and service.
+   *
+   * @param cartRepo the repository used for accessing cart data
+   * @param cartService the service used to perform business logic on cart items
+   */
+  public CartController(CartRepository cartRepo, CartService cartService) {
+    this.cartRepo = cartRepo;
     this.cartService = cartService;
   }
 
   /**
-   * check all the information in cart table
+   * Check all the information in cart table.
    *
-   * @return
+   * @return a list of all cart objects, or an empty list if no cart is found
    */
   @GetMapping("/cart")
   List<Cart> all() {
-    List<Cart> carts = repository.findAll();
+    List<Cart> carts = cartRepo.findAll();
     if (carts == null) {
       return Collections.emptyList();
     }
@@ -40,13 +49,13 @@ public class CartController {
   }
 
   /**
-   * check the info of a specific user's cart
+   * Retrieve the cart items associated with a specific user.
    *
-   * @return
+   * @return a list of carts belong to a user, or an empty list if no cart belongs to the user
    */
   @GetMapping("/cart/{user_id}")
   List<Cart> one(@PathVariable Long user_id) {
-    List<Cart> carts = repository.findByUserId(user_id);;
+    List<Cart> carts = cartRepo.findByUserId(user_id);;
     if (carts == null) {
       return Collections.emptyList();
     }
@@ -54,8 +63,14 @@ public class CartController {
   }
 
 
+  /**
+   * Update multiple cart items at once.
+   *
+   * @param cartRequests a list of objects containing update information
+   * @return a {@link ResponseEntity} indicating the result of the update operation
+   */
   @PostMapping("/cart/update")
-  public ResponseEntity<String> addMultiple(@RequestBody List<CartRequest> cartRequests) {
+  public ResponseEntity<String> updateCart(@RequestBody List<CartRequest> cartRequests) {
     try {
       for (CartRequest request : cartRequests) {
         Cart updateCartItem = request.toCart();

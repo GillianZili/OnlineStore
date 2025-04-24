@@ -2,9 +2,14 @@ package OnlineStore.model;
 
 import jakarta.persistence.Table;
 import java.util.Objects;
-
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
+
+/**
+ * Represents a user in the online store.
+ * This class contains information about an item, such as its ID and name.
+ * It is mapped to the "Users" table in the database.
+ */
 
 @Entity
 @Table(name = "Users")

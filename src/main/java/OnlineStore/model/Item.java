@@ -6,6 +6,11 @@ import java.util.Objects;
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
 
+/**
+ * Represents an item in the online store.
+ * This class contains information about an item, such as its ID, name, price, and available storage.
+ * It is mapped to the "Items" table in the database.
+ */
 
 @Entity
 @Table(name = "Items")

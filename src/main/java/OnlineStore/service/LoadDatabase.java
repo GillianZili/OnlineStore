@@ -9,11 +9,24 @@ import org.springframework.boot.CommandLineRunner;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
+/**
+ * Inject data into MySQL when the backend server starts
+ */
 @Configuration
 class LoadDatabase {
 
   private static final Logger log = LoggerFactory.getLogger(LoadDatabase.class);
 
+  /**
+   * Initializes the database with items from multiple JSON files.
+   *
+   * This method is registered as a {@code CommandLineRunner} bean, which runs automatically
+   * after the application starts. It parses a list of JSON files containing eBay item data,
+   * creates {@link Item} objects, and saves them to the {@link ItemRepository}.
+   *
+   * @param emp_repo the {@link ItemRepository} used to persist items
+   * @return a {@link CommandLineRunner} that loads and saves item data from JSON files
+   */
   @Bean
   CommandLineRunner initDatabase(ItemRepository emp_repo) {
 

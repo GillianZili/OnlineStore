@@ -11,6 +11,13 @@ import java.time.LocalDateTime;
 import java.util.Objects;
 import org.hibernate.annotations.CreationTimestamp;
 
+
+/**
+ * Represents an order in the online store.
+ * This class contains information about an order, such as its ID, owner_name, owner_id, total price, amount and time.
+ * It is mapped to the "Orders" table in the database.
+ */
+
 @Entity
 @Table(name = "Orders")
 public class Order {

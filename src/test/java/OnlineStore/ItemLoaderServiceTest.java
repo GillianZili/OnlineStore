@@ -8,7 +8,9 @@ import java.io.IOException;
 import java.util.List;
 import org.junit.jupiter.api.Test;
 
-
+/**
+ * Unit tests for testing whether the json files can be parsed correctly or not
+ */
 public class ItemLoaderServiceTest {
 
   @Test
