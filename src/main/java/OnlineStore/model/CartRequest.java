@@ -9,17 +9,17 @@ public class CartRequest {
   /**
    * The ID of the user associated with this cart request.
    */
-  public Long user_id;
+  private Long user_id;
 
   /**
    * The ID of the item to be added or updated in the cart.
    */
-  public String item_id;
+  private String item_id;
 
   /**
    * The quantity of the item in the cart.
    */
-  public int amount;
+  private int amount;
 
   /**
    * Default constructor for serialization/deserialization.
